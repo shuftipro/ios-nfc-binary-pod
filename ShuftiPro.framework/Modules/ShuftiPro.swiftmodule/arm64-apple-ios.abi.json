@@ -54110,6 +54110,56 @@
           },
           {
             "kind": "Var",
+            "name": "isLandscape",
+            "printedName": "isLandscape",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9ShuftiPro9CameraVc2C11isLandscapeSbvp",
+            "mangledName": "$s9ShuftiPro9CameraVc2C11isLandscapeSbvp",
+            "moduleName": "ShuftiPro",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 51,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro9CameraVc2C11isLandscapeSbvg",
+                "mangledName": "$s9ShuftiPro9CameraVc2C11isLandscapeSbvg",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "faceMode",
             "printedName": "faceMode",
             "children": [
@@ -54130,7 +54180,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 51,
+            "fixedbinaryorder": 52,
             "hasStorage": true,
             "accessors": [
               {
@@ -54221,7 +54271,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 52,
+            "fixedbinaryorder": 53,
             "hasStorage": true,
             "accessors": [
               {
@@ -54312,7 +54362,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 53,
+            "fixedbinaryorder": 54,
             "hasStorage": true,
             "accessors": [
               {
@@ -54403,7 +54453,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 54,
+            "fixedbinaryorder": 55,
             "hasStorage": true,
             "accessors": [
               {
@@ -54494,7 +54544,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 55,
+            "fixedbinaryorder": 56,
             "hasStorage": true,
             "accessors": [
               {
@@ -54585,7 +54635,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 56,
+            "fixedbinaryorder": 57,
             "hasStorage": true,
             "accessors": [
               {
@@ -54676,7 +54726,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 57,
+            "fixedbinaryorder": 58,
             "hasStorage": true,
             "accessors": [
               {
@@ -54767,7 +54817,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 58,
+            "fixedbinaryorder": 59,
             "hasStorage": true,
             "accessors": [
               {
@@ -54858,7 +54908,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 59,
+            "fixedbinaryorder": 60,
             "hasStorage": true,
             "accessors": [
               {
@@ -54949,7 +54999,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 60,
+            "fixedbinaryorder": 61,
             "hasStorage": true,
             "accessors": [
               {
@@ -55040,7 +55090,7 @@
               "Final",
               "HasStorage"
             ],
-            "fixedbinaryorder": 61,
+            "fixedbinaryorder": 62,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -55070,6 +55120,97 @@
           },
           {
             "kind": "Var",
+            "name": "currentCapturedFrame",
+            "printedName": "currentCapturedFrame",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9ShuftiPro9CameraVc2C20currentCapturedFrameSo7UIImageCvp",
+            "mangledName": "$s9ShuftiPro9CameraVc2C20currentCapturedFrameSo7UIImageCvp",
+            "moduleName": "ShuftiPro",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 63,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro9CameraVc2C20currentCapturedFrameSo7UIImageCvg",
+                "mangledName": "$s9ShuftiPro9CameraVc2C20currentCapturedFrameSo7UIImageCvg",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro9CameraVc2C20currentCapturedFrameSo7UIImageCvs",
+                "mangledName": "$s9ShuftiPro9CameraVc2C20currentCapturedFrameSo7UIImageCvs",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro9CameraVc2C20currentCapturedFrameSo7UIImageCvM",
+                "mangledName": "$s9ShuftiPro9CameraVc2C20currentCapturedFrameSo7UIImageCvM",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "isErrorViewHidden",
             "printedName": "isErrorViewHidden",
             "children": [
@@ -55088,9 +55229,10 @@
             "declAttributes": [
               "Custom",
               "HasInitialValue",
-              "HasStorage"
+              "HasStorage",
+              "RawDocComment"
             ],
-            "fixedbinaryorder": 62,
+            "fixedbinaryorder": 64,
             "hasStorage": true,
             "accessors": [
               {
@@ -55181,7 +55323,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 63,
+            "fixedbinaryorder": 65,
             "hasStorage": true,
             "accessors": [
               {
@@ -55272,7 +55414,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 64,
+            "fixedbinaryorder": 66,
             "hasStorage": true,
             "accessors": [
               {
@@ -55363,7 +55505,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 65,
+            "fixedbinaryorder": 67,
             "hasStorage": true,
             "accessors": [
               {
@@ -55454,7 +55596,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 66,
+            "fixedbinaryorder": 68,
             "hasStorage": true,
             "accessors": [
               {
@@ -55545,7 +55687,7 @@
               "Final",
               "HasStorage"
             ],
-            "fixedbinaryorder": 67,
+            "fixedbinaryorder": 69,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -55595,7 +55737,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 68,
+            "fixedbinaryorder": 70,
             "hasStorage": true,
             "accessors": [
               {
@@ -55686,7 +55828,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 69,
+            "fixedbinaryorder": 71,
             "hasStorage": true,
             "accessors": [
               {
@@ -55777,7 +55919,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 70,
+            "fixedbinaryorder": 72,
             "hasStorage": true,
             "accessors": [
               {
@@ -55868,7 +56010,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 71,
+            "fixedbinaryorder": 73,
             "hasStorage": true,
             "accessors": [
               {
@@ -55960,7 +56102,7 @@
               "HasStorage",
               "RawDocComment"
             ],
-            "fixedbinaryorder": 72,
+            "fixedbinaryorder": 74,
             "hasStorage": true,
             "accessors": [
               {
@@ -56051,7 +56193,7 @@
               "Final",
               "HasStorage"
             ],
-            "fixedbinaryorder": 73,
+            "fixedbinaryorder": 75,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -56109,7 +56251,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 74,
+            "fixedbinaryorder": 76,
             "hasStorage": true,
             "accessors": [
               {
@@ -56224,7 +56366,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 75,
+            "fixedbinaryorder": 77,
             "hasStorage": true,
             "accessors": [
               {
@@ -56339,7 +56481,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 76,
+            "fixedbinaryorder": 78,
             "hasStorage": true,
             "accessors": [
               {
@@ -56454,7 +56596,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 77,
+            "fixedbinaryorder": 79,
             "hasStorage": true,
             "accessors": [
               {
@@ -56561,7 +56703,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 78,
+            "fixedbinaryorder": 80,
             "hasStorage": true,
             "accessors": [
               {
@@ -56652,7 +56794,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 79,
+            "fixedbinaryorder": 81,
             "hasStorage": true,
             "accessors": [
               {
@@ -56743,7 +56885,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 80,
+            "fixedbinaryorder": 82,
             "hasStorage": true,
             "accessors": [
               {
@@ -56834,7 +56976,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 81,
+            "fixedbinaryorder": 83,
             "hasStorage": true,
             "accessors": [
               {
@@ -56925,7 +57067,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 82,
+            "fixedbinaryorder": 84,
             "hasStorage": true,
             "accessors": [
               {
@@ -57016,7 +57158,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 83,
+            "fixedbinaryorder": 85,
             "hasStorage": true,
             "accessors": [
               {
@@ -57107,7 +57249,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 84,
+            "fixedbinaryorder": 86,
             "hasStorage": true,
             "accessors": [
               {
@@ -57207,7 +57349,7 @@
               "HasStorage",
               "RawDocComment"
             ],
-            "fixedbinaryorder": 85,
+            "fixedbinaryorder": 87,
             "hasStorage": true,
             "accessors": [
               {
@@ -57314,7 +57456,7 @@
               "Custom",
               "HasStorage"
             ],
-            "fixedbinaryorder": 86,
+            "fixedbinaryorder": 88,
             "hasStorage": true,
             "accessors": [
               {
@@ -57405,7 +57547,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 87,
+            "fixedbinaryorder": 89,
             "hasStorage": true,
             "accessors": [
               {
@@ -57594,7 +57736,7 @@
               "HasStorage",
               "Final"
             ],
-            "fixedbinaryorder": 88,
+            "fixedbinaryorder": 90,
             "hasStorage": true
           },
           {
@@ -57619,7 +57761,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 89,
+            "fixedbinaryorder": 91,
             "hasStorage": true,
             "accessors": [
               {
@@ -57710,7 +57852,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 90,
+            "fixedbinaryorder": 92,
             "hasStorage": true,
             "accessors": [
               {
@@ -57801,7 +57943,7 @@
               "Custom",
               "HasStorage"
             ],
-            "fixedbinaryorder": 91,
+            "fixedbinaryorder": 93,
             "hasStorage": true,
             "accessors": [
               {
@@ -57900,7 +58042,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 92,
+            "fixedbinaryorder": 94,
             "hasStorage": true,
             "accessors": [
               {
@@ -58007,7 +58149,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 93,
+            "fixedbinaryorder": 95,
             "hasStorage": true,
             "accessors": [
               {
@@ -58098,7 +58240,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 94,
+            "fixedbinaryorder": 96,
             "hasStorage": true,
             "accessors": [
               {
@@ -58217,6 +58359,38 @@
             "overriding": true,
             "isOpen": true,
             "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidAppear",
+            "printedName": "viewDidAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ShuftiPro@objc(cs)CameraVc2(im)viewDidAppear:",
+            "mangledName": "$s9ShuftiPro9CameraVc2C13viewDidAppearyySbF",
+            "moduleName": "ShuftiPro",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidAppear:",
             "declAttributes": [
               "Dynamic",
               "ObjC",
@@ -58503,6 +58677,61 @@
             "declAttributes": [
               "Custom",
               "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "touchesBegan",
+            "printedName": "touchesBegan(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Set",
+                "printedName": "Swift.Set<UIKit.UITouch>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UITouch",
+                    "printedName": "UIKit.UITouch",
+                    "usr": "c:objc(cs)UITouch"
+                  }
+                ],
+                "usr": "s:Sh"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIEvent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIEvent",
+                    "printedName": "UIKit.UIEvent",
+                    "usr": "c:objc(cs)UIEvent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ShuftiPro@objc(cs)CameraVc2(im)touchesBegan:withEvent:",
+            "mangledName": "$s9ShuftiPro9CameraVc2C12touchesBegan_4withyShySo7UITouchCG_So7UIEventCSgtF",
+            "moduleName": "ShuftiPro",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "touchesBegan:withEvent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override",
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -65712,6 +65941,136 @@
           },
           {
             "kind": "Var",
+            "name": "simulatorError",
+            "printedName": "simulatorError",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9ShuftiPro8ResultVcC14simulatorErrorSDySSypGvp",
+            "mangledName": "$s9ShuftiPro8ResultVcC14simulatorErrorSDySSypGvp",
+            "moduleName": "ShuftiPro",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 22,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro8ResultVcC14simulatorErrorSDySSypGvg",
+                "mangledName": "$s9ShuftiPro8ResultVcC14simulatorErrorSDySSypGvg",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro8ResultVcC14simulatorErrorSDySSypGvs",
+                "mangledName": "$s9ShuftiPro8ResultVcC14simulatorErrorSDySSypGvs",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro8ResultVcC14simulatorErrorSDySSypGvM",
+                "mangledName": "$s9ShuftiPro8ResultVcC14simulatorErrorSDySSypGvM",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "completionHandler",
             "printedName": "completionHandler",
             "children": [
@@ -65751,7 +66110,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 22,
+            "fixedbinaryorder": 23,
             "hasStorage": true,
             "accessors": [
               {
@@ -65880,7 +66239,7 @@
               "HasStorage",
               "ReferenceOwnership"
             ],
-            "fixedbinaryorder": 23,
+            "fixedbinaryorder": 24,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -66086,7 +66445,7 @@
               "HasStorage",
               "Final"
             ],
-            "fixedbinaryorder": 24,
+            "fixedbinaryorder": 25,
             "hasStorage": true
           },
           {
@@ -66113,7 +66472,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 25,
+            "fixedbinaryorder": 26,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -66229,7 +66588,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 26,
+            "fixedbinaryorder": 27,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -66345,7 +66704,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 27,
+            "fixedbinaryorder": 28,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -66461,7 +66820,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 28,
+            "fixedbinaryorder": 29,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -66577,7 +66936,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 29,
+            "fixedbinaryorder": 30,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -66693,7 +67052,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 30,
+            "fixedbinaryorder": 31,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -66809,7 +67168,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 31,
+            "fixedbinaryorder": 32,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -66925,7 +67284,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 32,
+            "fixedbinaryorder": 33,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67041,7 +67400,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 33,
+            "fixedbinaryorder": 34,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67157,7 +67516,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 34,
+            "fixedbinaryorder": 35,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67273,7 +67632,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 35,
+            "fixedbinaryorder": 36,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67389,7 +67748,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 36,
+            "fixedbinaryorder": 37,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67505,7 +67864,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 37,
+            "fixedbinaryorder": 38,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67621,7 +67980,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 38,
+            "fixedbinaryorder": 39,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67737,7 +68096,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 39,
+            "fixedbinaryorder": 40,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67853,7 +68212,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 40,
+            "fixedbinaryorder": 41,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -67969,7 +68328,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 41,
+            "fixedbinaryorder": 42,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -68085,7 +68444,7 @@
               "IBOutlet",
               "ObjC"
             ],
-            "fixedbinaryorder": 42,
+            "fixedbinaryorder": 43,
             "ownership": 1,
             "hasStorage": true,
             "accessors": [
@@ -68207,7 +68566,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 43,
+            "fixedbinaryorder": 44,
             "hasStorage": true,
             "accessors": [
               {
@@ -68322,7 +68681,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 44,
+            "fixedbinaryorder": 45,
             "hasStorage": true,
             "accessors": [
               {
@@ -104808,7 +105167,7 @@
       "kind": "StringLiteral",
       "offset": 2653,
       "length": 7,
-      "value": "\"3.4.1\""
+      "value": "\"3.4.4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/PreviewScreen\/ConfirmPhotoVc.swift",
@@ -105583,245 +105942,245 @@
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 2586,
+      "offset": 2609,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 2618,
+      "offset": 2641,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "IntegerLiteral",
-      "offset": 2713,
+      "offset": 2736,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "IntegerLiteral",
-      "offset": 2761,
+      "offset": 2784,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 2889,
+      "offset": 3011,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 2918,
+      "offset": 3040,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 2951,
+      "offset": 3073,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 2983,
+      "offset": 3105,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3019,
+      "offset": 3141,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3048,
+      "offset": 3174,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3080,
+      "offset": 3206,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3108,
+      "offset": 3234,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3136,
+      "offset": 3262,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3171,
+      "offset": 3297,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "IntegerLiteral",
-      "offset": 3204,
+      "offset": 3330,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3240,
+      "offset": 3425,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 3442,
+      "offset": 3635,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3507,
+      "offset": 3700,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3537,
+      "offset": 3730,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3566,
+      "offset": 3759,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3602,
+      "offset": 3795,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "IntegerLiteral",
-      "offset": 3865,
+      "offset": 4058,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "IntegerLiteral",
-      "offset": 4153,
+      "offset": 4346,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "FloatLiteral",
-      "offset": 4177,
+      "offset": 4370,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 4216,
+      "offset": 4409,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 4252,
+      "offset": 4445,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 4294,
+      "offset": 4487,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 4327,
+      "offset": 4520,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 4737,
+      "offset": 4926,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 4905,
+      "offset": 5094,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 4935,
+      "offset": 5124,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 5023,
+      "offset": 5216,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 4969,
+      "offset": 5162,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 5686,
+      "offset": 5879,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 5721,
+      "offset": 5914,
       "length": 4,
       "value": "true"
     },
@@ -105939,1527 +106298,1527 @@
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
-      "kind": "IntegerLiteral",
+      "kind": "FloatLiteral",
       "offset": 29169,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
-      "kind": "FloatLiteral",
-      "offset": 29179,
-      "length": 10,
-      "value": "0.71270293"
-    },
-    {
-      "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
-      "kind": "FloatLiteral",
-      "offset": 29197,
       "length": 12,
-      "value": "0.4800387025"
+      "value": "0.1568627451"
+    },
+    {
+      "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
+      "kind": "FloatLiteral",
+      "offset": 29190,
+      "length": 12,
+      "value": "0.6549019608"
+    },
+    {
+      "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
+      "kind": "FloatLiteral",
+      "offset": 29210,
+      "length": 12,
+      "value": "0.2705882353"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 29218,
+      "offset": 29231,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 29264,
+      "offset": 29277,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 29274,
+      "offset": 29287,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 29283,
+      "offset": 29296,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29293,
+      "offset": 29306,
       "length": 12,
       "value": "0.8462514309"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29354,
+      "offset": 29367,
       "length": 11,
       "value": "0.937254902"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29374,
+      "offset": 29387,
       "length": 12,
       "value": "0.9450980392"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29394,
+      "offset": 29407,
       "length": 12,
       "value": "0.9647058824"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29415,
+      "offset": 29428,
       "length": 12,
       "value": "0.8462514309"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29477,
+      "offset": 29490,
       "length": 12,
       "value": "0.5450980392"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29498,
+      "offset": 29511,
       "length": 12,
       "value": "0.7647058824"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29518,
+      "offset": 29531,
       "length": 12,
       "value": "0.2901960784"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 29539,
+      "offset": 29552,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 29583,
+      "offset": 29596,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29593,
+      "offset": 29606,
       "length": 12,
       "value": "0.2705882353"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29613,
+      "offset": 29626,
       "length": 12,
       "value": "0.2274509804"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 29634,
+      "offset": 29647,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29685,
+      "offset": 29698,
       "length": 12,
       "value": "0.9411764706"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29706,
+      "offset": 29719,
       "length": 12,
       "value": "0.9411764706"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29726,
+      "offset": 29739,
       "length": 12,
       "value": "0.9411764706"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 29747,
+      "offset": 29760,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29798,
+      "offset": 29811,
       "length": 12,
       "value": "0.7176470588"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29819,
+      "offset": 29832,
       "length": 12,
       "value": "0.7176470588"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29839,
+      "offset": 29852,
       "length": 12,
       "value": "0.7176470588"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 29860,
+      "offset": 29873,
       "length": 12,
       "value": "0.3966004833"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "BooleanLiteral",
-      "offset": 33845,
+      "offset": 33858,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 44251,
+      "offset": 44264,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 44298,
+      "offset": 44311,
       "length": 18,
       "value": "\"Vision Detectors\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 44357,
+      "offset": 44370,
       "length": 19,
       "value": "\"Select a detector\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 44416,
+      "offset": 44429,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 44468,
+      "offset": 44481,
       "length": 54,
       "value": "\"com.google.mlkit.visiondetector.VideoDataOutputQueue\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 44558,
+      "offset": 44571,
       "length": 46,
       "value": "\"com.google.mlkit.visiondetector.SessionQueue\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 44639,
+      "offset": 44652,
       "length": 12,
       "value": "\"No Results\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 44757,
+      "offset": 44770,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 44803,
+      "offset": 44816,
       "length": 3,
       "value": "4.0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 44843,
+      "offset": 44856,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 44887,
+      "offset": 44900,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 44925,
+      "offset": 44938,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 44975,
+      "offset": 44988,
       "length": 5,
       "value": "200.0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 45016,
+      "offset": 45029,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 45058,
+      "offset": 45071,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 45102,
+      "offset": 45115,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 45150,
+      "offset": 45163,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "FloatLiteral",
-      "offset": 45199,
+      "offset": 45212,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 51810,
+      "offset": 51823,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 51902,
+      "offset": 51915,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52188,
+      "offset": 52201,
       "length": 9,
       "value": "\"iPod5,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52238,
+      "offset": 52251,
       "length": 29,
       "value": "\"iPod touch (5th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52285,
+      "offset": 52298,
       "length": 9,
       "value": "\"iPod7,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52335,
+      "offset": 52348,
       "length": 29,
       "value": "\"iPod touch (6th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52382,
+      "offset": 52395,
       "length": 9,
       "value": "\"iPod9,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52432,
+      "offset": 52445,
       "length": 29,
       "value": "\"iPod touch (7th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52479,
+      "offset": 52492,
       "length": 11,
       "value": "\"iPhone3,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52492,
+      "offset": 52505,
       "length": 11,
       "value": "\"iPhone3,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52505,
+      "offset": 52518,
       "length": 11,
       "value": "\"iPhone3,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52529,
+      "offset": 52542,
       "length": 10,
       "value": "\"iPhone 4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52557,
+      "offset": 52570,
       "length": 11,
       "value": "\"iPhone4,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52607,
+      "offset": 52620,
       "length": 11,
       "value": "\"iPhone 4s\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52636,
+      "offset": 52649,
       "length": 11,
       "value": "\"iPhone5,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52649,
+      "offset": 52662,
       "length": 11,
       "value": "\"iPhone5,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52686,
+      "offset": 52699,
       "length": 10,
       "value": "\"iPhone 5\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52714,
+      "offset": 52727,
       "length": 11,
       "value": "\"iPhone5,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52727,
+      "offset": 52740,
       "length": 11,
       "value": "\"iPhone5,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52764,
+      "offset": 52777,
       "length": 11,
       "value": "\"iPhone 5c\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52793,
+      "offset": 52806,
       "length": 11,
       "value": "\"iPhone6,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52806,
+      "offset": 52819,
       "length": 11,
       "value": "\"iPhone6,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52843,
+      "offset": 52856,
       "length": 11,
       "value": "\"iPhone 5s\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52872,
+      "offset": 52885,
       "length": 11,
       "value": "\"iPhone7,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52922,
+      "offset": 52935,
       "length": 10,
       "value": "\"iPhone 6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 52950,
+      "offset": 52963,
       "length": 11,
       "value": "\"iPhone7,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53000,
+      "offset": 53013,
       "length": 15,
       "value": "\"iPhone 6 Plus\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53033,
+      "offset": 53046,
       "length": 11,
       "value": "\"iPhone8,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53083,
+      "offset": 53096,
       "length": 11,
       "value": "\"iPhone 6s\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53112,
+      "offset": 53125,
       "length": 11,
       "value": "\"iPhone8,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53162,
+      "offset": 53175,
       "length": 16,
       "value": "\"iPhone 6s Plus\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53196,
+      "offset": 53209,
       "length": 11,
       "value": "\"iPhone8,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53246,
+      "offset": 53259,
       "length": 11,
       "value": "\"iPhone SE\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53275,
+      "offset": 53288,
       "length": 11,
       "value": "\"iPhone9,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53288,
+      "offset": 53301,
       "length": 11,
       "value": "\"iPhone9,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53325,
+      "offset": 53338,
       "length": 10,
       "value": "\"iPhone 7\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53353,
+      "offset": 53366,
       "length": 11,
       "value": "\"iPhone9,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53366,
+      "offset": 53379,
       "length": 11,
       "value": "\"iPhone9,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53403,
+      "offset": 53416,
       "length": 15,
       "value": "\"iPhone 7 Plus\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53436,
+      "offset": 53449,
       "length": 12,
       "value": "\"iPhone10,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53450,
+      "offset": 53463,
       "length": 12,
       "value": "\"iPhone10,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53486,
+      "offset": 53499,
       "length": 10,
       "value": "\"iPhone 8\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53514,
+      "offset": 53527,
       "length": 12,
       "value": "\"iPhone10,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53528,
+      "offset": 53541,
       "length": 12,
       "value": "\"iPhone10,5\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53564,
+      "offset": 53577,
       "length": 15,
       "value": "\"iPhone 8 Plus\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53597,
+      "offset": 53610,
       "length": 12,
       "value": "\"iPhone10,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53611,
+      "offset": 53624,
       "length": 12,
       "value": "\"iPhone10,6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53647,
+      "offset": 53660,
       "length": 10,
       "value": "\"iPhone X\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53675,
+      "offset": 53688,
       "length": 12,
       "value": "\"iPhone11,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53725,
+      "offset": 53738,
       "length": 11,
       "value": "\"iPhone XS\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53754,
+      "offset": 53767,
       "length": 12,
       "value": "\"iPhone11,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53768,
+      "offset": 53781,
       "length": 12,
       "value": "\"iPhone11,6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53804,
+      "offset": 53817,
       "length": 15,
       "value": "\"iPhone XS Max\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53837,
+      "offset": 53850,
       "length": 12,
       "value": "\"iPhone11,8\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53887,
+      "offset": 53900,
       "length": 11,
       "value": "\"iPhone XR\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53916,
+      "offset": 53929,
       "length": 12,
       "value": "\"iPhone12,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53966,
+      "offset": 53979,
       "length": 11,
       "value": "\"iPhone 11\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 53995,
+      "offset": 54008,
       "length": 12,
       "value": "\"iPhone12,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54045,
+      "offset": 54058,
       "length": 15,
       "value": "\"iPhone 11 Pro\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54078,
+      "offset": 54091,
       "length": 12,
       "value": "\"iPhone12,5\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54128,
+      "offset": 54141,
       "length": 19,
       "value": "\"iPhone 11 Pro Max\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54165,
+      "offset": 54178,
       "length": 12,
       "value": "\"iPhone12,8\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54215,
+      "offset": 54228,
       "length": 28,
       "value": "\"iPhone SE (2nd generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54261,
+      "offset": 54274,
       "length": 12,
       "value": "\"iPhone13,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54311,
+      "offset": 54324,
       "length": 16,
       "value": "\"iPhone 12 mini\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54345,
+      "offset": 54358,
       "length": 12,
       "value": "\"iPhone13,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54395,
+      "offset": 54408,
       "length": 11,
       "value": "\"iPhone 12\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54424,
+      "offset": 54437,
       "length": 12,
       "value": "\"iPhone13,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54474,
+      "offset": 54487,
       "length": 15,
       "value": "\"iPhone 12 Pro\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54507,
+      "offset": 54520,
       "length": 12,
       "value": "\"iPhone13,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54557,
+      "offset": 54570,
       "length": 19,
       "value": "\"iPhone 12 Pro Max\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54594,
+      "offset": 54607,
       "length": 9,
       "value": "\"iPad2,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54605,
+      "offset": 54618,
       "length": 9,
       "value": "\"iPad2,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54616,
+      "offset": 54629,
       "length": 9,
       "value": "\"iPad2,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54627,
+      "offset": 54640,
       "length": 9,
       "value": "\"iPad2,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54644,
+      "offset": 54657,
       "length": 8,
       "value": "\"iPad 2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54670,
+      "offset": 54683,
       "length": 9,
       "value": "\"iPad3,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54681,
+      "offset": 54694,
       "length": 9,
       "value": "\"iPad3,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54692,
+      "offset": 54705,
       "length": 9,
       "value": "\"iPad3,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54720,
+      "offset": 54733,
       "length": 23,
       "value": "\"iPad (3rd generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54761,
+      "offset": 54774,
       "length": 9,
       "value": "\"iPad3,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54772,
+      "offset": 54785,
       "length": 9,
       "value": "\"iPad3,5\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54783,
+      "offset": 54796,
       "length": 9,
       "value": "\"iPad3,6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54811,
+      "offset": 54824,
       "length": 23,
       "value": "\"iPad (4th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54852,
+      "offset": 54865,
       "length": 10,
       "value": "\"iPad6,11\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54864,
+      "offset": 54877,
       "length": 10,
       "value": "\"iPad6,12\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54902,
+      "offset": 54915,
       "length": 23,
       "value": "\"iPad (5th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54943,
+      "offset": 54956,
       "length": 9,
       "value": "\"iPad7,5\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54954,
+      "offset": 54967,
       "length": 9,
       "value": "\"iPad7,6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 54993,
+      "offset": 55006,
       "length": 23,
       "value": "\"iPad (6th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55034,
+      "offset": 55047,
       "length": 10,
       "value": "\"iPad7,11\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55046,
+      "offset": 55059,
       "length": 10,
       "value": "\"iPad7,12\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55084,
+      "offset": 55097,
       "length": 23,
       "value": "\"iPad (7th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55125,
+      "offset": 55138,
       "length": 10,
       "value": "\"iPad11,6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55137,
+      "offset": 55150,
       "length": 10,
       "value": "\"iPad11,7\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55175,
+      "offset": 55188,
       "length": 23,
       "value": "\"iPad (8th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55216,
+      "offset": 55229,
       "length": 9,
       "value": "\"iPad4,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55227,
+      "offset": 55240,
       "length": 9,
       "value": "\"iPad4,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55238,
+      "offset": 55251,
       "length": 9,
       "value": "\"iPad4,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55266,
+      "offset": 55279,
       "length": 10,
       "value": "\"iPad Air\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55294,
+      "offset": 55307,
       "length": 9,
       "value": "\"iPad5,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55305,
+      "offset": 55318,
       "length": 9,
       "value": "\"iPad5,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55344,
+      "offset": 55357,
       "length": 12,
       "value": "\"iPad Air 2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55374,
+      "offset": 55387,
       "length": 10,
       "value": "\"iPad11,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55386,
+      "offset": 55399,
       "length": 10,
       "value": "\"iPad11,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55424,
+      "offset": 55437,
       "length": 27,
       "value": "\"iPad Air (3rd generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55469,
+      "offset": 55482,
       "length": 10,
       "value": "\"iPad13,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55481,
+      "offset": 55494,
       "length": 10,
       "value": "\"iPad13,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55519,
+      "offset": 55532,
       "length": 27,
       "value": "\"iPad Air (4th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55564,
+      "offset": 55577,
       "length": 9,
       "value": "\"iPad2,5\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55575,
+      "offset": 55588,
       "length": 9,
       "value": "\"iPad2,6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55586,
+      "offset": 55599,
       "length": 9,
       "value": "\"iPad2,7\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55614,
+      "offset": 55627,
       "length": 11,
       "value": "\"iPad mini\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55643,
+      "offset": 55656,
       "length": 9,
       "value": "\"iPad4,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55654,
+      "offset": 55667,
       "length": 9,
       "value": "\"iPad4,5\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55665,
+      "offset": 55678,
       "length": 9,
       "value": "\"iPad4,6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55693,
+      "offset": 55706,
       "length": 13,
       "value": "\"iPad mini 2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55724,
+      "offset": 55737,
       "length": 9,
       "value": "\"iPad4,7\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55735,
+      "offset": 55748,
       "length": 9,
       "value": "\"iPad4,8\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55746,
+      "offset": 55759,
       "length": 9,
       "value": "\"iPad4,9\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55774,
+      "offset": 55787,
       "length": 13,
       "value": "\"iPad mini 3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55805,
+      "offset": 55818,
       "length": 9,
       "value": "\"iPad5,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55816,
+      "offset": 55829,
       "length": 9,
       "value": "\"iPad5,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55855,
+      "offset": 55868,
       "length": 13,
       "value": "\"iPad mini 4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55886,
+      "offset": 55899,
       "length": 10,
       "value": "\"iPad11,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55898,
+      "offset": 55911,
       "length": 10,
       "value": "\"iPad11,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55936,
+      "offset": 55949,
       "length": 28,
       "value": "\"iPad mini (5th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55982,
+      "offset": 55995,
       "length": 9,
       "value": "\"iPad6,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 55993,
+      "offset": 56006,
       "length": 9,
       "value": "\"iPad6,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56032,
+      "offset": 56045,
       "length": 21,
       "value": "\"iPad Pro (9.7-inch)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56071,
+      "offset": 56084,
       "length": 9,
       "value": "\"iPad7,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56082,
+      "offset": 56095,
       "length": 9,
       "value": "\"iPad7,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56121,
+      "offset": 56134,
       "length": 22,
       "value": "\"iPad Pro (10.5-inch)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56161,
+      "offset": 56174,
       "length": 9,
       "value": "\"iPad8,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56172,
+      "offset": 56185,
       "length": 9,
       "value": "\"iPad8,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56183,
+      "offset": 56196,
       "length": 9,
       "value": "\"iPad8,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56194,
+      "offset": 56207,
       "length": 9,
       "value": "\"iPad8,4\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56211,
+      "offset": 56224,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (1st generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56266,
+      "offset": 56279,
       "length": 9,
       "value": "\"iPad8,9\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56277,
+      "offset": 56290,
       "length": 10,
       "value": "\"iPad8,10\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56316,
+      "offset": 56329,
       "length": 37,
       "value": "\"iPad Pro (11-inch) (2nd generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56371,
+      "offset": 56384,
       "length": 9,
       "value": "\"iPad6,7\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56382,
+      "offset": 56395,
       "length": 9,
       "value": "\"iPad6,8\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56421,
+      "offset": 56434,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (1st generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56478,
+      "offset": 56491,
       "length": 9,
       "value": "\"iPad7,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56489,
+      "offset": 56502,
       "length": 9,
       "value": "\"iPad7,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56528,
+      "offset": 56541,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56585,
+      "offset": 56598,
       "length": 9,
       "value": "\"iPad8,5\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56596,
+      "offset": 56609,
       "length": 9,
       "value": "\"iPad8,6\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56607,
+      "offset": 56620,
       "length": 9,
       "value": "\"iPad8,7\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56618,
+      "offset": 56631,
       "length": 9,
       "value": "\"iPad8,8\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56635,
+      "offset": 56648,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56692,
+      "offset": 56705,
       "length": 10,
       "value": "\"iPad8,11\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56704,
+      "offset": 56717,
       "length": 10,
       "value": "\"iPad8,12\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56742,
+      "offset": 56755,
       "length": 39,
       "value": "\"iPad Pro (12.9-inch) (4th generation)\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56799,
+      "offset": 56812,
       "length": 12,
       "value": "\"AppleTV5,3\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56849,
+      "offset": 56862,
       "length": 10,
       "value": "\"Apple TV\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56877,
+      "offset": 56890,
       "length": 12,
       "value": "\"AppleTV6,2\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56927,
+      "offset": 56940,
       "length": 13,
       "value": "\"Apple TV 4K\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 56958,
+      "offset": 56971,
       "length": 19,
       "value": "\"AudioAccessory1,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57008,
+      "offset": 57021,
       "length": 9,
       "value": "\"HomePod\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57035,
+      "offset": 57048,
       "length": 19,
       "value": "\"AudioAccessory5,1\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57085,
+      "offset": 57098,
       "length": 14,
       "value": "\"HomePod mini\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57117,
+      "offset": 57130,
       "length": 6,
       "value": "\"i386\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57125,
+      "offset": 57138,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57167,
+      "offset": 57180,
       "length": 104,
       "value": "\"Simulator \""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57230,
+      "offset": 57243,
       "length": 28,
       "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57263,
+      "offset": 57276,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "StringLiteral",
-      "offset": 57270,
+      "offset": 57283,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 59868,
+      "offset": 59881,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/Exteniosns\/Exteniosns.swift",
       "kind": "IntegerLiteral",
-      "offset": 60137,
+      "offset": 60150,
       "length": 1,
       "value": "2"
     },
@@ -107592,21 +107951,21 @@
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/ResultVc\/ResultVc.swift",
       "kind": "StringLiteral",
-      "offset": 1358,
+      "offset": 1404,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/ResultVc\/ResultVc.swift",
       "kind": "StringLiteral",
-      "offset": 1410,
+      "offset": 1456,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/ResultVc\/ResultVc.swift",
       "kind": "StringLiteral",
-      "offset": 1421,
+      "offset": 1467,
       "length": 2,
       "value": "\"\""
     },
@@ -108271,7 +108630,7 @@
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/optimised_sdk\/ios-sdk\/ShuftiPro\/ConsentScreen\/DeclarationOfConsentVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 36457,
+      "offset": 36823,
       "length": 5,
       "value": "false"
     },
