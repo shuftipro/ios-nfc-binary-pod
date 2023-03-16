@@ -1,1228 +1,1260 @@
 [
   {
-    "name": "Afghanistan",
-    "iso_code": "AF",
-    "nationality": "Afghanistani"
-  },
-  {
-    "name": "Brunei",
-    "iso_code": "BN",
-    "nationality": "Bruneian"
-  },
-  {
-    "name": "Cayman Islands",
-    "iso_code": "KY",
-    "nationality": "Caymanian"
-    
-  },
-  {
-    "name": "Central African Republic",
-    "iso_code": "CF",
-    "nationality": "Central African"
-  },
-  {
-    "name": "Western Sahara",
-    "iso_code": "EH",
-    "nationality": "Sahrawis"
-  },
-  {
-    "name": "Chad",
-    "iso_code": "TD",
-    "nationality": "Chadian"
-  },
-  {
-    "name": "Chile",
-    "iso_code": "CL",
-    "nationality": "Chilean"
-  },
-  {
-    "name": "China",
-    "iso_code": "CN",
-    "nationality": "Chinese"
-  },
-  {
-    "name": "Christmas Island",
-    "iso_code": "CX",
-    "nationality": "Christmas Islander"
-  },
-  {
-    "name": "Cocos (Keeling) Islands",
-    "iso_code": "CC",
-    "nationality": "Cocos (Keeling) Islanders"
-  },
-  {
-    "name": "Colombia",
-    "iso_code": "CO",
-    "nationality": "Colombian"
-  },
-  {
-    "name": "Comoros",
-    "iso_code": "KM",
-    "nationality": "Comorian"
-  },
-  {
-    "name": "Congo, Republic",
-    "iso_code": "CG",
-    "nationality": "Congolese"
-  },
-  {
-    "name": "Cook Islands",
-    "iso_code": "CK",
-    "nationality": "Cook Islanders"
-  },
-  {
-    "name": "Costa Rica",
-    "iso_code": "CR",
-    "nationality": "Costa Rican"
-  },
-  {
-    "name": "Ivory Coast",
-    "iso_code": "CI",
-    "nationality": "Ivorian"
-  },
-  {
-    "name": "Croatia",
-    "iso_code": "HR",
-    "nationality": "Croatian"
-  },
-  {
-    "name": "Cuba",
-    "iso_code": "CU",
-    "nationality": "Cuban"
-  },
-  {
-    "name": "Cyprus",
-    "iso_code": "CY",
-    "nationality": "Cyprian"
-  },
-  {
-    "name": "Czech Republic",
-    "iso_code": "CZ",
-    "nationality": "Czechs"
-  },
-  {
-    "name": "Denmark",
-    "iso_code": "DK",
-    "nationality": "Danes"
-  },
-  {
-    "name": "Djibouti",
-    "iso_code": "DJ",
-    "nationality": "Djiboutians"
-  },
-  {
-    "name": "Dominica",
-    "iso_code": "DM",
-    "nationality": "Dominican"
-  },
-  {
-    "name": "Dominican Republic",
-    "iso_code": "DO",
-    "nationality": "Dominican"
-  },
-  {
-    "name": "Ecuador",
-    "iso_code": "EC",
-    "nationality": "Ecuadorian"
-  },
-  {
-    "name": "Egypt",
-    "iso_code": "EG",
-    "nationality": "Egyptian"
-  },
-  {
-    "name": "El Salvador",
-    "iso_code": "SV",
-    "nationality": "Salvadoran"
-  },
-  {
-    "name": "Equatorial Guinea",
-    "iso_code": "GQ",
-    "nationality": "Equatoguinean"
-  },
-  {
-    "name": "Eritrea",
-    "iso_code": "ER",
-    "nationality": "Eritrean"
-  },
-  {
-    "name": "Estonia",
-    "iso_code": "EE",
-    "nationality": "Estonian"
-  },
-  {
-    "name": "Ethiopia",
-    "iso_code": "ET",
-    "nationality": "Ethiopian"
-  },
-  {
-    "name": "Falkland Islands",
-    "iso_code": "FK",
-    "nationality": "Falkland Islander"
-  },
-  {
-    "name": "Faroe Islands",
-    "iso_code": "FO",
-    "nationality": "Faroese"
-  },
-  {
-    "name": "Fiji",
-    "iso_code": "FJ",
-    "nationality": "Fijian"
-  },
-  {
-    "name": "Finland",
-    "iso_code": "FI",
-    "nationality": "Finnish"
-  },
-  {
-    "name": "France",
-    "iso_code": "FR",
-    "nationality": "French"
-  },
-  {
-    "name": "French Guiana",
-    "iso_code": "GF",
-    "nationality": "French Guianese"
-  },
-  {
-    "name": "French Polynesia",
-    "iso_code": "PF",
-    "nationality": "French Polynesian"
-  },
-  {
-    "name": "French Southern Territories",
-    "iso_code": "TF",
-    "nationality": "French Southern Territories"
-  },
-  {
-    "name": "Gabon",
-    "iso_code": "GA",
-    "nationality": "Gabonese"
-  },
-  {
-    "name": "Gambia",
-    "iso_code": "GM",
-    "nationality": "Gambian"
-  },
-  {
-    "name": "Georgia",
-    "iso_code": "GE",
-    "nationality": "Georgian"
-  },
-  {
-    "name": "Germany",
-    "iso_code": "DE",
-    "nationality": "German"
-  },
-  {
-    "name": "Ghana",
-    "iso_code": "GH",
-    "nationality": "Ghanaian"
-  },
-  {
-    "name": "Gibraltar",
-    "iso_code": "GI",
-    "nationality": "Gibraltarian"
-  },
-  {
-    "name": "Greece",
-    "iso_code": "GR",
-    "nationality": "Greek"
-  },
-  {
-    "name": "Greenland",
-    "iso_code": "GL",
-    "nationality": "Greenlander"
-  },
-  {
-    "name": "Grenada",
-    "iso_code": "GD",
-    "nationality": "Grenadian"
-  },
-  {
-    "name": "Guadeloupe",
-    "iso_code": "GP",
-    "nationality": "Guadeloupean"
-  },
-  {
-    "name": "Guam",
-    "iso_code": "GU",
-    "nationality": "Guamanian"
-  },
-  {
-    "name": "Guatemala",
-    "iso_code": "GT",
-    "nationality": "Guatemalan"
-  },
-  {
-    "name": "Guinea",
-    "iso_code": "GN",
-    "nationality": "Guinean"
-  },
-  {
-    "name": "Guinea-Bissau",
-    "iso_code": "GW",
-    "nationality": "Bissau-Guinean"
-  },
-  {
-    "name": "Guyana",
-    "iso_code": "GY",
-    "nationality": "Guyanese"
-  },
-  {
-    "name": "Haiti",
-    "iso_code": "HT",
-    "nationality": "Haitian"
-  },
-  {
-    "name": "Heard Island and McDonald Islands",
-    "iso_code": "HM",
-    "nationality": "Heard Island and Mcdonald Islands"
-  },
-  {
-    "name": "Honduras",
-    "iso_code": "HN",
-    "nationality": "Honduran"
-  },
-  {
-    "name": "Hong Kong",
-    "iso_code": "HK",
-    "nationality": "Hong Kongers"
-  },
-  {
-    "name": "Hungary",
-    "iso_code": "HU",
-    "nationality": "Hungarians"
-  },
-  {
-    "name": "Iceland",
-    "iso_code": "IS",
-    "nationality": "Icelanders"
-  },
-  {
-    "name": "India",
-    "iso_code": "IN",
-    "nationality": "Indian"
-  },
-  {
-    "name": "Indonesia",
-    "iso_code": "ID",
-    "nationality": "Indonesians"
-  },
-  {
-    "name": "Iraq",
-    "iso_code": "IQ",
-    "nationality": "Iraqi"
-  },
-  {
-    "name": "Ireland",
-    "iso_code": "IE",
-    "nationality": "Irish"
-  },
-  {
-    "name": "Israel",
-    "iso_code": "IL",
-    "nationality": "Israeli"
-  },
-  {
-    "name": "Italy",
-    "iso_code": "IT",
-    "nationality": "Italian"
-  },
-  {
-    "name": "Jamaica",
-    "iso_code": "JM",
-    "nationality": "Jamaican"
-  },
-  {
-    "name": "Japan",
-    "iso_code": "JP",
-    "nationality": "Japanese"
-  },
-  {
-    "name": "Jordan",
-    "iso_code": "JO",
-    "nationality": "Jordanian"
-  },
-  {
-    "name": "Kazakhstan",
-    "iso_code": "KZ",
-    "nationality": "Kazakhstani"
-  },
-  {
-    "name": "Kenya",
-    "iso_code": "KE",
-    "nationality": "Kenyan"
-  },
-  {
-    "name": "Kiribati",
-    "iso_code": "KI",
-    "nationality": "Kiribatian"
-  },
-  {
-    "name": "Kuwait",
-    "iso_code": "KW",
-    "nationality": "Kuwaiti"
-  },
-  {
-    "name": "Kyrgyzstan",
-    "iso_code": "KG",
-    "nationality": "Kyrgyzstani"
-  },
-  {
-    "name": "Latvia",
-    "iso_code": "LV",
-    "nationality": "Latvian"
-  },
-  {
-    "name": "Aland Islands",
-    "iso_code": "AX",
-    "nationality": null
-  },
-  {
-    "name": "Guernsey",
-    "iso_code": "GG",
-    "nationality": null
-  },
-  {
-    "name": "Man Island",
-    "iso_code": "IM",
-    "nationality": null
-  },
-  {
-    "name": "Jersey",
-    "iso_code": "JE",
-    "nationality": null
-  },
-  {
-    "name": "Montenegro",
-    "iso_code": "ME",
-    "nationality": "Montenegrins"
-  },
-  {
-    "name": "Algeria",
-    "iso_code": "DZ",
-    "nationality": "Algerian"
-  },
-  {
-    "name": "Korea, Dem. Republic of",
-    "iso_code": "KP",
-    "nationality": "North Korean"
-  },
-  {
-    "name": "South Korea",
-    "iso_code": "KR",
-    "nationality": "South Korean"
-  },
-  {
-    "name": "Laos",
-    "iso_code": "LA",
-    "nationality": "Laotian"
-  },
-  {
-    "name": "Lebanon",
-    "iso_code": "LB",
-    "nationality": "Lebanese"
-  },
-  {
-    "name": "Lesotho",
-    "iso_code": "LS",
-    "nationality": "Lesothan"
-  },
-  {
-    "name": "Liberia",
-    "iso_code": "LR",
-    "nationality": "Liberian"
-  },
-  {
-    "name": "Libya",
-    "iso_code": "LY",
-    "nationality": "Libyan"
-  },
-  {
-    "name": "Liechtenstein",
-    "iso_code": "LI",
-    "nationality": "Liechtensteiners"
-  },
-  {
-    "name": "Lithuania",
-    "iso_code": "LT",
-    "nationality": "Lithuanian"
-  },
-  {
-    "name": "Luxemburg",
-    "iso_code": "LU",
-    "nationality": "Luxembourgers"
-  },
-  {
-    "name": "Macau",
-    "iso_code": "MO",
-    "nationality": "Macanese"
-  },
-  {
-    "name": "Macedonia",
-    "iso_code": "MK",
-    "nationality": "Macedonian"
-  },
-  {
-    "name": "Madagascar",
-    "iso_code": "MG",
-    "nationality": "Madagascans"
-  },
-  {
-    "name": "Malawi",
-    "iso_code": "MW",
-    "nationality": "Malawian"
-  },
-  {
-    "name": "Malaysia",
-    "iso_code": "MY",
-    "nationality": "Malaysian"
-  },
-  {
-    "name": "Maldives",
-    "iso_code": "MV",
-    "nationality": "Maldivian"
-  },
-  {
-    "name": "Mali",
-    "iso_code": "ML",
-    "nationality": "Malian"
-  },
-  {
-    "name": "Malta",
-    "iso_code": "MT",
-    "nationality": "Maltese"
-  },
-  {
-    "name": "Marshall Islands",
-    "iso_code": "MH",
-    "nationality": "Marshallese"
-  },
-  {
-    "name": "Martinique",
-    "iso_code": "MQ",
-    "nationality": "Martiniquaise"
-  },
-  {
-    "name": "Mauritania",
-    "iso_code": "MR",
-    "nationality": "Mauritanian"
-  },
-  {
-    "name": "Mauritius",
-    "iso_code": "MU",
-    "nationality": "Mauritian"
-  },
-  {
-    "name": "Mayotte",
-    "iso_code": "YT",
-    "nationality": "Maorais"
-  },
-  {
-    "name": "Mexico",
-    "iso_code": "MX",
-    "nationality": "Mexican"
-  },
-  {
-    "name": "Micronesia",
-    "iso_code": "FM",
-    "nationality": "micronesian"
-  },
-  {
-    "name": "Moldova",
-    "iso_code": "MD",
-    "nationality": "Moldovan"
-  },
-  {
-    "name": "Monaco",
-    "iso_code": "MC",
-    "nationality": "Monacan"
-  },
-  {
-    "name": "Mongolia",
-    "iso_code": "MN",
-    "nationality": "Mongolian"
-  },
-  {
-    "name": "Montserrat",
-    "iso_code": "MS",
-    "nationality": "Montserratian"
-  },
-  {
-    "name": "Morocco",
-    "iso_code": "MA",
-    "nationality": "Moroccan"
-  },
-  {
-    "name": "Mozambique",
-    "iso_code": "MZ",
-    "nationality": "Mozambican"
-  },
-  {
-    "name": "Burma (Myanmar)",
-    "iso_code": "MM",
-    "nationality": "Myanman"
-  },
-  {
-    "name": "Namibia",
-    "iso_code": "NA",
-    "nationality": "Namibian"
-  },
-  {
-    "name": "Nauru",
-    "iso_code": "NR",
-    "nationality": "Nauruan"
-  },
-  {
-    "name": "Oman",
-    "iso_code": "OM",
-    "nationality": "Omani"
-  },
-  {
-    "name": "Pakistan",
-    "iso_code": "PK",
-    "nationality": "Pakistani"
-  },
-  {
-    "name": "Palau",
-    "iso_code": "PW",
-    "nationality": "Palauan"
-  },
-  {
-    "name": "Palestinian Territories",
-    "iso_code": "PS",
-    "nationality": "Palestinian"
-  },
-  {
-    "name": "Panama",
-    "iso_code": "PA",
-    "nationality": "Panamanian"
-  },
-  {
-    "name": "Papua New Guinea",
-    "iso_code": "PG",
-    "nationality": "Papua New Guinean"
-  },
-  {
-    "name": "Paraguay",
-    "iso_code": "PY",
-    "nationality": "Paraguayan"
-  },
-  {
-    "name": "Peru",
-    "iso_code": "PE",
-    "nationality": "Peruvian"
-  },
-  {
-    "name": "Philippines",
-    "iso_code": "PH",
-    "nationality": "Philippines"
-  },
-  {
-    "name": "Pitcairn",
-    "iso_code": "PN",
-    "nationality": "Pitcairn Islander"
-  },
-  {
-    "name": "Poland",
-    "iso_code": "PL",
-    "nationality": "Poles"
-  },
-  {
-    "name": "Portugal",
-    "iso_code": "PT",
-    "nationality": "Portuguese"
-  },
-  {
-    "name": "Puerto Rico",
-    "iso_code": "PR",
-    "nationality": "Puerto Rican"
-  },
-  {
-    "name": "Qatar",
-    "iso_code": "QA",
-    "nationality": "Qatari"
-  },
-  {
-    "name": "Reunion Island",
-    "iso_code": "RE",
-    "nationality": "Réunionese"
-  },
-  {
-    "name": "Romania",
-    "iso_code": "RO",
-    "nationality": "Romanian"
-  },
-  {
-    "name": "Russian Federation",
-    "iso_code": "RU",
-    "nationality": "Russian"
-  },
-  {
-    "name": "Rwanda",
-    "iso_code": "RW",
-    "nationality": "Rwandan"
-  },
-  {
-    "name": "Saint Kitts and Nevis",
-    "iso_code": "KN",
-    "nationality": "Kittitian or Nevisian"
-  },
-  {
-    "name": "Saint Lucia",
-    "iso_code": "LC",
-    "nationality": "Saint Lucian"
-  },
-  {
-    "name": "Saint Pierre and Miquelon",
-    "iso_code": "PM",
-    "nationality": "Pierrian and Miquelonnais"
-  },
-  {
-    "name": "Saint Vincent and the Grenadines",
-    "iso_code": "VC",
-    "nationality": "Saint Vincentian"
-  },
-  {
-    "name": "Samoa",
-    "iso_code": "WS",
-    "nationality": "Samoan"
-  },
-  {
-    "name": "San Marino",
-    "iso_code": "SM",
-    "nationality": "Sammarinese"
-  },
-  {
-    "name": "São Tomé and Príncipe",
-    "iso_code": "ST",
-    "nationality": "São Toméan"
-  },
-  {
-    "name": "Saudi Arabia",
-    "iso_code": "SA",
-    "nationality": "Saudi Arabian"
-  },
-  {
-    "name": "Senegal",
-    "iso_code": "SN",
-    "nationality": "Senegalese"
-  },
-  {
-    "name": "Seychelles",
-    "iso_code": "SC",
-    "nationality": "Seychellois(e)"
-  },
-  {
-    "name": "Sierra Leone",
-    "iso_code": "SL",
-    "nationality": "Sierra Leonean"
-  },
-  {
-    "name": "Singapore",
-    "iso_code": "SG",
-    "nationality": "Singaporean"
-  },
-  {
-    "name": "Slovakia",
-    "iso_code": "SK",
-    "nationality": "Slovakian"
-  },
-  {
-    "name": "Slovenia",
-    "iso_code": "SI",
-    "nationality": "Slovenian"
-  },
-  {
-    "name": "Serbia",
-    "iso_code": "RS",
-    "nationality": "Serbian"
-  },
-  {
-    "name": "Saint Martin",
-    "iso_code": "MF",
-    "nationality": null
-  },
-  {
-    "name": "Wallis and Futuna",
-    "iso_code": "WF",
-    "nationality": "Wallisian , Futunan"
-  },
-  {
+    "iso_code": "us",
     "name": "United States",
-    "iso_code": "US",
     "nationality": "United States"
   },
   {
+    "iso_code": "af",
+    "name": "Afghanistan",
+    "nationality": "Afghanistani"
+  },
+  {
+    "iso_code": "al",
     "name": "Albania",
-    "iso_code": "AL",
     "nationality": "Albanian"
   },
   {
+    "iso_code": "dz",
+    "name": "Algeria",
+    "nationality": "Algerian"
+  },
+  {
+    "iso_code": "as",
     "name": "American Samoa",
-    "iso_code": "AS",
     "nationality": "American Samoan"
   },
   {
+    "iso_code": "ad",
     "name": "Andorra",
-    "iso_code": "AD",
     "nationality": "Andorran"
   },
   {
-    "name": "Zambia",
-    "iso_code": "ZM",
-    "nationality": "Zambian"
-  },
-  {
+    "iso_code": "ao",
     "name": "Angola",
-    "iso_code": "AO",
     "nationality": "Angolan"
   },
   {
+    "iso_code": "ai",
     "name": "Anguilla",
-    "iso_code": "AI",
     "nationality": "Anguillan"
   },
   {
-    "name": "Zimbabwe",
-    "iso_code": "ZW",
-    "nationality": "Zimbabwean"
-  },
-  {
-    "name": "Yemen",
-    "iso_code": "YE",
-    "nationality": "Yemeni"
-  },
-  {
+    "iso_code": "aq",
     "name": "Antarctica",
-    "iso_code": "AQ",
     "nationality": "Antarctican"
   },
   {
+    "iso_code": "ag",
     "name": "Antigua and Barbuda",
-    "iso_code": "AG",
     "nationality": "Antiguan and Barbudan"
   },
   {
+    "iso_code": "ar",
     "name": "Argentina",
-    "iso_code": "AR",
     "nationality": "Argentinian"
   },
   {
+    "iso_code": "am",
     "name": "Armenia",
-    "iso_code": "AM",
     "nationality": "Armenian"
   },
   {
+    "iso_code": "aw",
     "name": "Aruba",
-    "iso_code": "AW",
     "nationality": "Aruban"
   },
   {
+    "iso_code": "au",
     "name": "Australia",
-    "iso_code": "AU",
     "nationality": "Australians"
   },
   {
-    "name": "Saint Barthelemy",
-    "iso_code": "BL",
-    "nationality": null
-  },
-  {
+    "iso_code": "at",
     "name": "Austria",
-    "iso_code": "AT",
     "nationality": "Austrians"
   },
   {
+    "iso_code": "az",
     "name": "Azerbaijan",
-    "iso_code": "AZ",
     "nationality": "Azerbaijanian"
   },
   {
+    "iso_code": "bs",
     "name": "Bahamas",
-    "iso_code": "BS",
     "nationality": "Bahamian"
   },
   {
+    "iso_code": "bh",
     "name": "Bahrain",
-    "iso_code": "BH",
     "nationality": "Bahraini"
   },
   {
+    "iso_code": "bd",
     "name": "Bangladesh",
-    "iso_code": "BD",
     "nationality": "Bangladeshi"
   },
   {
+    "iso_code": "bb",
     "name": "Barbados",
-    "iso_code": "BB",
     "nationality": "Barbadian"
   },
   {
+    "iso_code": "by",
     "name": "Belarus",
-    "iso_code": "BY",
     "nationality": "Belarusian"
   },
   {
+    "iso_code": "be",
     "name": "Belgium",
-    "iso_code": "BE",
     "nationality": "Belgian"
   },
   {
+    "iso_code": "bz",
     "name": "Belize",
-    "iso_code": "BZ",
     "nationality": "Belizean"
   },
   {
+    "iso_code": "bj",
     "name": "Benin",
-    "iso_code": "BJ",
     "nationality": "Beninese"
   },
   {
+    "iso_code": "bm",
     "name": "Bermuda",
-    "iso_code": "BM",
     "nationality": "Bermudian"
   },
   {
+    "iso_code": "bt",
     "name": "Bhutan",
-    "iso_code": "BT",
     "nationality": "Bhutanese"
   },
   {
+    "iso_code": "bo",
     "name": "Bolivia",
-    "iso_code": "BO",
     "nationality": "Bolivian"
   },
   {
+    "iso_code": "ba",
     "name": "Bosnia and Herzegovina",
-    "iso_code": "BA",
     "nationality": "Bosnian and Herzegovinian"
   },
   {
+    "iso_code": "bw",
     "name": "Botswana",
-    "iso_code": "BW",
     "nationality": "Botswanan"
   },
   {
+    "iso_code": "bv",
     "name": "Bouvet Island",
-    "iso_code": "BV",
     "nationality": "Bouvet Islanders"
   },
   {
+    "iso_code": "br",
     "name": "Brazil",
-    "iso_code": "BR",
     "nationality": "Brazilian"
   },
   {
+    "iso_code": "io",
     "name": "British Indian Ocean Territory",
-    "iso_code": "IO",
     "nationality": "British (BIOT)"
   },
   {
+    "iso_code": "bn",
+    "name": "Brunei Darussalam",
+    "nationality": "Bruneian"
+  },
+  {
+    "iso_code": "bg",
     "name": "Bulgaria",
-    "iso_code": "BG",
     "nationality": "Bulgarian"
   },
   {
+    "iso_code": "bf",
     "name": "Burkina Faso",
-    "iso_code": "BF",
     "nationality": "Burkinese"
   },
   {
+    "iso_code": "bi",
     "name": "Burundi",
-    "iso_code": "BI",
     "nationality": "Burundian"
   },
   {
+    "iso_code": "kh",
     "name": "Cambodia",
-    "iso_code": "KH",
     "nationality": "Cambodian"
   },
   {
+    "iso_code": "cm",
     "name": "Cameroon",
-    "iso_code": "CM",
     "nationality": "Cameroonian"
   },
   {
+    "iso_code": "ca",
     "name": "Canada",
-    "iso_code": "CA",
     "nationality": "Canadian"
   },
   {
+    "iso_code": "cv",
     "name": "Cape Verde",
-    "iso_code": "CV",
     "nationality": "Cape Verdean"
   },
   {
-    "name": "Congo, Dem. Republic",
-    "iso_code": "CD",
+    "iso_code": "ky",
+    "name": "Cayman Islands",
+    "nationality": "Caymanian"
+  },
+  {
+    "iso_code": "cf",
+    "name": "Central African Republic",
+    "nationality": "Central African"
+  },
+  {
+    "iso_code": "td",
+    "name": "Chad",
+    "nationality": "Chadian"
+  },
+  {
+    "iso_code": "cl",
+    "name": "Chile",
+    "nationality": "Chilean"
+  },
+  {
+    "iso_code": "cn",
+    "name": "China",
+    "nationality": "Chinese"
+  },
+  {
+    "iso_code": "cx",
+    "name": "Christmas Island",
+    "nationality": "Christmas Islander"
+  },
+  {
+    "iso_code": "cc",
+    "name": "Cocos (Keeling) Islands",
+    "nationality": "Cocos (Keeling) Islanders"
+  },
+  {
+    "iso_code": "co",
+    "name": "Colombia",
+    "nationality": "Colombian"
+  },
+  {
+    "iso_code": "km",
+    "name": "Comoros",
+    "nationality": "Comorian"
+  },
+  {
+    "iso_code": "cg",
+    "name": "Congo",
     "nationality": "Congolese"
   },
   {
-    "name": "Vatican City State",
-    "iso_code": "VA",
+    "iso_code": "cd",
+    "name": "Congo, the Democratic Republic of the",
+    "nationality": "Congolese"
+  },
+  {
+    "iso_code": "ck",
+    "name": "Cook Islands",
+    "nationality": "Cook Islanders"
+  },
+  {
+    "iso_code": "cr",
+    "name": "Costa Rica",
+    "nationality": "Costa Rican"
+  },
+  {
+    "iso_code": "ci",
+    "name": "Cote D''Ivoire",
+    "nationality": "Ivorian"
+  },
+  {
+    "iso_code": "hr",
+    "name": "Croatia",
+    "nationality": "Croatian"
+  },
+  {
+    "iso_code": "cu",
+    "name": "Cuba",
+    "nationality": "Cuban"
+  },
+  {
+    "iso_code": "cy",
+    "name": "Cyprus",
+    "nationality": "Cyprian"
+  },
+  {
+    "iso_code": "cz",
+    "name": "Czech Republic",
+    "nationality": "Czechs"
+  },
+  {
+    "iso_code": "dk",
+    "name": "Denmark",
+    "nationality": "Danes"
+  },
+  {
+    "iso_code": "dj",
+    "name": "Djibouti",
+    "nationality": "Djiboutians"
+  },
+  {
+    "iso_code": "dm",
+    "name": "Dominica",
+    "nationality": "Dominican"
+  },
+  {
+    "iso_code": "do",
+    "name": "Dominican Republic",
+    "nationality": "Dominican"
+  },
+  {
+    "iso_code": "ec",
+    "name": "Ecuador",
+    "nationality": "Ecuadorian"
+  },
+  {
+    "iso_code": "eg",
+    "name": "Egypt",
+    "nationality": "Egyptian"
+  },
+  {
+    "iso_code": "sv",
+    "name": "El Salvador",
+    "nationality": "Salvadoran"
+  },
+  {
+    "iso_code": "gq",
+    "name": "Equatorial Guinea",
+    "nationality": "Equatoguinean"
+  },
+  {
+    "iso_code": "er",
+    "name": "Eritrea",
+    "nationality": "Eritrean"
+  },
+  {
+    "iso_code": "ee",
+    "name": "Estonia",
+    "nationality": "Estonian"
+  },
+  {
+    "iso_code": "et",
+    "name": "Ethiopia",
+    "nationality": "Ethiopian"
+  },
+  {
+    "iso_code": "fk",
+    "name": "Falkland Islands (Malvinas)",
+    "nationality": "Falkland Islander"
+  },
+  {
+    "iso_code": "fo",
+    "name": "Faroe Islands",
+    "nationality": "Faroese"
+  },
+  {
+    "iso_code": "fj",
+    "name": "Fiji",
+    "nationality": "Fijian"
+  },
+  {
+    "iso_code": "fi",
+    "name": "Finland",
+    "nationality": "Finnish"
+  },
+  {
+    "iso_code": "fr",
+    "name": "France",
+    "nationality": "French"
+  },
+  {
+    "iso_code": "gf",
+    "name": "French Guiana",
+    "nationality": "French Guianese"
+  },
+  {
+    "iso_code": "pf",
+    "name": "French Polynesia",
+    "nationality": "French Polynesian"
+  },
+  {
+    "iso_code": "tf",
+    "name": "French Southern Territories",
+    "nationality": "French Southern Territories"
+  },
+  {
+    "iso_code": "ga",
+    "name": "Gabon",
+    "nationality": "Gabonese"
+  },
+  {
+    "iso_code": "gm",
+    "name": "Gambia",
+    "nationality": "Gambian"
+  },
+  {
+    "iso_code": "ge",
+    "name": "Georgia",
+    "nationality": "Georgian"
+  },
+  {
+    "iso_code": "de",
+    "name": "Germany",
+    "nationality": "German"
+  },
+  {
+    "iso_code": "gh",
+    "name": "Ghana",
+    "nationality": "Ghanaian"
+  },
+  {
+    "iso_code": "gi",
+    "name": "Gibraltar",
+    "nationality": "Gibraltarian"
+  },
+  {
+    "iso_code": "gr",
+    "name": "Greece",
+    "nationality": "Greek"
+  },
+  {
+    "iso_code": "gl",
+    "name": "Greenland",
+    "nationality": "Greenlander"
+  },
+  {
+    "iso_code": "gd",
+    "name": "Grenada",
+    "nationality": "Grenadian"
+  },
+  {
+    "iso_code": "gp",
+    "name": "Guadeloupe",
+    "nationality": "Guadeloupean"
+  },
+  {
+    "iso_code": "gu",
+    "name": "Guam",
+    "nationality": "Guamanian"
+  },
+  {
+    "iso_code": "gt",
+    "name": "Guatemala",
+    "nationality": "Guatemalan"
+  },
+  {
+    "iso_code": "gn",
+    "name": "Guinea",
+    "nationality": "Guinean"
+  },
+  {
+    "iso_code": "gw",
+    "name": "Guinea-Bissau",
+    "nationality": "Bissau-Guinean"
+  },
+  {
+    "iso_code": "gy",
+    "name": "Guyana",
+    "nationality": "Guyanese"
+  },
+  {
+    "iso_code": "ht",
+    "name": "Haiti",
+    "nationality": "Haitian"
+  },
+  {
+    "iso_code": "hm",
+    "name": "Heard Island and Mcdonald Islands",
+    "nationality": "Heard Island and Mcdonald Islands"
+  },
+  {
+    "iso_code": "va",
+    "name": "Holy See (Vatican City State)",
     "nationality": "Vatican"
   },
   {
-    "name": "Iran",
-    "iso_code": "IR",
+    "iso_code": "hn",
+    "name": "Honduras",
+    "nationality": "Honduran"
+  },
+  {
+    "iso_code": "hk",
+    "name": "Hong Kong",
+    "nationality": "Hong Kongers"
+  },
+  {
+    "iso_code": "hu",
+    "name": "Hungary",
+    "nationality": "Hungarians"
+  },
+  {
+    "iso_code": "is",
+    "name": "Iceland",
+    "nationality": "Icelanders"
+  },
+  {
+    "iso_code": "in",
+    "name": "India",
+    "nationality": "Indian"
+  },
+  {
+    "iso_code": "id",
+    "name": "Indonesia",
+    "nationality": "Indonesians"
+  },
+  {
+    "iso_code": "ir",
+    "name": "Iran, Islamic Republic of",
     "nationality": "Iranian"
   },
   {
+    "iso_code": "iq",
+    "name": "Iraq",
+    "nationality": "Iraqi"
+  },
+  {
+    "iso_code": "ie",
+    "name": "Ireland",
+    "nationality": "Irish"
+  },
+  {
+    "iso_code": "il",
+    "name": "Israel",
+    "nationality": "Israeli"
+  },
+  {
+    "iso_code": "it",
+    "name": "Italy",
+    "nationality": "Italian"
+  },
+  {
+    "iso_code": "jm",
+    "name": "Jamaica",
+    "nationality": "Jamaican"
+  },
+  {
+    "iso_code": "jp",
+    "name": "Japan",
+    "nationality": "Japanese"
+  },
+  {
+    "iso_code": "jo",
+    "name": "Jordan",
+    "nationality": "Jordanian"
+  },
+  {
+    "iso_code": "kz",
+    "name": "Kazakhstan",
+    "nationality": "Kazakhstani"
+  },
+  {
+    "iso_code": "ke",
+    "name": "Kenya",
+    "nationality": "Kenyan"
+  },
+  {
+    "iso_code": "ki",
+    "name": "Kiribati",
+    "nationality": "Kiribatian"
+  },
+  {
+    "iso_code": "kp",
+    "name": "Korea, Democratic People''s Republic of",
+    "nationality": "North Korean"
+  },
+  {
+    "iso_code": "kr",
+    "name": "Korea, Republic of",
+    "nationality": "South Korean"
+  },
+  {
+    "iso_code": "kw",
+    "name": "Kuwait",
+    "nationality": "Kuwaiti"
+  },
+  {
+    "iso_code": "kg",
+    "name": "Kyrgyzstan",
+    "nationality": "Kyrgyzstani"
+  },
+  {
+    "iso_code": "la",
+    "name": "Lao People''s Democratic Republic",
+    "nationality": "Laotian"
+  },
+  {
+    "iso_code": "lv",
+    "name": "Latvia",
+    "nationality": "Latvian"
+  },
+  {
+    "iso_code": "lb",
+    "name": "Lebanon",
+    "nationality": "Lebanese"
+  },
+  {
+    "iso_code": "ls",
+    "name": "Lesotho",
+    "nationality": "Lesothan"
+  },
+  {
+    "iso_code": "lr",
+    "name": "Liberia",
+    "nationality": "Liberian"
+  },
+  {
+    "iso_code": "ly",
+    "name": "Libyan Arab Jamahiriya",
+    "nationality": "Libyan"
+  },
+  {
+    "iso_code": "li",
+    "name": "Liechtenstein",
+    "nationality": "Liechtensteiners"
+  },
+  {
+    "iso_code": "lt",
+    "name": "Lithuania",
+    "nationality": "Lithuanian"
+  },
+  {
+    "iso_code": "lu",
+    "name": "Luxembourg",
+    "nationality": "Luxembourgers"
+  },
+  {
+    "iso_code": "mo",
+    "name": "Macao",
+    "nationality": "Macanese"
+  },
+  {
+    "iso_code": "mk",
+    "name": "Macedonia, the Former Yugoslav Republic of",
+    "nationality": "Macedonian"
+  },
+  {
+    "iso_code": "mg",
+    "name": "Madagascar",
+    "nationality": "Madagascans"
+  },
+  {
+    "iso_code": "mw",
+    "name": "Malawi",
+    "nationality": "Malawian"
+  },
+  {
+    "iso_code": "my",
+    "name": "Malaysia",
+    "nationality": "Malaysian"
+  },
+  {
+    "iso_code": "mv",
+    "name": "Maldives",
+    "nationality": "Maldivian"
+  },
+  {
+    "iso_code": "ml",
+    "name": "Mali",
+    "nationality": "Malian"
+  },
+  {
+    "iso_code": "mt",
+    "name": "Malta",
+    "nationality": "Maltese"
+  },
+  {
+    "iso_code": "mh",
+    "name": "Marshall Islands",
+    "nationality": "Marshallese"
+  },
+  {
+    "iso_code": "mq",
+    "name": "Martinique",
+    "nationality": "Martiniquaise"
+  },
+  {
+    "iso_code": "mr",
+    "name": "Mauritania",
+    "nationality": "Mauritanian"
+  },
+  {
+    "iso_code": "mu",
+    "name": "Mauritius",
+    "nationality": "Mauritian"
+  },
+  {
+    "iso_code": "yt",
+    "name": "Mayotte",
+    "nationality": "Maorais"
+  },
+  {
+    "iso_code": "mx",
+    "name": "Mexico",
+    "nationality": "Mexican"
+  },
+  {
+    "iso_code": "fm",
+    "name": "Micronesia, Federated States of",
+    "nationality": "micronesian"
+  },
+  {
+    "iso_code": "md",
+    "name": "Moldova, Republic of",
+    "nationality": "Moldovan"
+  },
+  {
+    "id": 141,
+    "iso_code": "mc",
+    "name": "Monaco",
+    "nationality": "Monacan"
+  },
+  {
+    "iso_code": "mn",
+    "name": "Mongolia",
+    "nationality": "Mongolian"
+  },
+  {
+    "iso_code": "ms",
+    "name": "Montserrat",
+    "nationality": "Montserratian"
+  },
+  {
+    "iso_code": "ma",
+    "name": "Morocco",
+    "nationality": "Moroccan"
+  },
+  {
+    "iso_code": "mz",
+    "name": "Mozambique",
+    "nationality": "Mozambican"
+  },
+  {
+    "iso_code": "mm",
+    "name": "Myanmar",
+    "nationality": "Myanman"
+  },
+  {
+    "iso_code": "na",
+    "name": "Namibia",
+    "nationality": "Namibian"
+  },
+  {
+    "iso_code": "nr",
+    "name": "Nauru",
+    "nationality": "Nauruan"
+  },
+  {
+    "iso_code": "np",
     "name": "Nepal",
-    "iso_code": "NP",
     "nationality": "Nepali"
   },
   {
+    "iso_code": "nl",
     "name": "Netherlands",
-    "iso_code": "NL",
     "nationality": "Netherlanders"
   },
   {
+    "iso_code": "an",
     "name": "Netherlands Antilles",
-    "iso_code": "AN",
     "nationality": "Netherlands Antillean"
   },
   {
+    "iso_code": "nc",
     "name": "New Caledonia",
-    "iso_code": "NC",
     "nationality": "New Caledonian"
   },
   {
+    "iso_code": "nz",
     "name": "New Zealand",
-    "iso_code": "NZ",
     "nationality": "New Zealandian"
   },
   {
+    "iso_code": "ni",
     "name": "Nicaragua",
-    "iso_code": "NI",
     "nationality": "Nicaraguan"
   },
   {
+    "iso_code": "ne",
     "name": "Niger",
-    "iso_code": "NE",
     "nationality": "Nigerien"
   },
   {
+    "iso_code": "ng",
     "name": "Nigeria",
-    "iso_code": "NG",
     "nationality": "Nigerian"
   },
   {
+    "iso_code": "nu",
     "name": "Niue",
-    "iso_code": "NU",
     "nationality": "Niuean"
   },
   {
+    "iso_code": "nf",
     "name": "Norfolk Island",
-    "iso_code": "NF",
     "nationality": "Norfolk Islander"
   },
   {
+    "iso_code": "mp",
     "name": "Northern Mariana Islands",
-    "iso_code": "MP",
     "nationality": "Northern Mariana Islander"
   },
   {
+    "iso_code": "no",
     "name": "Norway",
-    "iso_code": "NO",
     "nationality": "Norwegian"
   },
   {
+    "iso_code": "om",
+    "name": "Oman",
+    "nationality": "Omani"
+  },
+  {
+    "iso_code": "pk",
+    "name": "Pakistan",
+    "nationality": "Pakistani"
+  },
+  {
+    "iso_code": "pw",
+    "name": "Palau",
+    "nationality": "Palauan"
+  },
+  {
+    "iso_code": "ps",
+    "name": "Palestinian Territory, Occupied",
+    "nationality": "Palestinian"
+  },
+  {
+    "iso_code": "pa",
+    "name": "Panama",
+    "nationality": "Panamanian"
+  },
+  {
+    "iso_code": "pg",
+    "name": "Papua New Guinea",
+    "nationality": "Papua New Guinean"
+  },
+  {
+    "iso_code": "py",
+    "name": "Paraguay",
+    "nationality": "Paraguayan"
+  },
+  {
+    "iso_code": "pe",
+    "name": "Peru",
+    "nationality": "Peruvian"
+  },
+  {
+    "iso_code": "ph",
+    "name": "Philippines",
+    "nationality": "Philippines"
+  },
+  {
+    "iso_code": "pn",
+    "name": "Pitcairn",
+    "nationality": "Pitcairn Islander"
+  },
+  {
+    "iso_code": "pl",
+    "name": "Poland",
+    "nationality": "Poles"
+  },
+  {
+    "iso_code": "pt",
+    "name": "Portugal",
+    "nationality": "Portuguese"
+  },
+  {
+    "iso_code": "pr",
+    "name": "Puerto Rico",
+    "nationality": "Puerto Rican"
+  },
+  {
+    "iso_code": "qa",
+    "name": "Qatar",
+    "nationality": "Qatari"
+  },
+  {
+    "iso_code": "re",
+    "name": "Reunion",
+    "nationality": "Réunionese"
+  },
+  {
+    "iso_code": "ro",
+    "name": "Romania",
+    "nationality": "Romanian"
+  },
+  {
+    "iso_code": "ru",
+    "name": "Russian Federation",
+    "nationality": "Russian"
+  },
+  {
+    "iso_code": "rw",
+    "name": "Rwanda",
+    "nationality": "Rwandan"
+  },
+  {
+    "iso_code": "kn",
+    "name": "Saint Kitts and Nevis",
+    "nationality": "Kittitian or Nevisian"
+  },
+  {
+    "iso_code": "lc",
+    "name": "Saint Lucia",
+    "nationality": "Saint Lucian"
+  },
+  {
+    "iso_code": "pm",
+    "name": "Saint Pierre and Miquelon",
+    "nationality": "Pierrian and Miquelonnais"
+  },
+  {
+    "iso_code": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "nationality": "Saint Vincentian"
+  },
+  {
+    "iso_code": "ws",
+    "name": "Samoa",
+    "nationality": "Samoan"
+  },
+  {
+    "iso_code": "sm",
+    "name": "San Marino",
+    "nationality": "Sammarinese"
+  },
+  {
+    "iso_code": "st",
+    "name": "Sao Tome and Principe",
+    "nationality": "São Toméan"
+  },
+  {
+    "iso_code": "sa",
+    "name": "Saudi Arabia",
+    "nationality": "Saudi Arabian"
+  },
+  {
+    "iso_code": "sn",
+    "name": "Senegal",
+    "nationality": "Senegalese"
+  },
+  {
+    "iso_code": "rs",
+    "name": "Serbia",
+    "nationality": "serbia"
+  },
+  {
+    "iso_code": "me",
+    "name": "Montenegro",
+    "nationality": "montenegro"
+  },
+  {
+    "iso_code": "sc",
+    "name": "Seychelles",
+    "nationality": "Seychellois(e)"
+  },
+  {
+    "iso_code": "sl",
+    "name": "Sierra Leone",
+    "nationality": "Sierra Leonean"
+  },
+  {
+    "iso_code": "sg",
+    "name": "Singapore",
+    "nationality": "Singaporean"
+  },
+  {
+    "iso_code": "sk",
+    "name": "Slovakian",
+    "nationality": "Slovakian"
+  },
+  {
+    "iso_code": "si",
+    "name": "Slovenia",
+    "nationality": "Slovenian"
+  },
+  {
+    "iso_code": "sb",
     "name": "Solomon Islands",
-    "iso_code": "SB",
     "nationality": "Solomon Islanders"
   },
   {
+    "id": 196,
+    "iso_code": "so",
     "name": "Somalia",
-    "iso_code": "SO",
     "nationality": "Somalian"
   },
   {
+    "iso_code": "za",
     "name": "South Africa",
-    "iso_code": "ZA",
     "nationality": "South African"
   },
   {
+    "iso_code": "gs",
     "name": "South Georgia and the South Sandwich Islands",
-    "iso_code": "GS",
     "nationality": "South Georgian"
   },
   {
+    "iso_code": "es",
     "name": "Spain",
-    "iso_code": "ES",
     "nationality": "Spanish"
   },
   {
+    "iso_code": "lk",
     "name": "Sri Lanka",
-    "iso_code": "LK",
     "nationality": "Sri Lankan"
   },
   {
+    "iso_code": "sd",
     "name": "Sudan",
-    "iso_code": "SD",
     "nationality": "Sudanese"
   },
   {
+    "iso_code": "sr",
     "name": "Suriname",
-    "iso_code": "SR",
     "nationality": "Surinamese"
   },
   {
+    "iso_code": "sj",
     "name": "Svalbard and Jan Mayen",
-    "iso_code": "SJ",
     "nationality": "Svalbardi and Jan Mayen"
   },
   {
+    "iso_code": "sz",
     "name": "Swaziland",
-    "iso_code": "SZ",
     "nationality": "Swazis"
   },
   {
+    "iso_code": "se",
     "name": "Sweden",
-    "iso_code": "SE",
     "nationality": "Swedish"
   },
   {
+    "iso_code": "ch",
     "name": "Switzerland",
-    "iso_code": "CH",
     "nationality": "Swiss"
   },
   {
-    "name": "Syria",
-    "iso_code": "SY",
+    "iso_code": "sy",
+    "name": "Syrian Arab Republic",
     "nationality": "Syrian"
   },
   {
-    "name": "Taiwan",
-    "iso_code": "TW",
+    "id": 208,
+    "iso_code": "tw",
+    "name": "Taiwan, Province of China",
     "nationality": "Taiwanese"
   },
   {
+    "iso_code": "tj",
     "name": "Tajikistan",
-    "iso_code": "TJ",
     "nationality": "Tajikistani"
   },
   {
-    "name": "Tanzania",
-    "iso_code": "TZ",
+    "iso_code": "tz",
+    "name": "Tanzania, United Republic of",
     "nationality": "Tanzanian"
   },
   {
+    "iso_code": "th",
     "name": "Thailand",
-    "iso_code": "TH",
     "nationality": "Thai"
   },
   {
-    "name": "East Timor",
-    "iso_code": "TL",
+    "iso_code": "tl",
+    "name": "Timor-Leste",
     "nationality": "Timorese"
   },
   {
+    "iso_code": "tg",
     "name": "Togo",
-    "iso_code": "TG",
     "nationality": "Togolese"
   },
   {
+    "iso_code": "tk",
     "name": "Tokelau",
-    "iso_code": "TK",
     "nationality": "Tokelauan"
   },
   {
+    "iso_code": "to",
     "name": "Tonga",
-    "iso_code": "TO",
     "nationality": "Tongan"
   },
   {
+    "iso_code": "tt",
     "name": "Trinidad and Tobago",
-    "iso_code": "TT",
     "nationality": "Trinidadian or Tobagonian"
   },
   {
+    "iso_code": "tn",
     "name": "Tunisia",
-    "iso_code": "TN",
     "nationality": "Tunisian"
   },
   {
+    "iso_code": "tr",
     "name": "Turkey",
-    "iso_code": "TR",
     "nationality": "Turkish"
   },
   {
+    "iso_code": "tm",
     "name": "Turkmenistan",
-    "iso_code": "TM",
     "nationality": "Turkmenistani"
   },
   {
+    "iso_code": "tc",
     "name": "Turks and Caicos Islands",
-    "iso_code": "TC",
     "nationality": "Turks and Caicos Islander"
   },
   {
+    "iso_code": "tv",
     "name": "Tuvalu",
-    "iso_code": "TV",
     "nationality": "Tuvaluan"
   },
   {
+    "iso_code": "ug",
     "name": "Uganda",
-    "iso_code": "UG",
     "nationality": "Ugandan"
   },
   {
+    "iso_code": "ua",
     "name": "Ukraine",
-    "iso_code": "UA",
     "nationality": "Ukrainian"
   },
   {
+    "iso_code": "ae",
     "name": "United Arab Emirates",
-    "iso_code": "AE",
     "nationality": "Emirati"
   },
   {
+    "iso_code": "gb",
     "name": "United Kingdom",
-    "iso_code": "GB",
     "nationality": "British"
   },
   {
-    "name": "United States Minor Outlying Islands",
-    "iso_code": "UM",
-    "nationality": "American Islander"
-  },
-  {
+    "iso_code": "uy",
     "name": "Uruguay",
-    "iso_code": "UY",
     "nationality": "Uruguayan"
   },
   {
+    "iso_code": "uz",
     "name": "Uzbekistan",
-    "iso_code": "UZ",
     "nationality": "Uzbekistani"
   },
   {
+    "iso_code": "vu",
     "name": "Vanuatu",
-    "iso_code": "VU",
     "nationality": "Vanuatuan"
   },
   {
+    "iso_code": "ve",
     "name": "Venezuela",
-    "iso_code": "VE",
     "nationality": "Venezuelan"
   },
   {
-    "name": "Vietnam",
-    "iso_code": "VN",
+    "iso_code": "vn",
+    "name": "Viet Nam",
     "nationality": "Vietnamese"
   },
   {
-    "name": "Virgin Islands (British)",
-    "iso_code": "VG",
+    "iso_code": "vg",
+    "name": "Virgin Islands, British",
     "nationality": "British Virgin Islander"
   },
   {
-    "name": "Virgin Islands (U.S.)",
-    "iso_code": "VI",
+    "iso_code": "vi",
+    "name": "Virgin Islands, U.s.",
     "nationality": "U.S Virgin Islander"
+  },
+  {
+    "iso_code": "ax",
+    "name": "Aland Islands",
+    "nationality": "Aland Islands"
+  },
+  {
+    "iso_code": "gg",
+    "name": "Guernsey",
+    "nationality": "Guernsey"
+  },
+  {
+    "iso_code": "je",
+    "name": "Jersey",
+    "nationality": "Jersey"
+  },
+  {
+    "iso_code": "im",
+    "name": "Isle of Man",
+    "nationality": "Isle of Man"
+  },
+  {
+    "iso_code": "bl",
+    "name": "Saint Barthelemy",
+    "nationality": "Saint Barthelemy"
+  },
+  {
+    "iso_code": "mf",
+    "name": "Saint Martin",
+    "nationality": "Saint Martin"
+  },
+  {
+    "iso_code": "wf",
+    "name": "Wallis and Futuna",
+    "nationality": "Wallis and Futuna"
+  },
+  {
+    "iso_code": "eh",
+    "name": "Western Sahara",
+    "nationality": "Western Sahara"
+  },
+  {
+    "iso_code": "ye",
+    "name": "Yemen",
+    "nationality": "Yemen"
+  },
+  {
+    "iso_code": "zm",
+    "name": "Zambia",
+    "nationality": "Zambia"
+  },
+  {
+    "iso_code": "zw",
+    "name": "Zimbabwe",
+    "nationality": "Zimbabwe"
+  },
+  {
+    "iso_code": "xk",
+    "name": "Republic of Kosovo",
+    "nationality": "Republic of Kosovo"
+  },
+  {
+    "iso_code": "cw",
+    "name": "Curaçao",
+    "nationality": "Curaçao"
+  },
+  {
+    "iso_code": "SS",
+    "name": "South Sudan",
+    "nationality": "South Sudan"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "iso_code": "gs",
+    "nationality": "South Georgian"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "iso_code": "um",
+    "nationality": "American Islander"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "iso_code": "sj",
+    "nationality": "Svalbardi and Jan Mayen"
+  },
+  {
+    "name": "Ivory Coast",
+    "iso_code": "ci",
+    "nationality": "Ivorian"
   }
 ]
