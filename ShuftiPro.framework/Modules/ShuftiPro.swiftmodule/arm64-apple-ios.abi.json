@@ -54137,6 +54137,97 @@
           },
           {
             "kind": "Var",
+            "name": "isEnableCameraPermissions",
+            "printedName": "isEnableCameraPermissions",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9ShuftiPro9CameraVc2C08isEnableC11PermissionsSbvp",
+            "mangledName": "$s9ShuftiPro9CameraVc2C08isEnableC11PermissionsSbvp",
+            "moduleName": "ShuftiPro",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 51,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro9CameraVc2C08isEnableC11PermissionsSbvg",
+                "mangledName": "$s9ShuftiPro9CameraVc2C08isEnableC11PermissionsSbvg",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro9CameraVc2C08isEnableC11PermissionsSbvs",
+                "mangledName": "$s9ShuftiPro9CameraVc2C08isEnableC11PermissionsSbvs",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ShuftiPro9CameraVc2C08isEnableC11PermissionsSbvM",
+                "mangledName": "$s9ShuftiPro9CameraVc2C08isEnableC11PermissionsSbvM",
+                "moduleName": "ShuftiPro",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "isLandscape",
             "printedName": "isLandscape",
             "children": [
@@ -54199,7 +54290,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 51,
+            "fixedbinaryorder": 52,
             "hasStorage": true,
             "accessors": [
               {
@@ -54290,7 +54381,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 52,
+            "fixedbinaryorder": 53,
             "hasStorage": true,
             "accessors": [
               {
@@ -54381,7 +54472,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 53,
+            "fixedbinaryorder": 54,
             "hasStorage": true,
             "accessors": [
               {
@@ -54472,7 +54563,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 54,
+            "fixedbinaryorder": 55,
             "hasStorage": true,
             "accessors": [
               {
@@ -54563,7 +54654,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 55,
+            "fixedbinaryorder": 56,
             "hasStorage": true,
             "accessors": [
               {
@@ -54654,7 +54745,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 56,
+            "fixedbinaryorder": 57,
             "hasStorage": true,
             "accessors": [
               {
@@ -54745,7 +54836,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 57,
+            "fixedbinaryorder": 58,
             "hasStorage": true,
             "accessors": [
               {
@@ -54836,7 +54927,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 58,
+            "fixedbinaryorder": 59,
             "hasStorage": true,
             "accessors": [
               {
@@ -54927,7 +55018,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 59,
+            "fixedbinaryorder": 60,
             "hasStorage": true,
             "accessors": [
               {
@@ -55018,7 +55109,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 60,
+            "fixedbinaryorder": 61,
             "hasStorage": true,
             "accessors": [
               {
@@ -55109,7 +55200,7 @@
               "Final",
               "HasStorage"
             ],
-            "fixedbinaryorder": 61,
+            "fixedbinaryorder": 62,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -55159,7 +55250,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 62,
+            "fixedbinaryorder": 63,
             "hasStorage": true,
             "accessors": [
               {
@@ -55251,7 +55342,7 @@
               "HasStorage",
               "RawDocComment"
             ],
-            "fixedbinaryorder": 63,
+            "fixedbinaryorder": 64,
             "hasStorage": true,
             "accessors": [
               {
@@ -55342,7 +55433,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 64,
+            "fixedbinaryorder": 65,
             "hasStorage": true,
             "accessors": [
               {
@@ -55433,7 +55524,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 65,
+            "fixedbinaryorder": 66,
             "hasStorage": true,
             "accessors": [
               {
@@ -55524,7 +55615,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 66,
+            "fixedbinaryorder": 67,
             "hasStorage": true,
             "accessors": [
               {
@@ -55615,7 +55706,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 67,
+            "fixedbinaryorder": 68,
             "hasStorage": true,
             "accessors": [
               {
@@ -55706,7 +55797,7 @@
               "Final",
               "HasStorage"
             ],
-            "fixedbinaryorder": 68,
+            "fixedbinaryorder": 69,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -55756,7 +55847,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 69,
+            "fixedbinaryorder": 70,
             "hasStorage": true,
             "accessors": [
               {
@@ -55847,7 +55938,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 70,
+            "fixedbinaryorder": 71,
             "hasStorage": true,
             "accessors": [
               {
@@ -55938,7 +56029,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 71,
+            "fixedbinaryorder": 72,
             "hasStorage": true,
             "accessors": [
               {
@@ -56029,7 +56120,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 72,
+            "fixedbinaryorder": 73,
             "hasStorage": true,
             "accessors": [
               {
@@ -56121,7 +56212,7 @@
               "HasStorage",
               "RawDocComment"
             ],
-            "fixedbinaryorder": 73,
+            "fixedbinaryorder": 74,
             "hasStorage": true,
             "accessors": [
               {
@@ -56212,7 +56303,7 @@
               "Final",
               "HasStorage"
             ],
-            "fixedbinaryorder": 74,
+            "fixedbinaryorder": 75,
             "isLet": true,
             "hasStorage": true,
             "accessors": [
@@ -56270,7 +56361,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 75,
+            "fixedbinaryorder": 76,
             "hasStorage": true,
             "accessors": [
               {
@@ -56385,7 +56476,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 76,
+            "fixedbinaryorder": 77,
             "hasStorage": true,
             "accessors": [
               {
@@ -56500,7 +56591,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 77,
+            "fixedbinaryorder": 78,
             "hasStorage": true,
             "accessors": [
               {
@@ -56615,7 +56706,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 78,
+            "fixedbinaryorder": 79,
             "hasStorage": true,
             "accessors": [
               {
@@ -56722,7 +56813,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 79,
+            "fixedbinaryorder": 80,
             "hasStorage": true,
             "accessors": [
               {
@@ -56813,7 +56904,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 80,
+            "fixedbinaryorder": 81,
             "hasStorage": true,
             "accessors": [
               {
@@ -56904,7 +56995,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 81,
+            "fixedbinaryorder": 82,
             "hasStorage": true,
             "accessors": [
               {
@@ -56995,7 +57086,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 82,
+            "fixedbinaryorder": 83,
             "hasStorage": true,
             "accessors": [
               {
@@ -57086,7 +57177,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 83,
+            "fixedbinaryorder": 84,
             "hasStorage": true,
             "accessors": [
               {
@@ -57177,7 +57268,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 84,
+            "fixedbinaryorder": 85,
             "hasStorage": true,
             "accessors": [
               {
@@ -57268,7 +57359,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 85,
+            "fixedbinaryorder": 86,
             "hasStorage": true,
             "accessors": [
               {
@@ -57368,7 +57459,7 @@
               "HasStorage",
               "RawDocComment"
             ],
-            "fixedbinaryorder": 86,
+            "fixedbinaryorder": 87,
             "hasStorage": true,
             "accessors": [
               {
@@ -57475,7 +57566,7 @@
               "Custom",
               "HasStorage"
             ],
-            "fixedbinaryorder": 87,
+            "fixedbinaryorder": 88,
             "hasStorage": true,
             "accessors": [
               {
@@ -57566,7 +57657,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 88,
+            "fixedbinaryorder": 89,
             "hasStorage": true,
             "accessors": [
               {
@@ -57755,7 +57846,7 @@
               "HasStorage",
               "Final"
             ],
-            "fixedbinaryorder": 89,
+            "fixedbinaryorder": 90,
             "hasStorage": true
           },
           {
@@ -57780,7 +57871,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 90,
+            "fixedbinaryorder": 91,
             "hasStorage": true,
             "accessors": [
               {
@@ -57871,7 +57962,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 91,
+            "fixedbinaryorder": 92,
             "hasStorage": true,
             "accessors": [
               {
@@ -57962,7 +58053,7 @@
               "Custom",
               "HasStorage"
             ],
-            "fixedbinaryorder": 92,
+            "fixedbinaryorder": 93,
             "hasStorage": true,
             "accessors": [
               {
@@ -58061,7 +58152,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 93,
+            "fixedbinaryorder": 94,
             "hasStorage": true,
             "accessors": [
               {
@@ -58168,7 +58259,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 94,
+            "fixedbinaryorder": 95,
             "hasStorage": true,
             "accessors": [
               {
@@ -58259,7 +58350,7 @@
               "HasInitialValue",
               "HasStorage"
             ],
-            "fixedbinaryorder": 95,
+            "fixedbinaryorder": 96,
             "hasStorage": true,
             "accessors": [
               {
@@ -58531,6 +58622,49 @@
               "ObjC",
               "Custom",
               "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "registerForAppLifecycleNotifications",
+            "printedName": "registerForAppLifecycleNotifications()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9ShuftiPro9CameraVc2C36registerForAppLifecycleNotificationsyyF",
+            "mangledName": "$s9ShuftiPro9CameraVc2C36registerForAppLifecycleNotificationsyyF",
+            "moduleName": "ShuftiPro",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "applicationWillEnterForeground",
+            "printedName": "applicationWillEnterForeground()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ShuftiPro@objc(cs)CameraVc2(im)applicationWillEnterForeground",
+            "mangledName": "$s9ShuftiPro9CameraVc2C30applicationWillEnterForegroundyyF",
+            "moduleName": "ShuftiPro",
+            "isOpen": true,
+            "declAttributes": [
+              "Custom",
+              "ObjC"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -105227,7 +105361,7 @@
       "kind": "StringLiteral",
       "offset": 2653,
       "length": 7,
-      "value": "\"3.4.7\""
+      "value": "\"3.4.8\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/PreviewScreen\/ConfirmPhotoVc.swift",
@@ -106044,105 +106178,105 @@
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3346,
+      "offset": 3038,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3375,
+      "offset": 3376,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3408,
+      "offset": 3405,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3440,
+      "offset": 3438,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3476,
+      "offset": 3470,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3509,
+      "offset": 3506,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3541,
+      "offset": 3539,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3569,
+      "offset": 3571,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3597,
+      "offset": 3599,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3632,
+      "offset": 3627,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3662,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "IntegerLiteral",
-      "offset": 3665,
+      "offset": 3695,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 3760,
+      "offset": 3789,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 3970,
+      "offset": 3999,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 4035,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4065,
+      "offset": 4064,
       "length": 5,
       "value": "false"
     },
@@ -106156,105 +106290,112 @@
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 4130,
+      "offset": 4123,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4159,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "IntegerLiteral",
-      "offset": 4393,
+      "offset": 4422,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "IntegerLiteral",
-      "offset": 4681,
+      "offset": 4710,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "FloatLiteral",
-      "offset": 4705,
+      "offset": 4734,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 4744,
+      "offset": 4773,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 4780,
+      "offset": 4809,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 4822,
+      "offset": 4851,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 4855,
+      "offset": 4884,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 5261,
+      "offset": 5290,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 5429,
+      "offset": 5458,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 5459,
+      "offset": 5488,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 5551,
+      "offset": 5580,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 5497,
+      "offset": 5526,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "StringLiteral",
-      "offset": 6214,
+      "offset": 6243,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zaidahmad\/Desktop\/DESKTOP\/optimised_sdk\/ios-sdk\/ShuftiPro\/CameraScreen\/CameraVc2.swift",
       "kind": "BooleanLiteral",
-      "offset": 6249,
+      "offset": 6278,
       "length": 4,
       "value": "true"
     },

@@ -352,6 +352,7 @@ SWIFT_CLASS("_TtC9ShuftiPro9CameraVc2")
 - (void)viewWillDisappear:(BOOL)animated;
 - (void)viewDidLayoutSubviews;
 - (void)didReceiveMemoryWarning;
+- (void)applicationWillEnterForeground;
 - (void)touchesBegan:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
 - (IBAction)uploadPassportBtnPressedWithSender:(UIButton * _Nonnull)sender;
 - (IBAction)backBtnPressedOnCamera:(id _Nonnull)sender;
