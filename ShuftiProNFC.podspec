@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
 #
 
 spec.name         = "ShuftiProNFC"
-spec.version      = "3.5.0"
+spec.version      = "3.5.1"
 spec.summary      = "Shufti Pro is designed to verify documents in realtime."
 
 # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ spec.source       = { :git => "https://github.com/shuftipro/iOS-nfc-binary-pod.g
 #  Not including the public_header_files will make all headers public.
 #
 
-  spec.ios.vendored_frameworks = 'ShuftiPro.framework'
+  spec.ios.vendored_frameworks = 'ShuftiPro.xcframework'
 
   spec.dependency 'Socket.IO-Client-Swift'
   spec.dependency 'lottie-ios'
