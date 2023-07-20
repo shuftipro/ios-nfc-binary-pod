@@ -251,7 +251,7 @@
   },
   {
     "iso_code": "cd",
-    "name": "Congo, the Democratic Republic of the",
+    "name": "Democratic Republic of the Congo",
     "nationality": "Congolese"
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "iso_code": "ci",
-    "name": "Cote D''Ivoire",
+    "name": "Cote D'Ivoire",
     "nationality": "Ivorian"
   },
   {
@@ -506,7 +506,7 @@
   },
   {
     "iso_code": "ir",
-    "name": "Iran, Islamic Republic of",
+    "name": "Islamic Republic of Iran",
     "nationality": "Iranian"
   },
   {
@@ -561,12 +561,12 @@
   },
   {
     "iso_code": "kp",
-    "name": "Korea, Democratic People''s Republic of",
+    "name": "Democratic People's Republic of Korea",
     "nationality": "North Korean"
   },
   {
     "iso_code": "kr",
-    "name": "Korea, Republic of",
+    "name": "Republic of Korea",
     "nationality": "South Korean"
   },
   {
@@ -581,7 +581,7 @@
   },
   {
     "iso_code": "la",
-    "name": "Lao People''s Democratic Republic",
+    "name": "Lao People's Democratic Republic",
     "nationality": "Laotian"
   },
   {
@@ -631,7 +631,7 @@
   },
   {
     "iso_code": "mk",
-    "name": "Macedonia, the Former Yugoslav Republic of",
+    "name": "Former Yugoslav Republic of Macedonia",
     "nationality": "Macedonian"
   },
   {
@@ -696,12 +696,12 @@
   },
   {
     "iso_code": "fm",
-    "name": "Micronesia, Federated States of",
+    "name": "Federated States of Micronesia",
     "nationality": "micronesian"
   },
   {
     "iso_code": "md",
-    "name": "Moldova, Republic of",
+    "name": "Republic of Moldova",
     "nationality": "Moldovan"
   },
   {
@@ -1044,7 +1044,7 @@
   {
     "id": 208,
     "iso_code": "tw",
-    "name": "Taiwan, Province of China",
+    "name": "Province of China Taiwan",
     "nationality": "Taiwanese"
   },
   {
@@ -1054,7 +1054,7 @@
   },
   {
     "iso_code": "tz",
-    "name": "Tanzania, United Republic of",
+    "name": "United Republic of Tanzania",
     "nationality": "Tanzanian"
   },
   {
@@ -1238,19 +1238,9 @@
     "nationality": "South Sudan"
   },
   {
-    "name": "South Georgia and the South Sandwich Islands",
-    "iso_code": "gs",
-    "nationality": "South Georgian"
-  },
-  {
     "name": "United States Minor Outlying Islands",
     "iso_code": "um",
     "nationality": "American Islander"
-  },
-  {
-    "name": "Svalbard and Jan Mayen",
-    "iso_code": "sj",
-    "nationality": "Svalbardi and Jan Mayen"
   },
   {
     "name": "Ivory Coast",
