@@ -12,7 +12,6 @@ import CoreNFC
 import CoreVideo
 import CryptoKit
 import Foundation
-import Lottie
 import MessageUI
 import MobileCoreServices
 import NFCPassportReader
@@ -34,6 +33,24 @@ import _StringProcessing
 }
 @_hasMissingDesignatedInitializers public class Reachability {
   @objc deinit
+}
+public struct DocType {
+}
+public enum DocumentType {
+  case idCard
+  case drivingLicence
+  case passport
+  case creditOrDebitCard
+  case utilityBills
+  case bankStatement
+  case anyDoc
+  case printed
+  case handwritten
+  public static func == (a: ShuftiPro.DocumentType, b: ShuftiPro.DocumentType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
 }
 @_inheritsConvenienceInitializers @objc public class ShuftiPro : ObjectiveC.NSObject {
   public var fontColor: UIKit.UIColor
@@ -62,3 +79,5 @@ extension Foundation.Data {
 extension Swift.String {
   public func sha256() -> Swift.String
 }
+extension ShuftiPro.DocumentType : Swift.Equatable {}
+extension ShuftiPro.DocumentType : Swift.Hashable {}
