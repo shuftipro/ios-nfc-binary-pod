@@ -877,6 +877,7 @@ SWIFT_CLASS("_TtC9ShuftiPro8ResultVc")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified verifiedDescLbl;
 @property (nonatomic, weak) IBOutlet WKWebView * _Null_unspecified verifiedImageWebView;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified lblTermsAndConditions;
+@property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified termsAndConditionTextView;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified titleOnLoadingLbl;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified pleaseWaitLbl;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified uploadPercentageLbl;
@@ -904,12 +905,10 @@ SWIFT_CLASS("_TtC9ShuftiPro8ResultVc")
 @end
 
 
-@class MFMailComposeViewController;
-
-@interface ResultVc (SWIFT_EXTENSION(ShuftiPro))
-- (void)tappedOnLabel:(UITapGestureRecognizer * _Nonnull)gesture;
-- (void)mailComposeController:(MFMailComposeViewController * _Nonnull)controller didFinishWithResult:(MFMailComposeResult)result error:(NSError * _Nullable)error;
+@interface ResultVc (SWIFT_EXTENSION(ShuftiPro)) <UITextViewDelegate>
+- (BOOL)textView:(UITextView * _Nonnull)textView shouldInteractWithURL:(NSURL * _Nonnull)URL inRange:(NSRange)characterRange interaction:(UITextItemInteraction)interaction SWIFT_WARN_UNUSED_RESULT;
 @end
+
 
 @class NSURLSessionTask;
 @class NSURLSessionDownloadTask;
@@ -918,6 +917,13 @@ SWIFT_CLASS("_TtC9ShuftiPro8ResultVc")
 - (void)URLSession:(NSURLSession * _Nonnull)session task:(NSURLSessionTask * _Nonnull)task didCompleteWithError:(NSError * _Nullable)error;
 - (void)URLSession:(NSURLSession * _Nonnull)session downloadTask:(NSURLSessionDownloadTask * _Nonnull)downloadTask didFinishDownloadingToURL:(NSURL * _Nonnull)location;
 - (void)URLSession:(NSURLSession * _Nonnull)session task:(NSURLSessionTask * _Nonnull)task didSendBodyData:(int64_t)bytesSent totalBytesSent:(int64_t)totalBytesSent totalBytesExpectedToSend:(int64_t)totalBytesExpectedToSend;
+@end
+
+@class MFMailComposeViewController;
+
+@interface ResultVc (SWIFT_EXTENSION(ShuftiPro))
+- (void)tappedOnLabel:(UITapGestureRecognizer * _Nonnull)gesture;
+- (void)mailComposeController:(MFMailComposeViewController * _Nonnull)controller didFinishWithResult:(MFMailComposeResult)result error:(NSError * _Nullable)error;
 @end
 
 
