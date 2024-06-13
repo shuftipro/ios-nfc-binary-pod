@@ -849,6 +849,7 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified idNumberView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified genderView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified addressView;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified nationalityView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified fullNameSwitchView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified firstNameSwitchView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified lastNameSwitchView;
@@ -859,6 +860,7 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified idNumberSwitchView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified genderSwitchView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified addressSwitchView;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified nationalitySwitchView;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified fullNameTxt;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified firstNameTxt;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified lastNameTxt;
@@ -870,6 +872,7 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified genderBtn;
 @property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified addressTxt;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified genderTxt;
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified nationalityTxt;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified fullNameError;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified firstNameError;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified lastNameError;
@@ -880,6 +883,8 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified genderError;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified idNumberError;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified addressError;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified nationalityBtn;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified nationalityError;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified fullNameTitle;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified firstNameTitle;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified lastNameTitle;
@@ -890,6 +895,7 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified genderTitle;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified idNumberTitle;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified addressTitle;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified nationalityTitle;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified dobCalender;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified expiryCalender;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified issueCalender;
@@ -900,10 +906,12 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 @property (nonatomic, weak) IBOutlet LoadingButton * _Null_unspecified nextBtn;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified headingLabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified subHeadingLabel;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified nationalityDownArrow;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (IBAction)nextBtnPressed:(id _Nonnull)sender;
 - (IBAction)genderDropdownBtnPressed:(UIButton * _Nonnull)sender;
+- (IBAction)nationalityDropdownBtnPressed:(UIButton * _Nonnull)sender;
 - (void)textViewDidBeginEditing:(UITextView * _Nonnull)textView;
 - (void)textViewDidEndEditing:(UITextView * _Nonnull)textView;
 - (void)textViewDidChange:(UITextView * _Nonnull)textView;
@@ -1172,6 +1180,7 @@ SWIFT_CLASS("_TtC9ShuftiPro26ProofPreviewViewController")
 - (IBAction)zoomButtonClickAction:(id _Nonnull)sender;
 - (void)swipeRightGestureWithGesture:(UISwipeGestureRecognizer * _Nonnull)gesture;
 - (void)presentGeneralAlertInternetIssue;
+- (void)internetDisConnected;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
