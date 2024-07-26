@@ -1512,8 +1512,8 @@ SWIFT_CLASS("_TtC9ShuftiPro24ServiceDeclineReasonCell")
 @end
 
 
-SWIFT_CLASS("_TtC9ShuftiPro6Shufti")
-@interface Shufti : NSObject
+SWIFT_CLASS("_TtC9ShuftiPro9ShuftiPro")
+@interface ShuftiPro : NSObject
 - (void)registerWithClientID:(NSString * _Nonnull)clientID customerID:(NSString * _Nonnull)customerID configs:(NSDictionary<NSString *, id> * _Nullable)configs completion:(void (^ _Nonnull)(id _Nonnull))completion;
 - (void)unRegister;
 - (void)shuftiProVerificationWithRequestObject:(NSDictionary<NSString *, id> * _Nonnull)dataObjectObj authKeys:(NSDictionary<NSString *, NSString *> * _Nonnull)authKeys parentVC:(UIViewController * _Nonnull)pvc configs:(NSDictionary<NSString *, id> * _Nullable)configs completion:(void (^ _Nonnull)(id _Nonnull))completion;
