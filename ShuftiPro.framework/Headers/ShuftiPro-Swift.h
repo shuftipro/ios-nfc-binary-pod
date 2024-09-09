@@ -402,6 +402,7 @@ SWIFT_CLASS("_TtC9ShuftiPro31CameraInstructionViewController")
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified doctInstImage4;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified doctInstImage5;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified addressFirstLabelTopConstraint;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified commonLabel1TopConstraint;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewDidDisappear:(BOOL)animated;
@@ -464,6 +465,8 @@ SWIFT_CLASS("_TtC9ShuftiPro22CustomVisualEffectView")
 SWIFT_CLASS("_TtC9ShuftiPro31DataLoadingScreenViewController")
 @interface DataLoadingScreenViewController : UIViewController
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified loaderBackView;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified loaderGifImageView;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified pleaseWaitLabelForCustom;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)internetConnectedAgain;
@@ -494,6 +497,8 @@ SWIFT_CLASS("_TtC9ShuftiPro27DeclineResultViewController")
 @property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified termsAndConditionTextView;
 @property (nonatomic, weak) IBOutlet LoadingButton * _Null_unspecified proceedButton;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified privacyPolicyTextLable;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified privacyTopView;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (IBAction)proceedButtonClickAction:(id _Nonnull)sender;
@@ -646,23 +651,6 @@ SWIFT_CLASS("_TtC9ShuftiPro13LoadingButton")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 - (void)layoutSubviews;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
-@end
-
-
-/// A control for the inputting of month and year values in a view that uses a spinning-wheel or slot-machine metaphor.
-SWIFT_CLASS("_TtC9ShuftiPro20MonthYearWheelPicker")
-@interface MonthYearWheelPicker : UIPickerView
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class NSAttributedString;
-
-@interface MonthYearWheelPicker (SWIFT_EXTENSION(ShuftiPro)) <UIPickerViewDataSource, UIPickerViewDelegate>
-- (NSInteger)numberOfComponentsInPickerView:(UIPickerView * _Nonnull)pickerView SWIFT_WARN_UNUSED_RESULT;
-- (NSInteger)pickerView:(UIPickerView * _Nonnull)pickerView numberOfRowsInComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
-- (void)pickerView:(UIPickerView * _Nonnull)pickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component;
-- (NSAttributedString * _Nullable)pickerView:(UIPickerView * _Nonnull)pickerView attributedTitleForRow:(NSInteger)row forComponent:(NSInteger)component SWIFT_WARN_UNUSED_RESULT;
 @end
 
 
@@ -853,6 +841,7 @@ SWIFT_CLASS("_TtC9ShuftiPro12NativeEngine") SWIFT_AVAILABILITY(tvos,introduced=1
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIPickerView;
 
 SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 @interface OCRDataInputViewController : UIViewController <UIPickerViewDataSource, UIPickerViewDelegate, UITextFieldDelegate, UITextViewDelegate>
@@ -941,6 +930,7 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified astericTextField;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified lastTwoTextField;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified idNumberErrorCredit;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified heightFortheBottomView;
 - (void)viewDidLoad;
 - (void)donePressed;
 - (void)viewWillAppear:(BOOL)animated;
@@ -1013,32 +1003,6 @@ SWIFT_CLASS("_TtC9ShuftiPro34PersistenPofileHeaderTableViewCell")
 - (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 - (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 @end
-
-
-SWIFT_CLASS("_TtC9ShuftiPro35PersistentDataConsentViewController")
-@interface PersistentDataConsentViewController : UIViewController <UIGestureRecognizerDelegate, UITextViewDelegate>
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified consentHeadingLabel;
-@property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified consentDetail;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified notNowBtn;
-@property (nonatomic, weak) IBOutlet LoadingButton * _Null_unspecified confirmBtn;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified policyCheckBoxImg;
-@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified privacyPolicyClickButton;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified langIcon;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified langNameLabel;
-@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified downArrow;
-@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified languageChangeView;
-@property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified termsAndConditionTextView;
-- (void)viewDidLoad;
-- (void)viewWillAppear:(BOOL)animated;
-- (IBAction)privacyPolicyClickAction:(id _Nonnull)sender;
-- (IBAction)confirmButtonClickAction:(id _Nonnull)sender;
-- (IBAction)notNowButtonClickAction:(id _Nonnull)sender;
-- (BOOL)textView:(UITextView * _Nonnull)textView shouldInteractWithURL:(NSURL * _Nonnull)URL inRange:(NSRange)characterRange interaction:(UITextItemInteraction)interaction SWIFT_WARN_UNUSED_RESULT;
-- (void)textViewDidChangeSelection:(UITextView * _Nonnull)textView;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
 
 @class UIActivityIndicatorView;
 
@@ -1115,6 +1079,7 @@ SWIFT_CLASS("_TtC9ShuftiPro22PoweredByShuftiProView")
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified shuftiProLogo;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified leadingForStackView;
 @property (nonatomic, weak) IBOutlet UIStackView * _Null_unspecified mainStackForShuftiLogo;
+@property (nonatomic, weak) IBOutlet WKWebView * _Null_unspecified svgWebView;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified customLogo;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified widthForLogo;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified heightForLogo;
@@ -1221,6 +1186,7 @@ SWIFT_CLASS("_TtC9ShuftiPro26ProofPreviewViewController")
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified imageZoomButton;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified imageZoomTopView;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified zoomImageLabel;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewWillDisappear:(BOOL)animated;
@@ -1303,7 +1269,10 @@ SWIFT_CLASS("_TtC9ShuftiPro20ResultViewController")
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified showResultView;
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified retryButton;
 @property (nonatomic, weak) IBOutlet LoadingButton * _Null_unspecified proceedButton;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified loaderGifImageView;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified privacyPolicyTextLabel;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified privacyTopView;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceButtons;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewWillDisappear:(BOOL)animated;
@@ -1344,6 +1313,7 @@ SWIFT_CLASS("_TtC9ShuftiPro26RetryServiceViewController")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified topSpaceParentView;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified heightForInstructionLabel;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified instructionTopSpace;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)internetConnectedAgain;
@@ -1368,6 +1338,10 @@ SWIFT_CLASS("_TtC9ShuftiPro26SelectCountryTableViewCell")
 @property (nonatomic, weak) IBOutlet UIStackView * _Null_unspecified countryLabelStackView;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified countryFlagLabel1;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified countryCodeLabel1;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified countryFlagWidth;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified countryCodeLabelWidth;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified countryFlagLabel1width;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified countryCodeLabel1Width;
 - (void)awakeFromNib;
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
@@ -1512,8 +1486,8 @@ SWIFT_CLASS("_TtC9ShuftiPro24ServiceDeclineReasonCell")
 @end
 
 
-SWIFT_CLASS("_TtC9ShuftiPro9ShuftiPro")
-@interface ShuftiPro : NSObject
+SWIFT_CLASS("_TtC9ShuftiPro6Shufti")
+@interface Shufti : NSObject
 - (void)registerWithClientID:(NSString * _Nonnull)clientID customerID:(NSString * _Nonnull)customerID configs:(NSDictionary<NSString *, id> * _Nullable)configs completion:(void (^ _Nonnull)(id _Nonnull))completion;
 - (void)unRegister;
 - (void)shuftiProVerificationWithRequestObject:(NSDictionary<NSString *, id> * _Nonnull)dataObjectObj authKeys:(NSDictionary<NSString *, NSString *> * _Nonnull)authKeys parentVC:(UIViewController * _Nonnull)pvc configs:(NSDictionary<NSString *, id> * _Nullable)configs completion:(void (^ _Nonnull)(id _Nonnull))completion;
@@ -1696,12 +1670,55 @@ SWIFT_CLASS("_TtC9ShuftiPro25UploadProofViewController")
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified pdfView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified videoView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified photoView;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified maxSizeViewT;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified maxSizeViewB;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified pdfLabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified videoLabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified photoLabel;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified maxsizeLabelT;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified maxsizeLabelB;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified pdfIcon;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified videoIcon;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified photoIcon;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified docLabel1;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified docLabel2;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified docLabel3;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified docLabel4;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified docLabel5;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified doctInstImage1;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified doctInstImage2;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified doctInstImage3;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified doctInstImage4;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified doctInstImage5;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified docMainView;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified addressLabel1;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified addressLabel2;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified addressLabel3;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified addressLabel4;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified addressLabel5;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified addressImage1;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified addressImage2;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified addressImage3;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified addressImage4;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified addressImage5;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified addressMainView;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified commonLabel1;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified commonLabel2;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified commonLabel3;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified commonImage1;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified commonImage2;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified commonImage3;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified commonMainView;
+@property (nonatomic, weak) IBOutlet LoadingButton * _Null_unspecified uploadButton;
+@property (nonatomic, weak) IBOutlet UIStackView * _Null_unspecified tagViewsTopStackView;
+@property (nonatomic, weak) IBOutlet UIStackView * _Null_unspecified bottomTagStackView;
+@property (nonatomic, weak) IBOutlet UIStackView * _Null_unspecified tagsTopStackView;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified addressLabelTopSpace;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified noCroppedTopSpace;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified commonlabel2TopSpace;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified commonLabel1TopSpace;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified widthRatioForAddressImage;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewWillDisappear:(BOOL)animated;
@@ -1745,6 +1762,7 @@ SWIFT_CLASS("_TtC9ShuftiPro31UserConsentTakingViewController")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified hbtfTopSpace;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified blurrImage;
 @property (nonatomic, weak) IBOutlet UIVisualEffectView * _Null_unspecified UIBlurrEffectView;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (IBAction)privacyPolicyClickAction:(id _Nonnull)sender;
@@ -1810,6 +1828,7 @@ SWIFT_CLASS("_TtC9ShuftiPro38VerificationRequirementsViewController")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified subHeadingLable;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified endInstructionLable;
 @property (nonatomic, weak) IBOutlet LoadingButton * _Null_unspecified proceedBtn;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewWillDisappear:(BOOL)animated;

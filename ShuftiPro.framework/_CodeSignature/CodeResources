@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		OQXwWceSwyN8Et9KFYPNKEs1F0U=
+		e4DgO99U7pydqHCcE4phduGXt5I=
 		</data>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>CameraInstruction.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		QhWg4CBUHJTvBkV7ItVWJ4ruoIU=
+		hsbc0WDcEtmIRs4gS5OHa/+L39Y=
 		</data>
 		<key>CustomSwitch.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>DataLoadingScreen.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		KfPGZtiThxTN5Q6ZpOkCBMVsVOE=
+		jTelYWvU85UrLcUQTPuEsOACz+A=
 		</data>
 		<key>DeclineResult.storyboardc/DeclineResultViewController.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>DeclineResult.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		xQylHPlB3dSngSZh748VfjRP2TU=
+		rtG/vBNE0sWTJrrdM/0UxNI/LyU=
 		</data>
 		<key>DropDownCell.nib</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<data>
-		rjPjwXwZN+Hp0VMnf6u8/CJ7ZzY=
+		sA9wmTBONqW1FL/WfH8BQ/ZCSNY=
 		</data>
 		<key>Headers/ShuftiPro.h</key>
 		<data>
@@ -102,11 +102,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y3r3eRzmvdSNfQzAleQIMu2Bda4=
+		Etj4+MKhbNPstI+re10PAuCt0pA=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		UgXPtQwvTzZ6yX7k+lNG9sEi+Ok=
+		LPM5moNUkMwgcsYZVyUIDS0H//A=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		hngsNJdxavhOvIHrqHctNPmVAo8=
+		jvnC7f2HjxMxxL3HWrHMprobMp8=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -154,11 +154,11 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		pMlLPeW8DXqMoe9kH8J/kKFu3CU=
+		NadUxxEe9I8B4oj2StSMUzlhyrw=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		chenVpRJ1HmOt2+l+TQhUH+LFEA=
+		eDwGtG4lm5wLIlVSqBp122FFEdg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>NFCDetailTableViewCell.nib</key>
 		<data>
-		TfNHZO4sOYQcxir53lGREIENvBM=
+		ovvwOxlkwHCkSt3NoLvHnRnVoD4=
 		</data>
 		<key>NFCHeaderTableViewCell.nib</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>NFCScan.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		frGqSHi2cw1KFtl7QzUqKav4khY=
+		SlpNpqTF/50VUbPCGT0nMy45+1k=
 		</data>
 		<key>OCRDataInput.storyboardc/Info.plist</key>
 		<data>
@@ -202,23 +202,11 @@
 		</data>
 		<key>OCRDataInput.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		gfTNkIaIQmO/3JjrGRe+6ijYaW8=
+		gjTlb79dzjgedduzaf9TFlYbpkU=
 		</data>
 		<key>PersistenPofileHeaderTableViewCell.nib</key>
 		<data>
 		kvaKfLsqWlcr1B8N/yTgIdHGz3s=
-		</data>
-		<key>PersistentDataConsent.storyboardc/Info.plist</key>
-		<data>
-		vWcZ6GsO0givXEqVlAsF/SrHrv4=
-		</data>
-		<key>PersistentDataConsent.storyboardc/PersistentDataConsentViewController.nib</key>
-		<data>
-		OApl+8G8r+1GcpWvOT6wcWxsklA=
-		</data>
-		<key>PersistentDataConsent.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
-		<data>
-		2HwMwbaqy9ZwZLKBzfxm+JNvs0E=
 		</data>
 		<key>PersistentProfiles.storyboardc/Info.plist</key>
 		<data>
@@ -246,7 +234,7 @@
 		</data>
 		<key>PoweredByShuftiProView.nib</key>
 		<data>
-		6bgs/Zp7TLQ33asZPLhU07sO0G8=
+		p16MzjhJzN3mENDMc0Fv0eEUIIY=
 		</data>
 		<key>ProfileDetailTableViewCell.nib</key>
 		<data>
@@ -262,7 +250,7 @@
 		</data>
 		<key>ProofCapturing.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		ALR2Pmrc6zuXShwj/kCjFuInWQE=
+		8WdBl0TOFDnEILRHcmi6jiFaDPA=
 		</data>
 		<key>ProofPreview.storyboardc/Info.plist</key>
 		<data>
@@ -274,7 +262,7 @@
 		</data>
 		<key>ProofPreview.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		tB7uZxxMSUVU3iFCc1vURMBrz6g=
+		YK5ajAcZCD1gB202Gi78RXbVyRM=
 		</data>
 		<key>ProofSubmitOptions.storyboardc/Info.plist</key>
 		<data>
@@ -286,7 +274,7 @@
 		</data>
 		<key>ProofSubmitOptions.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		F+eeJ3BNVK4Tn4h/1ZIM09Zt2E8=
+		ytqvGZ5j6f56hSpd4AllMrzwrkw=
 		</data>
 		<key>Result.storyboardc/Info.plist</key>
 		<data>
@@ -298,7 +286,7 @@
 		</data>
 		<key>Result.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		UYg45xQ0wvMaaQy02YTSbDf9nj8=
+		9fcCjv9K1doqy9RrwuV8P5cbC8Q=
 		</data>
 		<key>RetryReasonTableViewCell.nib</key>
 		<data>
@@ -314,7 +302,7 @@
 		</data>
 		<key>RetryService.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		BR5C+w5wBe+HFXZqEQm51wTxoXA=
+		TpA9gpa+v91C1afeIIDN5w2P0cw=
 		</data>
 		<key>SelectCountry.storyboardc/Info.plist</key>
 		<data>
@@ -326,7 +314,7 @@
 		</data>
 		<key>SelectCountry.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		Y8TeFuI/iQXy9cfAzYzNU7CncfU=
+		7oYX5IwHFhE+jpaK1dOAVywoqhQ=
 		</data>
 		<key>SelectCountryWithCode.storyboardc/Info.plist</key>
 		<data>
@@ -338,7 +326,7 @@
 		</data>
 		<key>SelectCountryWithCode.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		Bk1xjIGpmtOoFMe6gF6j9VAo6SU=
+		N33GiVWmbRv6QNTC/aXRJSAUECA=
 		</data>
 		<key>SelectLanguageScreen.storyboardc/Info.plist</key>
 		<data>
@@ -390,7 +378,7 @@
 		</data>
 		<key>UploadProof.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		cxjQ4hBCMZ0AUMriBkL/rWQLUsw=
+		kjoR3HOVewNnbUM7UsukX03Ds+4=
 		</data>
 		<key>UserConsentTaking.storyboardc/Info.plist</key>
 		<data>
@@ -402,7 +390,7 @@
 		</data>
 		<key>UserConsentTaking.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		+xfk1xOPQqJT/X6cjkcaKdfzVZE=
+		HWNWOA5pPGsC7sERWQY6GjVnLyI=
 		</data>
 		<key>UserFeedBack.storyboardc/Info.plist</key>
 		<data>
@@ -426,11 +414,11 @@
 		</data>
 		<key>VerificationRequirements.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		RTJpvsfZXm5BXm2Qmj64bSuSKHY=
+		swIxqqxvq5ryIBg/Il5VxUFWU+k=
 		</data>
 		<key>VerificationSectionTableViewCell.nib</key>
 		<data>
-		olwNkaPPpsVCHUawq4K0iuOfJ5A=
+		8iP90QgqjXr8cD9EL91b6N4iNds=
 		</data>
 		<key>VerificationTypesTableViewCell.nib</key>
 		<data>
@@ -448,13 +436,13 @@
 		<data>
 		Iir+WsdWumBf0zQCa4vcV85issA=
 		</data>
+		<key>alRajhiBank.gif</key>
+		<data>
+		jrs0vG9/uHkU9ZSSYakCa975E78=
+		</data>
 		<key>backSideGif.gif</key>
 		<data>
 		KBnMMfEQ2ya3Sk+V8Mnmn0Tlwc0=
-		</data>
-		<key>countriesCode.json</key>
-		<data>
-		0aXDaQ4czHGT0v5wuOlombM79kk=
 		</data>
 		<key>imageUploading.svg</key>
 		<data>
@@ -483,7 +471,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D3qCtc/VXJWN4rSPlkSvZKcvYcMlv+rkCSXEo1V+1TI=
+			r1QOdAlTa/J4OYLMLZ187XgNLp4+BKqI4j/24eF2eIM=
 			</data>
 		</dict>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
@@ -504,7 +492,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			68maLiDh/XzmjmdTcilm2W6OZcc+RDrnDPZO/oOm4K4=
+			D5vEJkdqhxFct2jV7FEe1LYuYbv94X1dACbtGFSLJ/4=
 			</data>
 		</dict>
 		<key>CustomSwitch.nib</key>
@@ -532,7 +520,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XYtxKyL+QvMntOy2QanJmr7dVYDeGQBNz5pkwttzEgE=
+			krmpIb3yaD6sslu4xK/40O/XhirsgUe0l8FyhKT8rFQ=
 			</data>
 		</dict>
 		<key>DeclineResult.storyboardc/DeclineResultViewController.nib</key>
@@ -553,7 +541,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+PmUbUbpMxbpuHWE6DJ0P0L8pD39UdAd2RFLHC7o220=
+			tdlfarsfQgqHSCbh9wNhRljliq9bTICthJFARmdDbQE=
 			</data>
 		</dict>
 		<key>DropDownCell.nib</key>
@@ -616,7 +604,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tgGQXq1J2klUDlgl0Ntw0dL8/oVlFakUL7Cs4qcst3I=
+			tGagE++HvEMAMiYuyX3PwS9baNIgmZQTtk4P9gQPFDc=
 			</data>
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
@@ -651,7 +639,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aSQWeCyrzKgckoKKkCjy7bi2x4nTHRfFH2JWnlwEqp8=
+			Ufj2yHA74ZJaXy5LI6YltDUWMwat3c1WDa4t5wHSN04=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -721,7 +709,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MhKGbzQn/8TMQ6kaqE6uPQTHHDtshhlMdAZap3X/d5M=
+			UXImjUBgw4mAJWZ31YuNrJocfxXTNQsA9vDnryrpcns=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -735,14 +723,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sGgpoCitmgENKwB2QZHWCt0xVht8+2TondjbLJKkDEA=
+			Op/UEqo2RuHHtbQO6kV/7sor+eVyzHGa1JaliGuczAc=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r7Tn7nWO9/uS9m62UdjvjBarl7+RoecST9PX4j8y2nQ=
+			qH6QCwzjZM3gd8dzShgKYfO8+B4OTUKiiIPissPpxMc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -763,7 +751,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M6082pYlSq734iJ9XLu9OCq+yPU4kPqmg33gxKXcyGo=
+			5UHnLx5IJ1Q/fQepbCmijn7zRBtCKcKE9A7bBqqYyLU=
 			</data>
 		</dict>
 		<key>NFCHeaderTableViewCell.nib</key>
@@ -798,7 +786,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vJOA2ULNn66nY2Qu6apOKRG2ky5fjb1vQ8QV8aw20uY=
+			IhWIwQyG0wlU8eIshem25slBsB1kkGP/t+rNNt8fI7U=
 			</data>
 		</dict>
 		<key>OCRDataInput.storyboardc/Info.plist</key>
@@ -819,7 +807,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RmeDb5QIOTNhiNrHeifJT3H8SDyC4mTI5CI5SZzUKzA=
+			Rw3A0fHe15UE4sX4cmMVK5YSuSG9ASToE7WN6rw25Co=
 			</data>
 		</dict>
 		<key>PersistenPofileHeaderTableViewCell.nib</key>
@@ -827,27 +815,6 @@
 			<key>hash2</key>
 			<data>
 			4lEvSMhmukXKM76uKdCYQMJsscIJPpr+coSriR0wyWo=
-			</data>
-		</dict>
-		<key>PersistentDataConsent.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ck2mKIdau3xp6oohRQK6/yPn5dn2e7PEEvuTn05Ia/4=
-			</data>
-		</dict>
-		<key>PersistentDataConsent.storyboardc/PersistentDataConsentViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sJBNIQhUv1KCwB0h1WsWG/mUAv10eKjvqRJepKI42fc=
-			</data>
-		</dict>
-		<key>PersistentDataConsent.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bxeqkQryXrCXiqRa4AIbOQrx3S4nUWMSImc8IB3AFmg=
 			</data>
 		</dict>
 		<key>PersistentProfiles.storyboardc/Info.plist</key>
@@ -896,7 +863,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2cvyKL9ixRcpS/Vl6oFGXl0j28YZ7m8aC/tyjaDUcbQ=
+			YNenJo0d+XypchMy0H0PQj20mBPxsAf7HzdZBYEp5Fo=
 			</data>
 		</dict>
 		<key>ProfileDetailTableViewCell.nib</key>
@@ -924,7 +891,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jQPxDGNW59SHJ7Vh6EUqhExIwT60TAVd0Xpl/Wh8+vI=
+			ykM53nrpwgxtZv1FCkO+rN9aX5tRFWfxvKLjO69g2sE=
 			</data>
 		</dict>
 		<key>ProofPreview.storyboardc/Info.plist</key>
@@ -945,7 +912,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gpSGurLPfzjF6O2Hdanig73xNs9MZURrnUgF4CCtyOQ=
+			YEqCyBC9IZRYXLyMegc0L9aW4dK/okM+wAo0GPYL7iI=
 			</data>
 		</dict>
 		<key>ProofSubmitOptions.storyboardc/Info.plist</key>
@@ -966,7 +933,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			47LyHk/sgaVBBc1GnqahytEvcVoyN2C3KgSYTVPsg5Y=
+			JgBdi+fE8Jmgll/oXBVzf9GLei5GL26XUjsb6S6qtO8=
 			</data>
 		</dict>
 		<key>Result.storyboardc/Info.plist</key>
@@ -987,7 +954,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gKVe4romavl+ogRON0R9Wwkf7c/7j05QYN4kH3lig28=
+			nfTuzkSoqetUwj+i1AODDMp8QLh5JDPqE5YDGg2Gprs=
 			</data>
 		</dict>
 		<key>RetryReasonTableViewCell.nib</key>
@@ -1015,7 +982,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kTE9ZLvfMbXmQt3SacZUsrjCSzdKipS3GPNDamls13c=
+			nNReFWPXxNQq0UMjM4t26oj60S/phFQFL96WYyMMYZk=
 			</data>
 		</dict>
 		<key>SelectCountry.storyboardc/Info.plist</key>
@@ -1036,7 +1003,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			12Ffg6bTthvjD8wXFyY++jcPoAatI/TixerOoUE6n3g=
+			CwP2CuDGKpc/d6RMtHyjpV2i21SIggxjNWb97cD87sQ=
 			</data>
 		</dict>
 		<key>SelectCountryWithCode.storyboardc/Info.plist</key>
@@ -1057,7 +1024,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U94cjC1JJViEAxrFiU6GskpnjOyCe0TieaG/Lax08uE=
+			X+0O1mV8Ln8E+iqA/4cekowM+fC9rfPyncuIqAVTkyI=
 			</data>
 		</dict>
 		<key>SelectLanguageScreen.storyboardc/Info.plist</key>
@@ -1148,7 +1115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KNLWWwQEMCiRdcbeiepDxgeGJvvXk+yuYQJmVWNYeBk=
+			QVSH0Dg/qyQZ915Dq6tl05a4T/qweD4CFHM6DwVkyGc=
 			</data>
 		</dict>
 		<key>UserConsentTaking.storyboardc/Info.plist</key>
@@ -1169,7 +1136,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TmiZF2SEh7cHfV7n46fMluI2t9wuOJCy0/Qah+cPclU=
+			heG0S8o7BA+kDhc8XUzWp5Iii2/DPBEuK6bqJbnxyNk=
 			</data>
 		</dict>
 		<key>UserFeedBack.storyboardc/Info.plist</key>
@@ -1211,14 +1178,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wS6SjyBjfIKr7xGwbrwCs2bYkeF1a5pgsaH/fcewr/k=
+			XA/0FsdEcObVqhE4xWO2P+4IOwTIzsOcISUOHeK4KJw=
 			</data>
 		</dict>
 		<key>VerificationSectionTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UFn3AD73KLeql1xu17VYxd9yxvkoo92U2EqJ+pdPRt0=
+			ZX67hHUUaMScxcmtKbdFc/rxyhjJ2BZsx0SCviosmHs=
 			</data>
 		</dict>
 		<key>VerificationTypesTableViewCell.nib</key>
@@ -1249,18 +1216,18 @@
 			xW7d0LeL6nt3s92QngmWHONLzfwoc+iebOwBv0mATlE=
 			</data>
 		</dict>
+		<key>alRajhiBank.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZTt3G5f/HUxsiik4RghB1LKTM9ojOM9FYpD++5ev4sw=
+			</data>
+		</dict>
 		<key>backSideGif.gif</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			BOLcarrbXDP2+D8dmuQgiTzGKxqOWL3uE/NucI30Ris=
-			</data>
-		</dict>
-		<key>countriesCode.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yAhaHZMqYpG0nCu54xZ6HpsWiEw0p6KR72v+DV0XzjA=
 			</data>
 		</dict>
 		<key>imageUploading.svg</key>
