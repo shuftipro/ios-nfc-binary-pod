@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		e4DgO99U7pydqHCcE4phduGXt5I=
+		LYQPlc31ncd2/914YzE8TUG55iU=
 		</data>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		jvnC7f2HjxMxxL3HWrHMprobMp8=
+		inEpTp/77NHi6izrfklniYUFvnQ=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		eDwGtG4lm5wLIlVSqBp122FFEdg=
+		SwLdWG8rjl+bObY7oiDiRbpdEf0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -464,6 +464,10 @@
 		<data>
 		nkGCnb2qAz4Cj6KOB2PublM3was=
 		</data>
+		<key>usaPassportVideo.mp4</key>
+		<data>
+		ws3Hb7eWovWHuqy1doaFmHsCgbM=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -471,7 +475,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r1QOdAlTa/J4OYLMLZ187XgNLp4+BKqI4j/24eF2eIM=
+			WwAP5MZPvJGb4iUC3mw4S6W+tuZIJXhlMAs+F1iWCsY=
 			</data>
 		</dict>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
@@ -709,7 +713,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UXImjUBgw4mAJWZ31YuNrJocfxXTNQsA9vDnryrpcns=
+			QUExJcF7T/i/8uBmOXVPpI8sIgxdYta6e/gB5ZajUXI=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -730,7 +734,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qH6QCwzjZM3gd8dzShgKYfO8+B4OTUKiiIPissPpxMc=
+			1f6Qrh/87WcOAZ9XufZdmP/O0YoSErAwpfB85l3U4m8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1263,6 +1267,13 @@
 			<key>hash2</key>
 			<data>
 			4DpCOlYmEWNYPoBm8FsLxOtV/uW74gOk3l9e2LnTxxw=
+			</data>
+		</dict>
+		<key>usaPassportVideo.mp4</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pbP/DanB5/iaYXrhdQK7wuCl2xp5HiExc8czXQYQ+Zs=
 			</data>
 		</dict>
 	</dict>
