@@ -336,7 +336,6 @@ SWIFT_CLASS("_TtC9ShuftiPro23AlertLabelManualCapture")
 
 @class UIView;
 
-/// Can be <code>UIView</code> or <code>UIBarButtonItem</code>.
 SWIFT_PROTOCOL("_TtP9ShuftiPro10AnchorView_")
 @protocol AnchorView
 @property (nonatomic, readonly, strong) UIView * _Nonnull plainView;
@@ -482,6 +481,7 @@ SWIFT_CLASS("_TtC9ShuftiPro31DataLoadingScreenViewController")
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified loaderGifImageView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified viewOnIt;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified pleaseWaitLabelForCustom;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified secretKeyLabel;
 - (void)viewDidLoad;
 - (void)callBackwillTerminateWithNotification:(NSNotification * _Nonnull)notification;
 - (void)callBackForeGroundWithNotification:(NSNotification * _Nonnull)notification;
@@ -513,7 +513,6 @@ SWIFT_CLASS("_TtC9ShuftiPro23DateSelectTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified textViewHeightConstraint;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (void)textFieldDidChange:(UITextField * _Nonnull)textField;
 - (void)incorporationDatePickerDoneButtonTapped;
 - (IBAction)calenderClickAction:(id _Nonnull)sender;
@@ -564,7 +563,6 @@ SWIFT_CLASS("_TtC9ShuftiPro20ShuftiExtendedUIView")
 @class UIFont;
 @class NSDictionary;
 
-/// A Material Design drop down in replacement for <code>UIPickerView</code>.
 SWIFT_CLASS("_TtC9ShuftiPro8DropDown")
 @interface DropDown : ShuftiExtendedUIView <UITableViewDataSource, UITableViewDelegate>
 @property (nonatomic) CGFloat cellHeight;
@@ -664,7 +662,6 @@ SWIFT_CLASS("_TtC9ShuftiPro27DropDownSelectTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified textViewHeightConstraint;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)dropDownButtonClickAction:(id _Nonnull)sender;
 - (void)handleTapOnLabel:(UITapGestureRecognizer * _Nonnull)gesture;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
@@ -684,6 +681,7 @@ SWIFT_CLASS("_TtC9ShuftiPro24EDDServiceViewController")
 - (void)viewDidLoad;
 - (void)handleTableViewTap:(UITapGestureRecognizer * _Nonnull)sender;
 - (void)viewWillAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
 - (IBAction)previousButtonAction:(id _Nonnull)sender;
 - (IBAction)nextButtonAction:(id _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
@@ -734,7 +732,6 @@ SWIFT_CLASS("_TtC9ShuftiPro23FileUploadTableViewCell")
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified uploadIcon;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)uploadFileAction:(id _Nonnull)sender;
 - (void)handleTapOnLabel:(UITapGestureRecognizer * _Nonnull)gesture;
 - (NSInteger)collectionView:(UICollectionView * _Nonnull)collectionView numberOfItemsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
@@ -759,8 +756,6 @@ SWIFT_CLASS("_TtC9ShuftiPro20HeadingTableViewCell")
 @interface HeadingTableViewCell : UITableViewCell
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified headingBackView;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified headingLabel;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -792,14 +787,19 @@ SWIFT_CLASS("_TtC9ShuftiPro23ImageZoomViewController")
 
 
 
+SWIFT_CLASS("_TtC9ShuftiPro15InternetPopView")
+@interface InternetPopView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC9ShuftiPro21LanguageTableViewCell")
 @interface LanguageTableViewCell : UITableViewCell
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified languageLabel;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified widthButton;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified heightButton;
 @property (nonatomic, weak) IBOutlet ShuftiExtendedUIButton * _Null_unspecified languageSelectButton;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)shuftiProLanguageButtonClickAction:(id _Nonnull)sender;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
@@ -830,7 +830,6 @@ SWIFT_CLASS("_TtC9ShuftiPro13LoadingButton")
 SWIFT_CLASS("_TtC9ShuftiPro37MultiSelectedFilterCollectionViewCell")
 @interface MultiSelectedFilterCollectionViewCell : UICollectionViewCell
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified filtertitleLable;
-- (void)awakeFromNib;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -854,7 +853,6 @@ SWIFT_CLASS("_TtC9ShuftiPro27MultiSelectionTableViewCell")
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
 - (void)awakeFromNib;
 - (void)handleTableViewTap:(UITapGestureRecognizer * _Nonnull)sender;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)multiselectionClicked:(id _Nonnull)sender;
 - (void)handleTapOnLabel:(UITapGestureRecognizer * _Nonnull)gesture;
 - (NSInteger)collectionView:(UICollectionView * _Nonnull)collectionView numberOfItemsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
@@ -877,6 +875,7 @@ SWIFT_CLASS("_TtC9ShuftiPro31MultipleSelectionViewController")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified pageTitle;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
 - (IBAction)crossButtonClickAction:(id _Nonnull)sender;
 - (void)searchBar:(UISearchBar * _Nonnull)searchBar textDidChange:(NSString * _Nonnull)searchText;
 - (void)handleKeyboardWillHide:(NSNotification * _Nonnull)notification;
@@ -911,7 +910,6 @@ SWIFT_CLASS("_TtC9ShuftiPro18NFCDetailTableCell")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified nfcDetailHeading;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified nfcDetailSubText;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -922,8 +920,6 @@ SWIFT_CLASS("_TtC9ShuftiPro22NFCDetailTableViewCell")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified headinglabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified detaillabel;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified bottomLine;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -932,8 +928,6 @@ SWIFT_CLASS("_TtC9ShuftiPro22NFCDetailTableViewCell")
 SWIFT_CLASS("_TtC9ShuftiPro22NFCHeaderTableViewCell")
 @interface NFCHeaderTableViewCell : UITableViewCell
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified sectionLabel;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -946,8 +940,6 @@ SWIFT_CLASS("_TtC9ShuftiPro17NFCImageTableCell")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified documentNumberValueLabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified issueAuthorityLabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified issueAuthorityValuelabel;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -966,7 +958,6 @@ SWIFT_CLASS("_TtC9ShuftiPro27NFCImagesCollectionViewCell")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified mainImaageLabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified faceImageLabel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified passportImagelabel;
-- (void)awakeFromNib;
 - (void)passportImageClick;
 - (void)faceImageClick;
 - (void)yoloImageClick;
@@ -1021,6 +1012,7 @@ SWIFT_CLASS("_TtC9ShuftiPro21NFCScanViewController") SWIFT_AVAILABILITY(ios,intr
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified topViewArrow;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
 - (IBAction)contineuButtonClickAction:(id _Nonnull)sender;
 - (IBAction)skipNFCFlow:(id _Nonnull)sender;
 - (IBAction)imageButtonClickAction:(id _Nonnull)sender;
@@ -1169,6 +1161,9 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 - (void)viewDidLoad;
 - (void)donePressed;
 - (void)viewWillAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
+- (void)internetConnectedAgain;
+- (void)presentGeneralAlertInternetIssue;
 - (IBAction)nextBtnPressed:(id _Nonnull)sender;
 - (IBAction)genderDropdownBtnPressed:(UIButton * _Nonnull)sender;
 - (IBAction)nationalityDropdownBtnPressed:(UIButton * _Nonnull)sender;
@@ -1195,13 +1190,13 @@ SWIFT_CLASS("_TtC9ShuftiPro26OCRDataInputViewController")
 
 
 
-
 @interface OCRDataInputViewController (SWIFT_EXTENSION(ShuftiPro))
 - (void)scrollViewWillBeginDragging:(UIScrollView * _Nonnull)scrollView;
 - (void)scrollViewDidScroll:(UIScrollView * _Nonnull)scrollView;
 - (void)scrollViewDidEndDragging:(UIScrollView * _Nonnull)scrollView willDecelerate:(BOOL)decelerate;
 - (void)scrollViewDidEndDecelerating:(UIScrollView * _Nonnull)scrollView;
 @end
+
 
 
 @interface OCRDataInputViewController (SWIFT_EXTENSION(ShuftiPro))
@@ -1235,7 +1230,6 @@ SWIFT_CLASS("_TtC9ShuftiPro34PersistenPofileHeaderTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified tableViewHeight;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified tableViewTopView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -1323,7 +1317,6 @@ SWIFT_CLASS("_TtC9ShuftiPro29PickedFilesCollectionViewCell")
 @interface PickedFilesCollectionViewCell : UICollectionViewCell
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified picketItemImage;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified pdfView;
-- (void)awakeFromNib;
 - (IBAction)deleteButtonClickAction:(id _Nonnull)sender;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
@@ -1361,8 +1354,6 @@ SWIFT_CLASS("_TtC9ShuftiPro26ProfileDetailTableViewCell")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified doblabel;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified dobicon;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified dobValueLabel;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -1508,8 +1499,6 @@ SWIFT_CLASS("_TtC9ShuftiPro24QuestionAirTableViewCell")
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
 @property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified textViewDescription;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified textViewHeightConstraint;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (void)textFieldDidChange:(UITextField * _Nonnull)textField;
 - (BOOL)textField:(UITextField * _Nonnull)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString * _Nonnull)string SWIFT_WARN_UNUSED_RESULT;
 - (void)handleTapOnLabel:(UITapGestureRecognizer * _Nonnull)gesture;
@@ -1574,7 +1563,6 @@ SWIFT_CLASS("_TtC9ShuftiPro25RadioButtonsTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified textViewHeightConstraint;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)radio1ClickAction:(id _Nonnull)sender;
 - (IBAction)radio2ClickAction:(id _Nonnull)sender;
 - (IBAction)radio3ClickAction:(id _Nonnull)sender;
@@ -1612,8 +1600,7 @@ SWIFT_CLASS("_TtC9ShuftiPro24RangeSelectTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified textViewHeightConstraint;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
-- (IBAction)SliderChnage:(UISlider * _Nonnull)sender;
+- (IBAction)sliderChnage:(UISlider * _Nonnull)sender;
 - (void)handleTapOnLabel:(UITapGestureRecognizer * _Nonnull)gesture;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
@@ -1655,6 +1642,7 @@ SWIFT_CLASS("_TtC9ShuftiPro20ResultViewController")
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewWillDisappear:(BOOL)animated;
+- (void)presentGeneralAlertInternetIssuePresented;
 - (void)swipeRightGestureWithGesture:(UISwipeGestureRecognizer * _Nonnull)gesture;
 - (void)updateScreenOnInternetError;
 - (IBAction)retryAction:(id _Nonnull)sender;
@@ -1675,8 +1663,6 @@ SWIFT_CLASS("_TtC9ShuftiPro24RetryReasonTableViewCell")
 @interface RetryReasonTableViewCell : UITableViewCell
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified reasonLabel;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified topSpaceForThelabel;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -1722,7 +1708,6 @@ SWIFT_CLASS("_TtC9ShuftiPro38SelectCountryQPickedFilesTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified textViewHeightConstraint;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)dropDownButtonClickAction:(id _Nonnull)sender;
 - (void)handleTapOnLabel:(UITapGestureRecognizer * _Nonnull)gesture;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
@@ -1741,6 +1726,7 @@ SWIFT_CLASS("_TtC9ShuftiPro35SelectCountryQuestionViewController")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified tableViewBottomSpace;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
 - (IBAction)crossButtonClickAction:(id _Nonnull)sender;
 - (void)topViewClick:(UITapGestureRecognizer * _Nullable)sender;
 - (void)handleKeyboardWillHide:(NSNotification * _Nonnull)notification;
@@ -1772,8 +1758,6 @@ SWIFT_CLASS("_TtC9ShuftiPro26SelectCountryTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified buttonWidth;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified buttonHeight;
 @property (nonatomic, weak) IBOutlet ShuftiExtendedUIButton * _Null_unspecified countrySelectButton;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)cellButtonClickAction:(id _Nonnull)sender;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
@@ -1880,7 +1864,6 @@ SWIFT_CLASS("_TtC9ShuftiPro33SelectMultipleOptionTableViewCell")
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified bottomLineView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified itemSelectTopView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -1928,8 +1911,6 @@ SWIFT_CLASS("_TtC9ShuftiPro24ServiceDeclineReasonCell")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified reasonLabel9;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified reasonTopView10;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified reasonLabel10;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)fImageClickAction:(id _Nonnull)sender;
 - (IBAction)bProofImageClickAction:(id _Nonnull)sender;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
@@ -2008,39 +1989,23 @@ SWIFT_CLASS("_TtC9ShuftiPro15ShuftiProRouter")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-/// Represents the type of engine.io packet types.
 typedef SWIFT_ENUM(NSInteger, SocketEnginePacketType, closed) {
-/// Open message.
   SocketEnginePacketTypeOpen = 0,
-/// Close message.
   SocketEnginePacketTypeClose = 1,
-/// Ping message.
   SocketEnginePacketTypePing = 2,
-/// Pong message.
   SocketEnginePacketTypePong = 3,
-/// Regular message.
   SocketEnginePacketTypeMessage = 4,
-/// Upgrade message.
   SocketEnginePacketTypeUpgrade = 5,
-/// NOOP.
   SocketEnginePacketTypeNoop = 6,
 };
 
-/// Represents the type of engine.io packet types.
 typedef SWIFT_ENUM(NSInteger, SocketEnginePackettType, closed) {
-/// Open message.
   SocketEnginePackettTypeOpen = 0,
-/// Close message.
   SocketEnginePackettTypeClose = 1,
-/// Ping message.
   SocketEnginePackettTypePing = 2,
-/// Pong message.
   SocketEnginePackettTypePong = 3,
-/// Regular message.
   SocketEnginePackettTypeMessage = 4,
-/// Upgrade message.
   SocketEnginePackettTypeUpgrade = 5,
-/// NOOP.
   SocketEnginePackettTypeNoop = 6,
 };
 
@@ -2056,7 +2021,7 @@ SWIFT_CLASS("_TtC9ShuftiPro11StepperView")
 @property (nonatomic, weak) IBOutlet UIProgressView * _Null_unspecified stepperProgressBar;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified servicesLabel;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified backButtonView;
-@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified IconView;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified iconView;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified leadingConstraintlabel;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
@@ -2097,9 +2062,15 @@ SWIFT_CLASS("_TtC9ShuftiPro32SupportedTypesSceenTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified tableViewHeight;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified tableViewTopView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface SupportedTypesSceenTableViewCell (SWIFT_EXTENSION(ShuftiPro)) <UITableViewDataSource, UITableViewDelegate>
+- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 @end
 
 
@@ -2108,13 +2079,6 @@ SWIFT_CLASS("_TtC9ShuftiPro32SupportedTypesSceenTableViewCell")
 - (void)scrollViewDidScroll:(UIScrollView * _Nonnull)scrollView;
 - (void)scrollViewDidEndDragging:(UIScrollView * _Nonnull)scrollView willDecelerate:(BOOL)decelerate;
 - (void)scrollViewDidEndDecelerating:(UIScrollView * _Nonnull)scrollView;
-@end
-
-
-@interface SupportedTypesSceenTableViewCell (SWIFT_EXTENSION(ShuftiPro)) <UITableViewDataSource, UITableViewDelegate>
-- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 @end
 
 
@@ -2142,8 +2106,6 @@ SWIFT_CLASS("_TtC9ShuftiPro26TextViewInputTableViewCell")
 @property (nonatomic, weak) IBOutlet UITextView * _Null_unspecified textViewDescription;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified textViewHeightConstraint;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified descriptinBelowView;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (void)textViewDidEndEditing:(UITextView * _Nonnull)textView;
 - (BOOL)textViewShouldBeginEditing:(UITextView * _Nonnull)textView SWIFT_WARN_UNUSED_RESULT;
 - (void)textViewDidChange:(UITextView * _Nonnull)textView;
@@ -2312,7 +2274,9 @@ SWIFT_CLASS("_TtC9ShuftiPro31UserConsentTakingViewController")
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified blurrImage;
 @property (nonatomic, weak) IBOutlet UIVisualEffectView * _Null_unspecified UIBlurrEffectView;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified secretKeyLabel;
 - (void)viewDidLoad;
+- (void)presentGeneralAlertInternetIssue;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewWillDisappear:(BOOL)animated;
 - (IBAction)privacyPolicyClickAction:(id _Nonnull)sender;
@@ -2410,7 +2374,6 @@ SWIFT_CLASS("_TtC9ShuftiPro32VerificationSectionTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified heightTableView;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified sectionImageView;
 - (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -2434,8 +2397,6 @@ SWIFT_CLASS("_TtC9ShuftiPro30VerificationTypesTableViewCell")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified topSpace;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpace;
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified buttonSupportedType;
-- (void)awakeFromNib;
-- (void)setSelected:(BOOL)selected animated:(BOOL)animated;
 - (IBAction)supportedTypeButtonSelected:(id _Nonnull)sender;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
