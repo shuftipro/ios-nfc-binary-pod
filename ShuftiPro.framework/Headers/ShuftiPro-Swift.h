@@ -704,6 +704,8 @@ SWIFT_CLASS("_TtC9ShuftiPro24EDDServiceViewController")
 - (void)handleTableViewTap:(UITapGestureRecognizer * _Nonnull)sender;
 - (void)viewWillAppear:(BOOL)animated;
 - (void)viewWillDisappear:(BOOL)animated;
+- (void)presentGeneralAlertInternetIssue;
+- (void)internetConnectedAgain;
 - (IBAction)previousButtonAction:(id _Nonnull)sender;
 - (IBAction)nextButtonAction:(id _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
