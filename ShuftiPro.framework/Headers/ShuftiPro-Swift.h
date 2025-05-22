@@ -697,7 +697,6 @@ SWIFT_CLASS("_TtC9ShuftiPro24EDDServiceViewController")
 @property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified previousButton;
 @property (nonatomic, weak) IBOutlet LoadingButton * _Null_unspecified nextButton;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified tableViewBottomSpace;
-@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified viewTempTextField;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
 - (void)viewDidLoad;
 - (void)viewDidLayoutSubviews;
@@ -723,8 +722,6 @@ SWIFT_CLASS("_TtC9ShuftiPro24EDDServiceViewController")
 - (void)documentPicker:(UIDocumentPickerViewController * _Nonnull)controller didPickDocumentsAtURLs:(NSArray<NSURL *> * _Nonnull)urls;
 - (void)imagePickerController:(UIImagePickerController * _Nonnull)picker didFinishPickingMediaWithInfo:(NSDictionary<UIImagePickerControllerInfoKey, id> * _Nonnull)info;
 - (void)documentPickerWasCancelled:(UIDocumentPickerViewController * _Nonnull)controller;
-- (void)handleKeyboardWillHide:(NSNotification * _Nonnull)notification;
-- (void)keyboardDidShowWithNotification:(NSNotification * _Nonnull)notification;
 @end
 
 @class WKNavigationAction;
@@ -884,6 +881,20 @@ SWIFT_CLASS("_TtC9ShuftiPro24KYBCountryViewController")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
+
+SWIFT_CLASS("_TtC9ShuftiPro26KeyboardAvoidingScrollView")
+@interface KeyboardAvoidingScrollView : UIScrollView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC9ShuftiPro25KeyboardAvoidingTableView")
+@interface KeyboardAvoidingTableView : UITableView
+- (nonnull instancetype)initWithFrame:(CGRect)frame style:(UITableViewStyle)style OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
 
 
 SWIFT_CLASS("_TtC9ShuftiPro21LanguageTableViewCell")
