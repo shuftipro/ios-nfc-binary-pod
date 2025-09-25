@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		DevXvaFO7nPRb82+nX1T2NjTr0s=
+		YwzQhwlsOHUYfbAxaRayWfiamJ4=
 		</data>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>DeclineResult.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		iTRnc2pUtAvxd1ZCll3wqUofYCs=
+		C0/KkLjT6ig6Ba6AoIJr/tJvITU=
 		</data>
 		<key>DropDownCell.nib</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>EDDService.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		zQ8kgl8/Vr9WEviwnRmom97Fbcs=
+		oJIPIEWNWhVAhvSxmUIMtL/iyws=
 		</data>
 		<key>EKYC.storyboardc/EKYCViewController.nib</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>EKYC.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		b/tc6ZVuf7Rx/ybQyZme0ur9/SY=
+		8ilR2sPnm5D1Sf6qkgyZKAvDnns=
 		</data>
 		<key>Exo-Bold.ttf</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>ExtractedAddress.storyboardc/ltm-OM-UrL-view-NG0-gb-E8L.nib</key>
 		<data>
-		oRHujLagSe9ViSJvMDYeKlZArHc=
+		FiuBCMCbAdwHqrLHdGWucENfLFU=
 		</data>
 		<key>FailureVerified.svg</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>GPSAddress.storyboardc/UWR-td-cBO-view-VOe-h4-AKN.nib</key>
 		<data>
-		E88BQtTZSbqW9Jp9ha9MuVkJbtI=
+		W3UnyaHv+nVcksnTq87/TtT3gt4=
 		</data>
 		<key>Headers/CGImageJPEG2000.h</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<data>
-		jrUUGMiyPJb7JGwosIXNIiI7PuY=
+		uxnjphqbInhaD3atoz2VPsCSRR4=
 		</data>
 		<key>Headers/ShuftiPro.h</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SS0X24BiWBmUW2j7Bhv8R6VVzmY=
+		xQmCrcyYyhkrkRCdcpuhEYKBPTg=
 		</data>
 		<key>InternetIssuePopUp.nib</key>
 		<data>
@@ -214,7 +214,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		TPdJMVpaOyA/naIUxFGdDE8oPjs=
+		0ndvXC/RhxUC4sR20Wgao+p1EEA=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -266,7 +266,7 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		Ww1Pt65aWinAY0/apkqZo+lr1CY=
+		c1vyi7yyRVekVXAFhndbRmpTlOs=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -274,11 +274,11 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		9MUiLdTowHTfuB+LGw/gH+3Z63w=
+		RhwTTRA8QSQJgFWe2DXWhtMKu+c=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		stfus95NJXWhwppc0cJiq+0SjZs=
+		6LJXtUY5fQ6bNOaPSSDhv9hF4bI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -342,7 +342,7 @@
 		</data>
 		<key>OCRDataInput.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		fs5r7scLTJDzPQmou+9qW9JqrSc=
+		ZV8oPBFD9G0uVBjH+92LqPtZR+8=
 		</data>
 		<key>PersistenPofileHeaderTableViewCell.nib</key>
 		<data>
@@ -370,7 +370,7 @@
 		</data>
 		<key>PhoneEmailInput.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		Nstz3bf+Cw94taQ55dNpKa+i8MQ=
+		4vOYRzfIBRFmVMnjZQGkUl597VI=
 		</data>
 		<key>PickedFilesCollectionViewCell.nib</key>
 		<data>
@@ -378,7 +378,7 @@
 		</data>
 		<key>PoweredByShuftiProView.nib</key>
 		<data>
-		SxFAl4UWkAIUv/E9ID+ckRYLMgU=
+		GxMA6PsNZBRJZpIaVzvsS6jUR4o=
 		</data>
 		<key>ProfileDetailTableViewCell.nib</key>
 		<data>
@@ -394,7 +394,7 @@
 		</data>
 		<key>ProofCapturing.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		zZh+E/qS6GtANOa7gOzc0mDa8+w=
+		yzb2IFEpH1uX+G6q1ygo0UVaSzU=
 		</data>
 		<key>ProofPreview.storyboardc/Info.plist</key>
 		<data>
@@ -406,7 +406,7 @@
 		</data>
 		<key>ProofPreview.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		C2NOdFXmBDPVLdbRAFpxJCHe6ck=
+		rtLPO/QPT5c86PXxppw8vaQd54k=
 		</data>
 		<key>ProofSubmitOptions.storyboardc/Info.plist</key>
 		<data>
@@ -418,7 +418,7 @@
 		</data>
 		<key>ProofSubmitOptions.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		a0He8N8yJkIvrowBEGvNw84P5SE=
+		RpvbxJpf8v0hWg/6LcU6Au4xYEg=
 		</data>
 		<key>QuestionAirTableViewCell.nib</key>
 		<data>
@@ -442,7 +442,7 @@
 		</data>
 		<key>Result.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		jStYr/p2Np/ztiRDIMXoyTS3Jjo=
+		C3a/pw0xO77CxWtQA4KWNpiNfnU=
 		</data>
 		<key>RetryService.storyboardc/Info.plist</key>
 		<data>
@@ -454,7 +454,7 @@
 		</data>
 		<key>RetryService.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		1O2I5NHdJPxNkSrpNvqRQlYdmns=
+		eco2ziX2u/w+TFEo4Vxb9rdpwS0=
 		</data>
 		<key>SelectCountry.storyboardc/Info.plist</key>
 		<data>
@@ -466,7 +466,7 @@
 		</data>
 		<key>SelectCountry.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		QE8fj0HXJJ21w9kwaygmUIe14yo=
+		BXVOGLM8ghpq94rMuXlpgTouIsQ=
 		</data>
 		<key>SelectCountryQPickedFilesTableViewCell.nib</key>
 		<data>
@@ -530,7 +530,7 @@
 		</data>
 		<key>StepperView.nib</key>
 		<data>
-		4d+HquVksrr2CR0c6CGscxhze/c=
+		4yJQ53sDFaZGLoCfSz2NQqHs5O8=
 		</data>
 		<key>SuccessVerified.svg</key>
 		<data>
@@ -546,7 +546,7 @@
 		</data>
 		<key>SupportedDocumentsList.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		m4NAcz3kncv+tk4deBQLgZLhfTk=
+		niznDV3cutCG3kNBojMWjEUUV3I=
 		</data>
 		<key>SupportedTypesSceenTableViewCell.nib</key>
 		<data>
@@ -556,9 +556,29 @@
 		<data>
 		eKVSb+Ybkvs1hUu37zAowlSP5nE=
 		</data>
+		<key>TestID.storyboardc/Info.plist</key>
+		<data>
+		kn7f58Z0oNXNq9xveG5G+sxP0v4=
+		</data>
+		<key>TestID.storyboardc/TestingIDViewController.nib</key>
+		<data>
+		6FSPpqRLsczJDspmMivQ93hmlq4=
+		</data>
+		<key>TestID.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		pFJi17ShiXmVNC3UvQDpTEmfSEM=
+		</data>
+		<key>TestIDFloatButton.nib</key>
+		<data>
+		GNH6gpVIdi+brQROcCPIPXvVoyQ=
+		</data>
 		<key>TextViewInputTableViewCell.nib</key>
 		<data>
 		lJwlpNP3JPCVaMkXbODCFmN6Tsg=
+		</data>
+		<key>UpdatePopup.nib</key>
+		<data>
+		70L8WUY5Og467sNWUfe3IP8eb+0=
 		</data>
 		<key>UploadProof.storyboardc/Info.plist</key>
 		<data>
@@ -570,7 +590,7 @@
 		</data>
 		<key>UploadProof.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		6Yxt44lfpfKXj94CSCYBk6uZj5A=
+		k1GbTeOc/nKnZkR+lG9C2VkXRSw=
 		</data>
 		<key>UserConsentTaking.storyboardc/Info.plist</key>
 		<data>
@@ -582,7 +602,7 @@
 		</data>
 		<key>UserConsentTaking.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		EpyOuvrlUDy9c7VWe9anIR64Q1A=
+		qyBIAzj4HHA4gpWJ3pgU0RfOKRQ=
 		</data>
 		<key>UserFeedBack.storyboardc/Info.plist</key>
 		<data>
@@ -594,7 +614,7 @@
 		</data>
 		<key>UserFeedBack.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		/QOCIGqMYT6oMcWwjUhZkQYsmd4=
+		LRmJLigSThy8IWXC4TldBa7YRfw=
 		</data>
 		<key>VerificationRequirements.storyboardc/Info.plist</key>
 		<data>
@@ -614,7 +634,7 @@
 		</data>
 		<key>VerificationTypesTableViewCell.nib</key>
 		<data>
-		mbZCKPL1LkcjB5NLlx6nIHZGzSQ=
+		qFHQp0LXpC1GZbpa7vvMIQoFdGU=
 		</data>
 		<key>VerifyCode.storyboardc/Info.plist</key>
 		<data>
@@ -626,7 +646,7 @@
 		</data>
 		<key>VerifyCode.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		Du5LnfywA3Vxlal/cbQ0xsVeGYs=
+		MVI7HywjBYJ8OwVeNBBRmjLOsRo=
 		</data>
 		<key>backSideGif.gif</key>
 		<data>
@@ -643,6 +663,86 @@
 		<key>nfc_light.json</key>
 		<data>
 		PTQ9rQqkeneyawwnYDPRfLPYyKU=
+		</data>
+		<key>test_1_back_accepted.jpg</key>
+		<data>
+		DHbbLsIQThdXHzeEgAqq6KndtjY=
+		</data>
+		<key>test_1_back_declined.jpg</key>
+		<data>
+		CABgMHqbvJoyiLvLrq9WNFJG34M=
+		</data>
+		<key>test_1_front_accepted.jpg</key>
+		<data>
+		yoC1ZhMVyHZeQzV1Hh31MV4Bqxs=
+		</data>
+		<key>test_1_front_declined.jpg</key>
+		<data>
+		Qi8TDpgGNKZsqmzdCU6EwXLMqkc=
+		</data>
+		<key>test_2_back_accepted.jpg</key>
+		<data>
+		DgeRsuuaWPJqGiKBnEP4ty9x3oU=
+		</data>
+		<key>test_2_back_declined.jpg</key>
+		<data>
+		8NbO+v3EvzvzcnUFx9Dz5MuvEow=
+		</data>
+		<key>test_2_front_accepted.jpg</key>
+		<data>
+		ppFAIpdO2PJiWGqhgFswQLFI7Hs=
+		</data>
+		<key>test_2_front_declined.jpg</key>
+		<data>
+		ePaHD4IvTbJ6zpIm2iaJV2qpT24=
+		</data>
+		<key>test_3_back_declined.jpg</key>
+		<data>
+		4QE0M+hEXUAObPADCy1twHPgcgg=
+		</data>
+		<key>test_3_front_declined.jpg</key>
+		<data>
+		TNrJLWUMBQaJpCGAMCSoqg7uyNY=
+		</data>
+		<key>test_address_accepted.jpg</key>
+		<data>
+		cX5DXfcmVlEZZOefG9GzoSt3WPk=
+		</data>
+		<key>test_address_declined.jpg</key>
+		<data>
+		+tf2NAdoaVp5cm9ny1m9SL6SKWA=
+		</data>
+		<key>test_back_accepted.jpg</key>
+		<data>
+		MuhH/1XXgWXajH3O7W4kOHi2reM=
+		</data>
+		<key>test_back_declined.jpg</key>
+		<data>
+		aOrodqdSFlxFIHHtvB2bLHGQ5Rw=
+		</data>
+		<key>test_face_accept.jpg</key>
+		<data>
+		K2PqHokSu1rK57/cJ3JL71317D4=
+		</data>
+		<key>test_face_reject.jpg</key>
+		<data>
+		NIVCWeHNptLiDVGMqQd24dDclz0=
+		</data>
+		<key>test_front_acepted.jpg</key>
+		<data>
+		GAx38d8+RqysPG5wB1HX+Kergxc=
+		</data>
+		<key>test_front_declined.jpg</key>
+		<data>
+		XQKiy5n8tz7PMJANCKubIIThEWc=
+		</data>
+		<key>test_passport_accepted.jpg</key>
+		<data>
+		UI5MfrCqOypYJsu4vIQLLu5VY34=
+		</data>
+		<key>test_passport_declined.jpg</key>
+		<data>
+		q/kw0yXr3DbiD3RU8VWQ4W6/HBQ=
 		</data>
 		<key>usa_scan_animation.json</key>
 		<data>
@@ -680,7 +780,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sdYNm4PtoPw5SS4w1vvmF0ltJ+wBo0k2hji+ydAIujk=
+			bdIG3B5TFlNVbkpDgTeAUim6K0A2vaGSYwAhsu5Qljw=
 			</data>
 		</dict>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
@@ -757,7 +857,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vRLasQvfDJgjBD3//GGD/TX6RDGkacm7LZm7Fby+EuU=
+			IT55yxTsch0ldcrTZ3InU+DUMkUv3FRF7KupM81cz8o=
 			</data>
 		</dict>
 		<key>DropDownCell.nib</key>
@@ -799,7 +899,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XLCry55o5NxRuPQ4TQGtR043ARFR1S8T4q0oDqHmgvs=
+			yFTDhXZF9u2uTkzZdWZDJJptGTjkeAUiL/PwqHMgPhg=
 			</data>
 		</dict>
 		<key>EKYC.storyboardc/EKYCViewController.nib</key>
@@ -820,7 +920,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KODggLE9UqS0Ie+lEX4NcgBE5Y48NQ/aMzc0k/qQZ1E=
+			e+MJBHRJOp+ivNl5Lk9qvTkzCxNO3zxw8UuNWUvo2W8=
 			</data>
 		</dict>
 		<key>Exo-Bold.ttf</key>
@@ -876,7 +976,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			saq1r3NG9jbGP+RsFgxOTurDP8nP/fk7w4fJwuXIOGo=
+			ZO9DHZNAXpklhid6AOy8SwhKazKZhdRt6C7sHprNeb4=
 			</data>
 		</dict>
 		<key>FailureVerified.svg</key>
@@ -911,7 +1011,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0lKJxxFfRWvbkXrzUfmrK+hBUstG5d4fbAFA0ZtRTH0=
+			vYDonAM+0c1vVTte3euXcf7h+pii5+2nq3O8zQwgv14=
 			</data>
 		</dict>
 		<key>Headers/CGImageJPEG2000.h</key>
@@ -925,7 +1025,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3DmMjTEzYmiZmKkdCBc3TW/nonpjkJtXJzMOjfRWQ9w=
+			rCFiIRGIFLr1mjB5ZHL7LexkCPGI43S9Rg3sH9FORbU=
 			</data>
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
@@ -1016,7 +1116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b4x1D0a1zmzbxmD/W8oMc7bBxX43nJ4mTHNrgaegwpA=
+			hgUtYu56wS4iVWC+rjcfVDhd1m0Ye7xlQ2oy6x7Ctqw=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1107,7 +1207,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HO/Bvk26HZcJC16eBK4fcqGYcLnLE7KWYVNnetGK+rk=
+			B84XuTTzOe0IzLnjpA9JIhmHMFgb2BxEGuElhHhNXC4=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -1121,14 +1221,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3by6JQNpz3hX8eBw+7m/OygEJi46lX+nbotipKLsiPw=
+			9lJTnOyPbRJng7qInYCc2bIfxI63VR+iTUt7gxHFyLY=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dZFO7oXWpZjiQ8IrTvONq0i1tIftXkrl/geceRzZ8CU=
+			/dCnBMGDIlna3HPlBvyj+41uzFPKfnXLevdTuGTVa38=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1240,7 +1340,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eKZOL2a282Sc0PN7hrjYUrqPHHQpV+KJjAAogrMKOnk=
+			cmO0YOCewCbJMQ/Misu14tJwfl68EiPmzOgkIgKlJ2Y=
 			</data>
 		</dict>
 		<key>PersistenPofileHeaderTableViewCell.nib</key>
@@ -1289,7 +1389,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tBDCJpgwC5cOeRkAJmPzp5bdjb/nrO1+1Yz1fgSESls=
+			VWWif05kf/joUYZiEzsmyznsTacaIiSRNSA+9jmZCvI=
 			</data>
 		</dict>
 		<key>PickedFilesCollectionViewCell.nib</key>
@@ -1303,7 +1403,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YqdgxbXWYfQhDI6GaSJ1LqEBljqvZzX/F+EiSgCk8IM=
+			GBZtUu9w74jWi7kdW0pdU7jwxayHu558iEQj6TzcuPM=
 			</data>
 		</dict>
 		<key>ProfileDetailTableViewCell.nib</key>
@@ -1331,7 +1431,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2EqKOQWrHwx5C65LNPgUX/OsZstVY+BUGaIu09t9E1I=
+			C0vzkvRsi6wpDlhF5knplm/gHVe+EOQz3ZZuRFMUgRc=
 			</data>
 		</dict>
 		<key>ProofPreview.storyboardc/Info.plist</key>
@@ -1352,7 +1452,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MPcHaUkL68d6xEPjCidb6MW3UUlINvBDBKFG6sICwfE=
+			V/SvlU2oB9ChCNct6tkNWwAGDTBaouQUGw+MQ+Ptij8=
 			</data>
 		</dict>
 		<key>ProofSubmitOptions.storyboardc/Info.plist</key>
@@ -1373,7 +1473,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTLCuz/LRYJ5A0kLQvH2Pmm7M2wEkl1wYKdokpDIfVI=
+			5gI1isJ2HLEV+bOYasF6ApigYeMlhpSprZ59Ee5DbFA=
 			</data>
 		</dict>
 		<key>QuestionAirTableViewCell.nib</key>
@@ -1415,7 +1515,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y8EaKidrHufY0ofGpwT7DrHQWUOBs0Q0IoiRREJI3SI=
+			XupYATVsbZIntQSFnguMfJsswpvoGRrLzy5J2+YPmbo=
 			</data>
 		</dict>
 		<key>RetryService.storyboardc/Info.plist</key>
@@ -1436,7 +1536,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AsUQd7EkbAFGiHhY1e3PLspTa9LZcw5Pjv+ymi0xKhc=
+			bkmY+FADgYfNziYGwwiEpzvdmGWZ2QHWfN0TaPJSlAY=
 			</data>
 		</dict>
 		<key>SelectCountry.storyboardc/Info.plist</key>
@@ -1457,7 +1557,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fhp58lWTF+xyBdxPjP1/QSASamefUXEZzch8feFrQJU=
+			su8W1VvZrfTdsi8lr1cwdG6iQ9Xpsztesscr3x054Ck=
 			</data>
 		</dict>
 		<key>SelectCountryQPickedFilesTableViewCell.nib</key>
@@ -1569,7 +1669,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tk9i4dBdqCrQs+XULhqqQOMQdzvGeUgt1k+u1wHRU9I=
+			+K4gfv7taXtKEOzjmJHgClzNa6kgeWZJ18rjS19Q8Lw=
 			</data>
 		</dict>
 		<key>SuccessVerified.svg</key>
@@ -1597,7 +1697,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GLhNaPwJO0oyaez+xM50V9EWav+tXhy2x4vaUwtV6CA=
+			kk+MW3X0zyPG32UbFRBm0K5Z0PqjzTRtckhobm3FfXE=
 			</data>
 		</dict>
 		<key>SupportedTypesSceenTableViewCell.nib</key>
@@ -1614,11 +1714,46 @@
 			FXVJRIN6lMz1HZWrFOrKeXdKdoiYFqSqEBy6Ik46PnU=
 			</data>
 		</dict>
+		<key>TestID.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9VTRfX/oEhGJPIlY5OvlU6LyLFXVH/NZwvV9WnGqSE4=
+			</data>
+		</dict>
+		<key>TestID.storyboardc/TestingIDViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qw+kUFAIM8FNC1JXgjWBfrBujV9glZ1cAvMijd4VCeA=
+			</data>
+		</dict>
+		<key>TestID.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KU7zJrcOKYE/6ozbgQSFGSAT0r2Lhe4jOBFyOxIla/w=
+			</data>
+		</dict>
+		<key>TestIDFloatButton.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e7P76GTBFk2SIiCUxBpJJrMrFLQbqBGFyjV1hrnhXLs=
+			</data>
+		</dict>
 		<key>TextViewInputTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			2fbjYmlQTgM0fOfqwi/WcGNGk7XW0aP5ctvGfFaRPjk=
+			</data>
+		</dict>
+		<key>UpdatePopup.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cgDXZnhiO3kRdja0iCuaNV7oMNQbc2VN+ilzR5fSK+g=
 			</data>
 		</dict>
 		<key>UploadProof.storyboardc/Info.plist</key>
@@ -1639,7 +1774,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ij176Teuz/ABJY7Pxd3whkBlW9dhzq5MTAuSokNlUMc=
+			lrTGfRC/qjZAQACMb+HLl/jbn/LPaVFZkdZMCwcsxik=
 			</data>
 		</dict>
 		<key>UserConsentTaking.storyboardc/Info.plist</key>
@@ -1660,7 +1795,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			At0B1G/iqV74gmbm1BvbhKkEZvs7oDViy9S7tph2iUA=
+			Ynlj0Cv4J9SH+0FFhKvuzraxvRIyF5AYi7dkiHRnVEE=
 			</data>
 		</dict>
 		<key>UserFeedBack.storyboardc/Info.plist</key>
@@ -1681,7 +1816,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4fnge95ozoyvubzarPKT1qsYUSn9A8FJnUx2RuI/rMY=
+			3IIVE72cBkV/tia4fl6+3+87PYag1+gE4leV8kXsZqk=
 			</data>
 		</dict>
 		<key>VerificationRequirements.storyboardc/Info.plist</key>
@@ -1716,7 +1851,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqFV9NDUu13LSJSc7hETyuR33PddGH1gq+kZShZ2YWA=
+			CM0au5Hn9NvWWxv1hPmGxOmPB9vtqBSm6V3L5vgE9lE=
 			</data>
 		</dict>
 		<key>VerifyCode.storyboardc/Info.plist</key>
@@ -1737,7 +1872,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YZKxhPWp6STN5FeNyqdk7S/+VxTg+JeBvHgrIYUk0YQ=
+			+gsKH938oItQC5NEnroEzXw9QrLpJv4bVtu38Ef9H2Y=
 			</data>
 		</dict>
 		<key>backSideGif.gif</key>
@@ -1766,6 +1901,146 @@
 			<key>hash2</key>
 			<data>
 			QW8bSyulr8pJK/pgC4C7xopivudQfDvnmM1GHLVyMZo=
+			</data>
+		</dict>
+		<key>test_1_back_accepted.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			08iOumoMNLh33htb2Z+hHue7Gi2/MKNY1RlOQEjTdu0=
+			</data>
+		</dict>
+		<key>test_1_back_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qlDrtMi/jy83M87IhcpSedJBEICbStODfs5Y8RKD1zA=
+			</data>
+		</dict>
+		<key>test_1_front_accepted.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rxdACLXa1AZsDaDarVR8Mqe6POJ+WCc1Dt2hRVXbvOE=
+			</data>
+		</dict>
+		<key>test_1_front_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fpwT/yLoGqrAo8MzlaDUgGaSVBiEAB23QF4cdyAofcs=
+			</data>
+		</dict>
+		<key>test_2_back_accepted.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R6PDNFbaKOlu2STSMmhSu7oRsbN9CAgiOHrTymUyizg=
+			</data>
+		</dict>
+		<key>test_2_back_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F8JZsLa2Fj0VjFx1HYFAAfDHZU55W5VB70u1u07D9n8=
+			</data>
+		</dict>
+		<key>test_2_front_accepted.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kph0n4hPB07fQ3pseO130s8vXUY1I1V39nH8+hOCDyE=
+			</data>
+		</dict>
+		<key>test_2_front_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zOLggnvKB+F+jCBUJhnNboN+5PmC9qi3k5yF5D48hE8=
+			</data>
+		</dict>
+		<key>test_3_back_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3Cu91718AKHMVnJbtTzK1REslS9uxIc1n/Ix3nwP0oc=
+			</data>
+		</dict>
+		<key>test_3_front_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x+yI2cXoiGfETP/fYmMNN7pkSnDUFu2FqKKOMm9X6sg=
+			</data>
+		</dict>
+		<key>test_address_accepted.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YRH0FIvVHoRFWBjmudQq/i74GxepnURIQsllkHgMpnY=
+			</data>
+		</dict>
+		<key>test_address_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OCkcJ9Y6cCuMKb7g9V5fn9+eS2LJMa6Y8a/21dgP4Nw=
+			</data>
+		</dict>
+		<key>test_back_accepted.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TvpUXVk5ELNGnDQkNvJRGZ4h7t4gd3cFtISf2hQfMIU=
+			</data>
+		</dict>
+		<key>test_back_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lquycY9kuBXO8EwqF5EfPuk3Z7E+KpNYlxQosyIgsh4=
+			</data>
+		</dict>
+		<key>test_face_accept.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pRh6JSSNnRUzN7aIOGboUpT8Lz48E70XSAsYmvZ3YS0=
+			</data>
+		</dict>
+		<key>test_face_reject.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rsf5hX0nGLZivMnk+LuG2rTDfAmh4Vkg/XSnTKDUdss=
+			</data>
+		</dict>
+		<key>test_front_acepted.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nzPDmuAgoPURl7dgeHNUBKlR2NzUTJh4nYacv9uK6uI=
+			</data>
+		</dict>
+		<key>test_front_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Xu3WbAZh/HKwaelGgdHUePBBbPZ3Pbo/Xk7oOgqKFQ8=
+			</data>
+		</dict>
+		<key>test_passport_accepted.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5M1levFVXl6yTgrBQpSLawjrIaGt5eXA6ohFjtMsQ1E=
+			</data>
+		</dict>
+		<key>test_passport_declined.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CQnWg/2xD9VEwimuXHNOR4SbErlG9BS5S7vNs51+5R4=
 			</data>
 		</dict>
 		<key>usa_scan_animation.json</key>
