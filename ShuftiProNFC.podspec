@@ -10,7 +10,7 @@ spec.license      = { :type => "MIT", :file => "LICENSE" }
 spec.author       = { "Shufti Pro" => "support@shuftipro.com" }
 spec.platform     = :ios, "13.0"
 spec.source       = { :git => "https://github.com/shuftipro/iOS-nfc-binary-pod.git", :tag => "#{spec.version}" }
-spec.ios.vendored_frameworks = 'ShuftiPro.framework'
+spec.ios.vendored_frameworks = 'ShuftiPro.xcframework'
 spec.dependency 'OpenSSL-Universal', '1.1.1900'
 spec.dependency 'GoogleMLKit/TextRecognition', '3.2.0'
 spec.dependency 'lottie-ios', '4.5.1'
