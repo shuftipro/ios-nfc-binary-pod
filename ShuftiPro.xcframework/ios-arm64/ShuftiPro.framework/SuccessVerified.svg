@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 357 357">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #539ff9;
+        stroke-width: 38px;
+        stroke-miterlimit: 10;
+        stroke-linejoin: round;
+        fill-rule: evenodd;
+      }
+
+      #tick {
+        animation: tick-anim 4s linear infinite;
+        stroke-dashoffset: 340;
+        stroke-dasharray: 340;
+      }
+
+      @keyframes tick-anim {
+        0%, 10% {
+          stroke-dashoffset: 340;
+        }
+        30%, 100% {
+          stroke-dashoffset: 0;
+        }
+      }
+    </style>
+  </defs>
+<circle cx="178.5" cy="178.5" r="178.5" fill="white"/>
+  <g id="tick">
+    <polyline class="cls-1" points="63.18 179.09 144.31 261.64 292.14 109.06"/>
+  </g>
+</svg>
