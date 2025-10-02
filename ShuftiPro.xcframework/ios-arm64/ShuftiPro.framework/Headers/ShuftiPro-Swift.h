@@ -2664,11 +2664,11 @@ SWIFT_CLASS("_TtC9ShuftiPro25UploadProofViewController")
 @end
 
 
+
 @interface UploadProofViewController (SWIFT_EXTENSION(ShuftiPro)) <UIDocumentPickerDelegate>
 - (void)documentPicker:(UIDocumentPickerViewController * _Nonnull)_ didPickDocumentsAtURLs:(NSArray<NSURL *> * _Nonnull)urls;
 - (void)documentPickerWasCancelled:(UIDocumentPickerViewController * _Nonnull)_;
 @end
-
 
 
 @interface UploadProofViewController (SWIFT_EXTENSION(ShuftiPro)) <UIImagePickerControllerDelegate>

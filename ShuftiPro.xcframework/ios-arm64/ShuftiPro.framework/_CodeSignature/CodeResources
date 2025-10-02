@@ -132,14 +132,6 @@
 		<data>
 		FiuBCMCbAdwHqrLHdGWucENfLFU=
 		</data>
-		<key>FBLPromises_Privacy.bundle/Info.plist</key>
-		<data>
-		B1LsQ0ZwAzgxgUc5j5pl3243do0=
-		</data>
-		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
 		<key>FailureVerified.svg</key>
 		<data>
 		D11TJL7879kqz6/3CZ6ivoCFZeg=
@@ -160,29 +152,13 @@
 		<data>
 		W3UnyaHv+nVcksnTq87/TtT3gt4=
 		</data>
-		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
-		<data>
-		9zM+BNzlM4CnaxaTluubxgolWeY=
-		</data>
-		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-		</data>
-		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<data>
-		EcTUo9XM7pNXQxAKf5TtPD2BwEQ=
-		</data>
-		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		TrRzpkxcmDwPf9xXhrQKnuRceyI=
-		</data>
 		<key>Headers/CGImageJPEG2000.h</key>
 		<data>
 		JoC2+xsQCKXKJc9AXJngnaRhE9Y=
 		</data>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<data>
-		QY563eMtsL0B3phtujSx7FGZRj8=
+		y0oyE8IUtBOvkGO1+6aZF3UkmD0=
 		</data>
 		<key>Headers/ShuftiPro.h</key>
 		<data>
@@ -276,14 +252,6 @@
 		<data>
 		zJXJ2w1oFhjbL9HWSoEVfjsULqI=
 		</data>
-		<key>LottiePrivacyInfo.bundle/Info.plist</key>
-		<data>
-		ji0hkeAEuXalbZtzHuiBD1G3Chc=
-		</data>
-		<key>LottiePrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		9slhmTZYKDmos4efk+3YOXYOQXo=
-		</data>
 		<key>MFAHelp.storyboardc/Info.plist</key>
 		<data>
 		2WOxUp76h51MkLgBN7wHASIX2YA=
@@ -298,23 +266,23 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		eBJYROzaEzOED5I2oSNpadwEQwI=
+		gxLkB4tHI0CZaRjP0torNQ4Hx+Q=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		qqLSGeyTg8B8k7Le640yt/ae9X0=
+		LMuXj/QJUc3dxHIyiGzuLbyRIbU=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		VSp2wVr+OrZAl5m+iMTha6spx6I=
+		8CS5Zx9HyM8ih9yOptLHfUDQNVc=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		qqLSGeyTg8B8k7Le640yt/ae9X0=
+		LMuXj/QJUc3dxHIyiGzuLbyRIbU=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ywsVn2Hxwq6sgTan5eX1g8C/XlI=
+		2u/w7RfBLyVpsSZocpT/syd9UT4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -455,14 +423,6 @@
 		<key>ProofSubmitOptions.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
 		RpvbxJpf8v0hWg/6LcU6Au4xYEg=
-		</data>
-		<key>Protobuf_Privacy.bundle/Info.plist</key>
-		<data>
-		Bj2/vSpNAoVlpB5p7f8l9/s8tUg=
-		</data>
-		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ucg9pita0v8d353x3NuGfxweQYU=
 		</data>
 		<key>QuestionAirTableViewCell.nib</key>
 		<data>
@@ -703,14 +663,6 @@
 		<key>masterList.pem</key>
 		<data>
 		HNwosUzqJc4R0PIIfgEyzFjtaDg=
-		</data>
-		<key>nanopb_Privacy.bundle/Info.plist</key>
-		<data>
-		erqCc+cd14fTwwXjb7rL6hqJXzY=
-		</data>
-		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		KY5lfwC2TvsgFj4wt7hkMmainbs=
 		</data>
 		<key>nfc_light.json</key>
 		<data>
@@ -1031,20 +983,6 @@
 			ZO9DHZNAXpklhid6AOy8SwhKazKZhdRt6C7sHprNeb4=
 			</data>
 		</dict>
-		<key>FBLPromises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7Zq74oJAqn6tiAIboxXjPcd+B4bAK14t83DGxloi4a8=
-			</data>
-		</dict>
-		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
 		<key>FailureVerified.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -1080,34 +1018,6 @@
 			vYDonAM+0c1vVTte3euXcf7h+pii5+2nq3O8zQwgv14=
 			</data>
 		</dict>
-		<key>GoogleDataTransport_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0vvs+9PowNEsLoZSVi73si1GQ1No9EEbW378jPA5HS8=
-			</data>
-		</dict>
-		<key>GoogleDataTransport_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
-			</data>
-		</dict>
-		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NzJt56PGEzq462P4CVktrqcVjWRbJB/DJ0WItFm0Rb8=
-			</data>
-		</dict>
-		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
-			</data>
-		</dict>
 		<key>Headers/CGImageJPEG2000.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1119,7 +1029,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5M05yY7X6zJ8OxwQEEgXfyylIzaeYaE9xP8xHw6qmfI=
+			flupU+LAj+BjDqeimKVvJAy3V2FSO59VsLm1YtcIwN0=
 			</data>
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
@@ -1276,20 +1186,6 @@
 			cUIi8KfTh0DYgGCIx+mtSomdj4QYudTy12dHPQzMlps=
 			</data>
 		</dict>
-		<key>LottiePrivacyInfo.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LSKwOLjaFiB1pag1mPPf4+YSxTqjvIeFemq/0fpOBpI=
-			</data>
-		</dict>
-		<key>LottiePrivacyInfo.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ENpn8heCTwGSiOwyirq8KQqwOZxS6b53ok1JQzkTfaI=
-			</data>
-		</dict>
 		<key>MFAHelp.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1315,35 +1211,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1yGnFmwLLlI/P9xWrYU9qGVVMSNvkXblpuU39s1CJiE=
+			uXekOi+wKGxu4Ear2YquruqaOdVQTpDuDXOVwHMGmIA=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQD/KlcknenQMEOkE2+N1rdnj3b2Jed+p/BmNECgh3U=
+			kRA86rcJKMB2YAYVfBBavqRV1SOROODZwGZpGdrG4Gg=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2v52qz3SEQHbT/+ZIFqQ05o1SLOCRA7yj+ltsM33Ejg=
+			CPbMqQpPfUhwvbFA6+FheJNU2xixTfjx2B6EZ7KZfhY=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQD/KlcknenQMEOkE2+N1rdnj3b2Jed+p/BmNECgh3U=
+			kRA86rcJKMB2YAYVfBBavqRV1SOROODZwGZpGdrG4Gg=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W3GR66SdxsbV7DsM+Y2Xk/P1WppOcLRk9nIMLL2zoX0=
+			Cbwl08nyHyR7em4X212m5SNagyypfZFxUOCiqFknvtU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1589,20 +1485,6 @@
 			<key>hash2</key>
 			<data>
 			5gI1isJ2HLEV+bOYasF6ApigYeMlhpSprZ59Ee5DbFA=
-			</data>
-		</dict>
-		<key>Protobuf_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			rYKrdfikRAvtOo+jFiA6Gh1tedr31Y4jh0ZeloFCWXQ=
-			</data>
-		</dict>
-		<key>Protobuf_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Uh6274Qwdz5cAQ4YOP6d2PpdYre3bRzqjX2NqtyxROI=
 			</data>
 		</dict>
 		<key>QuestionAirTableViewCell.nib</key>
@@ -2023,20 +1905,6 @@
 			<key>hash2</key>
 			<data>
 			GvjzM0F4EV0mCXel2RbSMKSzccrr1EFfhgKOwnTAkL8=
-			</data>
-		</dict>
-		<key>nanopb_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sVeKV4my4aX7GS4oSduejVEfE01G4WoeC9vvFbg0ojA=
-			</data>
-		</dict>
-		<key>nanopb_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cpujy9D0WMeM1h7fFzUO2v4ONMqG4xTsZMjLIszSG1Q=
 			</data>
 		</dict>
 		<key>nfc_light.json</key>
