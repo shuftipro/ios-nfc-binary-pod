@@ -158,7 +158,7 @@
 		</data>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<data>
-		y0oyE8IUtBOvkGO1+6aZF3UkmD0=
+		2v1nO2lGzP3yeVcG42BaqWMDFYQ=
 		</data>
 		<key>Headers/ShuftiPro.h</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fFe37cxan56SZmQZ3297Ea7lAhc=
+		Vf6CrvdBuusNV5aSv/lH1dHg9b8=
 		</data>
 		<key>InternetIssuePopUp.nib</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>KYBCountry.storyboardc/Rmf-Si-Rrn-view-BPD-fI-k9A.nib</key>
 		<data>
-		W31MKG8Lo/cU4KXhTrsAfHgVWRU=
+		JISaGaecnQwsbIIG33BddkKBXJU=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
@@ -266,23 +266,23 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		gxLkB4tHI0CZaRjP0torNQ4Hx+Q=
+		Fy8xbxA5jxTkhonrKwvC1RAvBY4=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		LMuXj/QJUc3dxHIyiGzuLbyRIbU=
+		GLIn7Pe5/et9snMFYMvoUNCu3MU=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		8CS5Zx9HyM8ih9yOptLHfUDQNVc=
+		WZ7gd8mE7DHhTMBr0yY7KHqcErk=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		LMuXj/QJUc3dxHIyiGzuLbyRIbU=
+		GLIn7Pe5/et9snMFYMvoUNCu3MU=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2u/w7RfBLyVpsSZocpT/syd9UT4=
+		2FE9zolhDJ5UMq6d3Cxcw0swock=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -446,7 +446,7 @@
 		</data>
 		<key>Result.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		C3a/pw0xO77CxWtQA4KWNpiNfnU=
+		N1EjfQlAqOIJ9hpWth9kmouz1Ac=
 		</data>
 		<key>RetryService.storyboardc/Info.plist</key>
 		<data>
@@ -663,6 +663,10 @@
 		<key>masterList.pem</key>
 		<data>
 		HNwosUzqJc4R0PIIfgEyzFjtaDg=
+		</data>
+		<key>nfc_idcard.json</key>
+		<data>
+		t683MI5EbRAnREKvwfMXeS/5/js=
 		</data>
 		<key>nfc_light.json</key>
 		<data>
@@ -1029,7 +1033,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			flupU+LAj+BjDqeimKVvJAy3V2FSO59VsLm1YtcIwN0=
+			OiZXaaQ1hL8ZHEiMN6d3F49HLHftsFkE1R2hp+2AsXw=
 			</data>
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
@@ -1113,7 +1117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g0BljPYIGEAJMTWYcqKE6HXbJ46JfKUgzafjHErcLuU=
+			uqVtoh6WzsIOtbBU5r2lkQt1e1dxgJ4V/9ydWCql3tE=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/Info.plist</key>
@@ -1211,35 +1215,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uXekOi+wKGxu4Ear2YquruqaOdVQTpDuDXOVwHMGmIA=
+			+eupmSlQuEWomt8GNt6ZvJ4GDjnzHOCC9rJ4t+JwmwI=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kRA86rcJKMB2YAYVfBBavqRV1SOROODZwGZpGdrG4Gg=
+			rC9O1i/TQIM8FkLzm1JLV0kzpsGa0f0prFoaQhOzJ7M=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CPbMqQpPfUhwvbFA6+FheJNU2xixTfjx2B6EZ7KZfhY=
+			HXZ9FTcx9Z3pKT9oONPq6amYOhonBEYOlxl3nUfxElc=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kRA86rcJKMB2YAYVfBBavqRV1SOROODZwGZpGdrG4Gg=
+			rC9O1i/TQIM8FkLzm1JLV0kzpsGa0f0prFoaQhOzJ7M=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cbwl08nyHyR7em4X212m5SNagyypfZFxUOCiqFknvtU=
+			nQZhhYMxiozPic1S4/pGvFJC15/dYHgKgzTML7KRinM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1526,7 +1530,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XupYATVsbZIntQSFnguMfJsswpvoGRrLzy5J2+YPmbo=
+			2P6ejn6veDOaDhELppMEGJ4h1Nkp7ArOyahqmpIBYpQ=
 			</data>
 		</dict>
 		<key>RetryService.storyboardc/Info.plist</key>
@@ -1905,6 +1909,13 @@
 			<key>hash2</key>
 			<data>
 			GvjzM0F4EV0mCXel2RbSMKSzccrr1EFfhgKOwnTAkL8=
+			</data>
+		</dict>
+		<key>nfc_idcard.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1Jz16BGGmhX4vVDfqmXl3Lt29UMW36iEFi3JM9iurWo=
 			</data>
 		</dict>
 		<key>nfc_light.json</key>

@@ -985,6 +985,9 @@ SWIFT_CLASS("_TtC9ShuftiPro23KYBCountryTableViewCell")
 @property (nonatomic, strong) IBOutlet UIView * _Null_unspecified bottomLineView;
 @property (nonatomic, strong) IBOutlet ShuftiExtendedUIButton * _Null_unspecified countrySelectButton;
 @property (nonatomic, strong) IBOutlet NSLayoutConstraint * _Null_unspecified buttonWidth;
+@property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified countryFlagLabel;
+@property (nonatomic, strong) IBOutlet UIView * _Null_unspecified containerView;
+- (void)awakeFromNib;
 - (IBAction)cellButtonClickAction:(id _Nonnull)_;
 - (nonnull instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString * _Nullable)reuseIdentifier OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=3.0);
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
