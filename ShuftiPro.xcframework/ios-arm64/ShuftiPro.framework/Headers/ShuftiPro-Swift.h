@@ -1626,6 +1626,26 @@ SWIFT_CLASS("_TtC9ShuftiPro29PickedFilesCollectionViewCell")
 @end
 
 
+SWIFT_CLASS("_TtC9ShuftiPro23PortraitAlertController")
+@interface PortraitAlertController : UIAlertController
+@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
+@property (nonatomic, readonly) BOOL shouldAutorotate;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC9ShuftiPro28PortraitNavigationController")
+@interface PortraitNavigationController : UINavigationController
+@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
+@property (nonatomic, readonly) BOOL shouldAutorotate;
+- (nonnull instancetype)initWithNavigationBarClass:(Class _Nullable)navigationBarClass toolbarClass:(Class _Nullable)toolbarClass OBJC_DESIGNATED_INITIALIZER SWIFT_AVAILABILITY(ios,introduced=5.0);
+- (nonnull instancetype)initWithRootViewController:(UIViewController * _Nonnull)rootViewController OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC9ShuftiPro22PoweredByShuftiProView")
 @interface PoweredByShuftiProView : UIView
 @property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified poweredByLabel;
@@ -2421,7 +2441,6 @@ SWIFT_CLASS("_TtC9ShuftiPro21TagCollectionViewCell")
 @property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified titleLabel;
 @property (nonatomic, strong) IBOutlet UIView * _Null_unspecified backView;
 @property (nonatomic, strong) IBOutlet UIButton * _Null_unspecified crossButton;
-@property (nonatomic, readonly) CGSize intrinsicContentSize;
 - (void)awakeFromNib;
 - (IBAction)crossButtonClickaction:(id _Nonnull)_;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;

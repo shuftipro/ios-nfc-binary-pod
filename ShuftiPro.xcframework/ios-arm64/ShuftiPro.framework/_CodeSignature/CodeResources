@@ -158,7 +158,7 @@
 		</data>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<data>
-		2v1nO2lGzP3yeVcG42BaqWMDFYQ=
+		6BEvMC0w9Uv0vLkvoj9BMvRwkAQ=
 		</data>
 		<key>Headers/ShuftiPro.h</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Vf6CrvdBuusNV5aSv/lH1dHg9b8=
+		l/iFvIahOltRWtuDMnovA0lrvx4=
 		</data>
 		<key>InternetIssuePopUp.nib</key>
 		<data>
@@ -214,7 +214,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		dJjpTkbDEusPB4gMSA+L+hYtVI8=
+		WXItN+D+I53bjqqL+VfM85InRjQ=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -266,23 +266,23 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		p8d/O5fmz6KB622u+S+jMhwZQPc=
+		6fGvm2697oUE2UyMMY65xnU+i/4=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		GLIn7Pe5/et9snMFYMvoUNCu3MU=
+		mJrstJ1BBS/IRr7YiRkI5CGe6Nk=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		WZ7gd8mE7DHhTMBr0yY7KHqcErk=
+		8CS5Zx9HyM8ih9yOptLHfUDQNVc=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		GLIn7Pe5/et9snMFYMvoUNCu3MU=
+		mJrstJ1BBS/IRr7YiRkI5CGe6Nk=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		zgmW/W1MA8BBvmfCnCjk+Qahc+o=
+		XObe6ydMn7hWgJg23eN7GfdI5qs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -430,7 +430,7 @@
 		</data>
 		<key>RadioButtonsTableViewCell.nib</key>
 		<data>
-		2utLZQP60KBR0pBczimx8z9Noo8=
+		b+H2RytuKmuFa3SybUW9va8vheI=
 		</data>
 		<key>RangeSelectTableViewCell.nib</key>
 		<data>
@@ -514,7 +514,7 @@
 		</data>
 		<key>SelectMultipleOptionTableViewCell.nib</key>
 		<data>
-		efEUacCE2aAdJuEAV8Jnj1QRYI4=
+		awo9PgjVcMu9Ilyyar+L+g7ouvI=
 		</data>
 		<key>ServiceDeclineReasonCell.nib</key>
 		<data>
@@ -558,7 +558,7 @@
 		</data>
 		<key>TagCollectionViewCell.nib</key>
 		<data>
-		eKVSb+Ybkvs1hUu37zAowlSP5nE=
+		wSnDYdpzbELBI0dOD+q0hOQwBMQ=
 		</data>
 		<key>TestID.storyboardc/Info.plist</key>
 		<data>
@@ -1033,7 +1033,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OiZXaaQ1hL8ZHEiMN6d3F49HLHftsFkE1R2hp+2AsXw=
+			8XX2YzdBpzvC92QE7QWs+b6Oa+BiP5Al3EdRznidNdQ=
 			</data>
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
@@ -1124,7 +1124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6yRwz+ZpkUDTQNFcJcZR8g1ZNqr1o2MYPHa+NYOR3O4=
+			huFZ+OWQnsC/NcK8O23RmuoedlRZiLaS847MEVoPE5w=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1215,35 +1215,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8bhKqnXsoWaaadCxe13RLtD8T6KYP+1/E/vbFh+yaTI=
+			Sbs0pgbWUNdE8kQXy8JFUpgPSSyMcjxVURxf7yvUNL4=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rC9O1i/TQIM8FkLzm1JLV0kzpsGa0f0prFoaQhOzJ7M=
+			1r79rDK8cSeaIRHlAbdk2RuQ61wGAUm+dMZczKJ7FHg=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HXZ9FTcx9Z3pKT9oONPq6amYOhonBEYOlxl3nUfxElc=
+			CPbMqQpPfUhwvbFA6+FheJNU2xixTfjx2B6EZ7KZfhY=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rC9O1i/TQIM8FkLzm1JLV0kzpsGa0f0prFoaQhOzJ7M=
+			1r79rDK8cSeaIRHlAbdk2RuQ61wGAUm+dMZczKJ7FHg=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RpvteFLijoc/BvltGryGuFLhNRAgIITkVXuNxZwNvWA=
+			pouuZgrighEggzWysPrlTK2zZ/NHybfF5gCRkzoShIc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1502,7 +1502,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3/4K/pt9Vnmixq2s0XXFMxCnhAAt2IvNBdgog49sARo=
+			WtBGBjLwLjXZ4gvTJ9VRinDkwPMwuCMAfIfOgVGJY4U=
 			</data>
 		</dict>
 		<key>RangeSelectTableViewCell.nib</key>
@@ -1649,7 +1649,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5LpTPFAsTrX/lcdnxgHEFcThaSb+Cpy8Zn0Uh5sQdQ4=
+			6EuIxPbMuOe/KVbp2OvaAVFhKOAwnotX/dOtCzhdq3g=
 			</data>
 		</dict>
 		<key>ServiceDeclineReasonCell.nib</key>
@@ -1726,7 +1726,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FXVJRIN6lMz1HZWrFOrKeXdKdoiYFqSqEBy6Ik46PnU=
+			sUvcJvmyB/O7Co6MS20mop2BjibDaAqQDgemiA+qNBY=
 			</data>
 		</dict>
 		<key>TestID.storyboardc/Info.plist</key>
