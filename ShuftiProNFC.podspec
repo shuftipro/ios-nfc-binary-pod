@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name         = "ShuftiProNFC"
-spec.version      = "3.6.43"
+spec.version      = "3.6.44"
 spec.summary      = "Shufti Pro is designed to verify documents in realtime."
 spec.description  = <<-DESC
 Shufti Pro has designed this Verification API document for its customers that have signed up for our next-generation service pack. This document will explain various kinds of verification services included in this service pack, how they are provided and what kind of data is required from our clients to perform these verifications successfully.
@@ -12,16 +12,20 @@ spec.platform     = :ios, "13.0"
 spec.source       = { :git => "https://github.com/shuftipro/iOS-nfc-binary-pod.git", :tag => "#{spec.version}" }
 
 spec.default_subspecs = 'Core'
+  spec.subspec "Deps" do |deps|
+    deps.dependency "OpenSSL-Universal", "1.1.1900"
+    deps.dependency "lottie-ios", "4.5.1"
+    deps.dependency "GoogleMLKit/TextRecognition", "3.2.0"
+  end
 spec.subspec 'Core' do |core|
-  core.ios.vendored_frameworks = 'ShuftiPro.xcframework'
-    core.dependency 'OpenSSL-Universal', '1.1.1900'
-    core.dependency 'lottie-ios', '4.5.1'
-    core.dependency 'GoogleMLKit/TextRecognition', '3.2.0'
+  core.ios.vendored_frameworks = "Core/ShuftiPro.xcframework"
+    core.dependency "ShuftiProNFC/Deps"
   end
 
   spec.subspec 'OnDevice' do |on_device|
-    on_device.dependency 'ShuftiProNFC/Core'
-    on_device.dependency 'ShuftiPro-Onsite-OnDevice'
+    on_device.ios.vendored_frameworks = "OnDevice/ShuftiPro.xcframework"
+    on_device.dependency "ShuftiProNFC/Deps"
+    on_device.dependency "ShuftiPro-Onsite-OnDevice"
   end
 
 spec.swift_version = "5"
