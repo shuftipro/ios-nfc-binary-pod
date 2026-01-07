@@ -132,18 +132,6 @@
 		<data>
 		ETQpkmgE6TVEYumw8kY7FIFudWM=
 		</data>
-		<key>Frameworks/ShuftiOfflineKit.framework/Info.plist</key>
-		<data>
-		DmmmoUCdpDTtkhxqPxhApxw4iHI=
-		</data>
-		<key>Frameworks/ShuftiOfflineKit.framework/ShuftiOfflineKit</key>
-		<data>
-		WbPCu/R1vqLxuJkWzdNt2wnlkUE=
-		</data>
-		<key>Frameworks/ShuftiOfflineKit.framework/_CodeSignature/CodeResources</key>
-		<data>
-		AaHh0VX3nXJshReZQHWLXVaIilA=
-		</data>
 		<key>GPSAddress.storyboardc/GPSAddressViewController.nib</key>
 		<data>
 		LxC30kI8rCpVpSLiy/9TbOrAdGM=
@@ -282,23 +270,23 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		EDaJzB9uC/nwOCzuslI77PaQdgc=
+		OzPsiicOr0N7kws801kHenQN18A=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		VgweIm+wgxCW9dCmYW2+6Pj5azc=
+		W7Aqv4iSpP0LhlNbdg2DfhDov3k=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		rUzKCi+FwJTjY4pjuMOJLFC11Tg=
+		eC5Zwy65VThuPs19DipIZM3OUjQ=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		VgweIm+wgxCW9dCmYW2+6Pj5azc=
+		W7Aqv4iSpP0LhlNbdg2DfhDov3k=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ER3vDv9mEUB/agz63H/hmTbdt8g=
+		jLWI5ipFdonPmVLfVXsjyJCRN2o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1011,27 +999,6 @@
 			kT5rctpU4Xb/Rye9hbMaxNkLZRYT5kTkMoLO4DPKQCM=
 			</data>
 		</dict>
-		<key>Frameworks/ShuftiOfflineKit.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RL1Sdj1qF8coUfjrqgKWOhSQi5fNTy8snAS7E5I6LBI=
-			</data>
-		</dict>
-		<key>Frameworks/ShuftiOfflineKit.framework/ShuftiOfflineKit</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			K5X0/00oJJYYZKbd8txvy4vZ5co2+QgmK5TSVAEIxqw=
-			</data>
-		</dict>
-		<key>Frameworks/ShuftiOfflineKit.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pwFQStN+tpjbO3jdaHF97IEQEkWKVsjC7RMpeJDDOSs=
-			</data>
-		</dict>
 		<key>GPSAddress.storyboardc/GPSAddressViewController.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -1267,35 +1234,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SM6OFvx6uSjUh93GX1qco+isdoWTXMZVI4+2h/YF5OA=
+			ewMEDLYaOGyemVmf4rtFkBivhEsGqTQf00QHk2ondkg=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JsDDZqUwz4WMrvmAKLLJXBIkmzCs6mNDjdiBXPZG6ng=
+			RWJnn2chrvcgLBMTW8BoaE0H7oXujrxQiLyK4rLGJZA=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOGMh3ZveX1AAxWMk+43RYLyhUeuHNOscKmS/9M6us4=
+			r3xBmVgpgtnt052mhZtKU1dIpS/Jt5iYYFQ+z+3Iy0s=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JsDDZqUwz4WMrvmAKLLJXBIkmzCs6mNDjdiBXPZG6ng=
+			RWJnn2chrvcgLBMTW8BoaE0H7oXujrxQiLyK4rLGJZA=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jqREYCe2xv6xpcGZN9uDag6eSH47VUc2q7J7OmGZvW4=
+			c5rbuSxYzXo5MWdE59vMAQaCLIEJ6F0f+GNnmfbcRkw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
