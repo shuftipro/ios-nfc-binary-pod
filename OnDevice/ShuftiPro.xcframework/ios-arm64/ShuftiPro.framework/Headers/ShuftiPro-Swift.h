@@ -469,6 +469,29 @@ SWIFT_CLASS("_TtC9ShuftiPro31CameraInstructionViewController")
 - (void)handlePanGesture:(UIPanGestureRecognizer * _Nonnull)gesture;
 @end
 
+SWIFT_CLASS("_TtC9ShuftiPro22CameraModeSelectorView")
+@interface CameraModeSelectorView : UIView
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (void)layoutSubviews;
+@end
+
+@class UICollectionView;
+@class NSIndexPath;
+@class UICollectionViewCell;
+@class UICollectionViewLayout;
+@class UIScrollView;
+@interface CameraModeSelectorView (SWIFT_EXTENSION(ShuftiPro)) <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
+- (NSInteger)collectionView:(UICollectionView * _Nonnull)collectionView numberOfItemsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UICollectionViewCell * _Nonnull)collectionView:(UICollectionView * _Nonnull)collectionView cellForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (void)collectionView:(UICollectionView * _Nonnull)collectionView didSelectItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
+- (CGSize)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (void)scrollViewWillEndDragging:(UIScrollView * _Nonnull)scrollView withVelocity:(CGPoint)velocity targetContentOffset:(CGPoint * _Nonnull)targetContentOffset;
+- (void)scrollViewDidEndDragging:(UIScrollView * _Nonnull)scrollView willDecelerate:(BOOL)decelerate;
+- (void)scrollViewDidEndDecelerating:(UIScrollView * _Nonnull)scrollView;
+- (void)scrollViewDidEndScrollingAnimation:(UIScrollView * _Nonnull)scrollView;
+@end
+
 @class UIWindow;
 @class UIApplication;
 SWIFT_CLASS("_TtC9ShuftiPro17CustomAppDelegate")
@@ -550,7 +573,6 @@ SWIFT_CLASS("_TtC9ShuftiPro23DateSelectTableViewCell")
 
 @class UITableView;
 @class WKWebView;
-@class NSIndexPath;
 @class NSURL;
 SWIFT_CLASS("_TtC9ShuftiPro27DeclineResultViewController")
 @interface DeclineResultViewController : UIViewController <UITableViewDataSource, UITableViewDelegate, UITextViewDelegate>
@@ -687,9 +709,6 @@ SWIFT_CLASS("_TtC9ShuftiPro30ExtractedAddressViewController")
 @end
 
 @class RectangularDashedView;
-@class UICollectionView;
-@class UICollectionViewCell;
-@class UICollectionViewLayout;
 SWIFT_CLASS("_TtC9ShuftiPro23FileUploadTableViewCell")
 @interface FileUploadTableViewCell : UITableViewCell <UICollectionViewDataSource, UICollectionViewDelegateFlowLayout>
 @property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified questionTitleLabel;
@@ -736,7 +755,6 @@ SWIFT_CLASS("_TtC9ShuftiPro15GPSAddressModel")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UIScrollView;
 SWIFT_CLASS("_TtC9ShuftiPro24GPSAddressViewController")
 @interface GPSAddressViewController : UIViewController <UINavigationControllerDelegate>
 @property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified instructionLabel;
@@ -1876,6 +1894,25 @@ SWIFT_CLASS("_TtC9ShuftiPro26RetryServiceViewController")
 - (void)presentGeneralAlertInternetIssue;
 - (NSInteger)tableView:(UITableView * _Nonnull)_ numberOfRowsInSection:(NSInteger)_ SWIFT_WARN_UNUSED_RESULT;
 - (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)_ cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class WKUserContentController;
+@class WKScriptMessage;
+SWIFT_CLASS("_TtC9ShuftiPro28RiskAssessmentViewController")
+@interface RiskAssessmentViewController : UIViewController <WKNavigationDelegate, WKScriptMessageHandler>
+@property (nonatomic, strong) IBOutlet UIImageView * _Null_unspecified loaderGifImageView;
+@property (nonatomic, strong) IBOutlet UIView * _Null_unspecified loaderContainerView;
+@property (nonatomic, strong) IBOutlet ShuftiExtendedUIlabel * _Null_unspecified labelLoading;
+- (void)viewDidLoad;
+- (void)viewWillAppear:(BOOL)animated;
+- (void)viewWillDisappear:(BOOL)animated;
+- (void)swipeRightGestureWithGesture:(UISwipeGestureRecognizer * _Nonnull)gesture;
+- (void)webView:(WKWebView * _Nonnull)_ didFinishNavigation:(WKNavigation * _Null_unspecified)_;
+- (void)webView:(WKWebView * _Nonnull)_ didFailNavigation:(WKNavigation * _Null_unspecified)_ withError:(NSError * _Nonnull)_;
+- (void)webView:(WKWebView * _Nonnull)webView decidePolicyForNavigationAction:(WKNavigationAction * _Nonnull)navigationAction decisionHandler:(void (^ _Nonnull)(WKNavigationActionPolicy))decisionHandler;
+- (void)userContentController:(WKUserContentController * _Nonnull)userContentController didReceiveScriptMessage:(WKScriptMessage * _Nonnull)message;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

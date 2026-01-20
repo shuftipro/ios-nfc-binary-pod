@@ -150,7 +150,7 @@
 		</data>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<data>
-		pNsUMWAuGEEVgQhK+IOuAA9otaw=
+		saamp0NN/Ta7t/RnIFjZg16YLQw=
 		</data>
 		<key>Headers/ShuftiPro.h</key>
 		<data>
@@ -270,11 +270,11 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		OzPsiicOr0N7kws801kHenQN18A=
+		E4zVBPKqZwLJY36UWGjGvzVMuFo=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		W7Aqv4iSpP0LhlNbdg2DfhDov3k=
+		FP6ZgLESBlWuqpb7x9drJit0PWw=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -282,11 +282,11 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		W7Aqv4iSpP0LhlNbdg2DfhDov3k=
+		FP6ZgLESBlWuqpb7x9drJit0PWw=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		jLWI5ipFdonPmVLfVXsjyJCRN2o=
+		JdO1Q8kM0/5ZzWK9vwHBBNl71zI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -402,7 +402,7 @@
 		</data>
 		<key>ProofCapturing.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		vJCAhdPZpCHviNtto3hJbI64U9w=
+		81/Sf8cHWA+vfFgbjzIvtWmRyJA=
 		</data>
 		<key>ProofPreview.storyboardc/Info.plist</key>
 		<data>
@@ -467,6 +467,18 @@
 		<key>RetryService.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
 		TuvVMFa3Bwskb7YDRdlBqiDomZo=
+		</data>
+		<key>RiskAssessment.storyboardc/Info.plist</key>
+		<data>
+		aEFZjsESuQymmWH28QU/aDdnnbE=
+		</data>
+		<key>RiskAssessment.storyboardc/RiskAssessmentViewController.nib</key>
+		<data>
+		8zEXTfcVlYZIZZsF1yClr5QIUrU=
+		</data>
+		<key>RiskAssessment.storyboardc/cDb-L1-NPl-view-hSo-hi-7Le.nib</key>
+		<data>
+		mWg2MjVV0DGrucvtonRvkaPrvDw=
 		</data>
 		<key>SelectCountry.storyboardc/Info.plist</key>
 		<data>
@@ -674,7 +686,7 @@
 		</data>
 		<key>masterList.pem</key>
 		<data>
-		HNwosUzqJc4R0PIIfgEyzFjtaDg=
+		Mskw4QTguZEjMjdVd8PqiPRAj+M=
 		</data>
 		<key>nfc_idcard.json</key>
 		<data>
@@ -1031,7 +1043,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZWkTvDbYp940YvY/FdaRb6TJGR4PQvf6uomD28kVMsY=
+			qRmzIR7f7Z+QnJDdHcS0dYu+tdnrgh3aXl1rCqLqUkM=
 			</data>
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
@@ -1234,14 +1246,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ewMEDLYaOGyemVmf4rtFkBivhEsGqTQf00QHk2ondkg=
+			lg9w6QcKZE/XKCD9hmW6YpTeJ4mRnjlW2AGI1dqsXnw=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RWJnn2chrvcgLBMTW8BoaE0H7oXujrxQiLyK4rLGJZA=
+			ojvEw4iFqEjjJ72forPKqTtbZb7v2z4ZnhelFB0E+GA=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -1255,14 +1267,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RWJnn2chrvcgLBMTW8BoaE0H7oXujrxQiLyK4rLGJZA=
+			ojvEw4iFqEjjJ72forPKqTtbZb7v2z4ZnhelFB0E+GA=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c5rbuSxYzXo5MWdE59vMAQaCLIEJ6F0f+GNnmfbcRkw=
+			WFSVdFA8cebkoGs03eZuUvWUNUOFIKgTn0vRcgnEA+Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1465,7 +1477,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AN71f72OOwbHT6kzEA0ObW2hUF18EiP7RaSORzdp+4I=
+			xuNjsQhxN/RHgzxtqkZEEwjJF0Mwb8Q8EgA79to5Cyc=
 			</data>
 		</dict>
 		<key>ProofPreview.storyboardc/Info.plist</key>
@@ -1578,6 +1590,27 @@
 			<key>hash2</key>
 			<data>
 			eDPZkvV1fdsHzWE+HVyXNZDG5ua6VdTxf1+IIDXihvY=
+			</data>
+		</dict>
+		<key>RiskAssessment.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qlXtde9gYZuMUG3ymjBMul5oDonGOZHBdi/oLy2ikJY=
+			</data>
+		</dict>
+		<key>RiskAssessment.storyboardc/RiskAssessmentViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Om7Op7BuGg3UfyIOv3yVXQdbvbBsPH9GWkFlM8qc0h8=
+			</data>
+		</dict>
+		<key>RiskAssessment.storyboardc/cDb-L1-NPl-view-hSo-hi-7Le.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hiKkA2ZA1sfGomIcdrOMScxheu1I9IoYUaEu+Jmxdeg=
 			</data>
 		</dict>
 		<key>SelectCountry.storyboardc/Info.plist</key>
@@ -1941,7 +1974,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GvjzM0F4EV0mCXel2RbSMKSzccrr1EFfhgKOwnTAkL8=
+			0hyWMe+wKW7CfeZGsILjO813W6z0SSZ+nOojVclWpHM=
 			</data>
 		</dict>
 		<key>nfc_idcard.json</key>
