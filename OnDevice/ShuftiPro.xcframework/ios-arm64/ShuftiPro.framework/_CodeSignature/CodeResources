@@ -186,7 +186,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		iB4UVbfSfabHR7862GkuBOmFM0g=
+		rrAy1eYAOLFuTsZIK8S8ABbtSYg=
 		</data>
 		<key>InternetIssuePopUp.nib</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		uNR2VN1BUWD+qcXV7rC/3kNYMqw=
+		cM4sZYRzGReVaYOEy+QHAWt11v4=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -270,11 +270,11 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		QfrLNlCgw8bvvPcNSQPurQ58q1M=
+		KLDmuFnUEUbRExuxV1RDvc3qK2A=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		hGfdWugidMpT06B0BUqD4UVWcZI=
+		4uEgoT5X40tX2uIfY0gMjUAYDxY=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -282,11 +282,11 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		hGfdWugidMpT06B0BUqD4UVWcZI=
+		4uEgoT5X40tX2uIfY0gMjUAYDxY=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		kITSyONFYefFOy2wwqjweoUnHLI=
+		PKoyxDYtOIOFIHjTQO2hnFBtyAM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1134,7 +1134,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hi1sm92LlTquPGfVPLZ8IAwE1GCDDhVXvhv8wvUQmCQ=
+			U4mp8dPLSJFk35Hpnw5FaclmsimCIuJMncWi1tl6iNQ=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1246,14 +1246,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rJL/1a+bqNH2zRIxKZixjh0axlcWkjrQ5Ene7a0yvJs=
+			Z+VQebm6XHKtw09iFg22wPcjIC1AIleftIZSKAJ4rJM=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MlHQY2hUl4iD7L6+0txM6BoG8uu6xgoX5RLGAux+IHo=
+			xDYO3a0pzq83gp9goAULM1jO3mqn0Ki35DQ+3YpOodU=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -1267,14 +1267,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MlHQY2hUl4iD7L6+0txM6BoG8uu6xgoX5RLGAux+IHo=
+			xDYO3a0pzq83gp9goAULM1jO3mqn0Ki35DQ+3YpOodU=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqMHGgEuCFVTmk+u/HMzkr08jaUy004a49ZjDzCHRik=
+			kDO+DO4VkIDrmsEED1YqPEzRALle3Ew6FKJ+LXTfqYE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
