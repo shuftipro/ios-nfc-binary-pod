@@ -7,5 +7,4 @@ framework module ShuftiPro {
 
 module ShuftiPro.Swift {
   header "ShuftiPro-Swift.h"
-  requires objc
 }

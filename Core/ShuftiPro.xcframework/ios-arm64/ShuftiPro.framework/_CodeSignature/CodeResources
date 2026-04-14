@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		6AKm1/xRz16hn6jII/cLX0RLlNw=
+		vsmEgK3V6bCvEXDABLmrtONhIbU=
 		</data>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<data>
-		LpVs7Ek4L/cVywuTLIQEASLOI6U=
+		a0WzqLlwi2zDMhbW9STb9IlKa9k=
 		</data>
 		<key>Headers/ShuftiPro.h</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vo+he2rk1+zS0jrJ8X5qUP3voEM=
+		RjMB04+08jrHjGhNE2iSidsaPws=
 		</data>
 		<key>InternetIssuePopUp.nib</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		yp5oE7z9efAhBJaOytC1Ay9ZLWk=
+		5enAHXE2iUKOLAUeCP6O7UOg45U=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -270,27 +270,27 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Bm+KTaWdQWeu0uJzPBjyqgviRbU=
+		9Od3Z0AXhsDPZiiLi7xG+JguRdU=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		ITO/Evz6fvQq8hwNeiMgpuiyhBs=
+		XKTjLytWnJbD325+JGaOjAwXP+c=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		/FudmBtPSk/QbRNXWYQjD6v8CNo=
+		3tLLpBTV12wQ+qzSeNwH7p4wzDY=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		ITO/Evz6fvQq8hwNeiMgpuiyhBs=
+		XKTjLytWnJbD325+JGaOjAwXP+c=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Y02aUpL6aUdm2GhQdy6OPKvhxTA=
+		fZYLENFw8D74SSvsAOkoPLxz9o8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		AeTAvGBHxwGn590jtD4pvjzyJRM=
+		JyBy7j+a7x2Fi/f6/RMaESqT8ig=
 		</data>
 		<key>MultiSelectedFilterCollectionViewCell.nib</key>
 		<data>
@@ -378,7 +378,7 @@
 		</data>
 		<key>PhoneEmailInput.storyboardc/yNj-G0-2LL-view-E8v-Hc-GEB.nib</key>
 		<data>
-		N8dHGVOlUQq73Vy4cJREo2HjedE=
+		TR96xCS7J7BYv55d1SMz7Js+Qiw=
 		</data>
 		<key>PickedFilesCollectionViewCell.nib</key>
 		<data>
@@ -812,7 +812,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XQDkOR0W0dhf646khrWIjWoKEX4edgLmAqFYQzOFtgc=
+			Pje2nJpZj3WSQeV8c3j42Gn70r2PscvG0GiNY4fFEsg=
 			</data>
 		</dict>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
@@ -1043,7 +1043,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zBpxiBpMGnJgr6WkY87aQAn1NFREhCdcwblTUaPd7U4=
+			y8LZEljzEuqEaUUTFzbJJ7s2iC7NLWsv9T7rzBpIKlI=
 			</data>
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
@@ -1134,7 +1134,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HPUdNxypcTZ4qXnhgxADjhwATqi4sHvFsLWbBhM7RVA=
+			8GWwJeJUI9dw+tmVtbaJM4EE65AJWaKqdCN5t7Fj+YM=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1246,42 +1246,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+eZgeK9XFiq0QgzJxrGkSOdMkSxHoWaxEUD0zKrWhB8=
+			2/jzti5aA/9skv3x1E7Ts6D9vcpgqThIpJ9u5Xt/XnQ=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5pHMPJn52xDuGleNxesMb6B38WVNWZahPqc1JsGIbks=
+			49PuyuYCnSHJkLKdMA2YGF/k444UQkQ7ojxcJcYrDok=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VR7q/H5B6Ni+wPtEAHf8xFrPVojiCAbSP0rNpo25jAw=
+			8usalB4/qzJvpQZvIUZq5nJDpIp77vPDbJ2ZsHbrhTY=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5pHMPJn52xDuGleNxesMb6B38WVNWZahPqc1JsGIbks=
+			49PuyuYCnSHJkLKdMA2YGF/k444UQkQ7ojxcJcYrDok=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zUf/j/8EV3yWYdAf1XFswgm3DIwav/46J6S0sYFBh3g=
+			YS5K84/BZkBXvCTmxxkjD7uJ3uZrtuFpsRgH/yg0zoI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WNyZzQpAEKT+xqBs1R6DhDh6divM3t4bc3BNfISA/uo=
+			hyLZtC6feQx/iOCQfxyxvyVPNwOdveITYo8xd8fXO/g=
 			</data>
 		</dict>
 		<key>MultiSelectedFilterCollectionViewCell.nib</key>
@@ -1435,7 +1435,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gfiP2J4gtmkK8oB2CGAlsswMsKN6xs89tJEVH3sUl5g=
+			39WNwrBitRrG5aKfwS84ucWeeLLhfMDJftv3OdBlprs=
 			</data>
 		</dict>
 		<key>PickedFilesCollectionViewCell.nib</key>
