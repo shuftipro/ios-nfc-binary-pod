@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		vsmEgK3V6bCvEXDABLmrtONhIbU=
+		VbqMGZR5XRUVQ33PqbPtLRGEYAg=
 		</data>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Headers/ShuftiPro-Swift.h</key>
 		<data>
-		a0WzqLlwi2zDMhbW9STb9IlKa9k=
+		ZkK905lZy0gpQEWbdz9l4pmlHCQ=
 		</data>
 		<key>Headers/ShuftiPro.h</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RjMB04+08jrHjGhNE2iSidsaPws=
+		DY9HiPjvCzl+3fB1KKTWEK0ZLgM=
 		</data>
 		<key>InternetIssuePopUp.nib</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		5enAHXE2iUKOLAUeCP6O7UOg45U=
+		+KSrXpSRrzxBiYP4fYIHpy2U2S8=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -270,23 +270,23 @@
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9Od3Z0AXhsDPZiiLi7xG+JguRdU=
+		b7Arw3AIfVQKTYxSD3WEPui/Sjs=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		XKTjLytWnJbD325+JGaOjAwXP+c=
+		hU9wNHj5BOWKqNzYA5pBAxhPdzY=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		3tLLpBTV12wQ+qzSeNwH7p4wzDY=
+		Zg5iTskVpG/ie5/H6K4xkaQe0mU=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		XKTjLytWnJbD325+JGaOjAwXP+c=
+		hU9wNHj5BOWKqNzYA5pBAxhPdzY=
 		</data>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		fZYLENFw8D74SSvsAOkoPLxz9o8=
+		vQvmjCXUnOgC+Rq3i/lQbm2210o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -686,7 +686,7 @@
 		</data>
 		<key>masterList.pem</key>
 		<data>
-		Mskw4QTguZEjMjdVd8PqiPRAj+M=
+		hyydxpfiu4MT43TrIkoAH9Tx6SA=
 		</data>
 		<key>nfc_idcard.json</key>
 		<data>
@@ -812,7 +812,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pje2nJpZj3WSQeV8c3j42Gn70r2PscvG0GiNY4fFEsg=
+			HBFhpasLSFtFek+MoCJs8+U3HceN14tt8fc59FkbhIs=
 			</data>
 		</dict>
 		<key>CameraInstruction.storyboardc/CameraInstructionViewController.nib</key>
@@ -1043,7 +1043,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y8LZEljzEuqEaUUTFzbJJ7s2iC7NLWsv9T7rzBpIKlI=
+			W7C1NEFYWAAZtbhtx7Id0BtfQpQLgr02LOGNUvO/s0M=
 			</data>
 		</dict>
 		<key>Headers/ShuftiPro.h</key>
@@ -1134,7 +1134,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8GWwJeJUI9dw+tmVtbaJM4EE65AJWaKqdCN5t7Fj+YM=
+			dPXRvosJwfMTlsC3agRPNUPnfO2kWiv67dtTt5u3AHA=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -1246,35 +1246,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/jzti5aA/9skv3x1E7Ts6D9vcpgqThIpJ9u5Xt/XnQ=
+			BI4IxCFUjkEcT99UrbqkN369NdxIOp1fKUARDax8jF0=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			49PuyuYCnSHJkLKdMA2YGF/k444UQkQ7ojxcJcYrDok=
+			HbM4HUE5f/Evf3ssa57ae/AOyFTCENtFOwf7Z0c7+jY=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8usalB4/qzJvpQZvIUZq5nJDpIp77vPDbJ2ZsHbrhTY=
+			Chrumw8vTlgOiqXy34K0mt1f8DHpELZaGW3GBHeQnpU=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			49PuyuYCnSHJkLKdMA2YGF/k444UQkQ7ojxcJcYrDok=
+			HbM4HUE5f/Evf3ssa57ae/AOyFTCENtFOwf7Z0c7+jY=
 			</data>
 		</dict>
 		<key>Modules/ShuftiPro.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YS5K84/BZkBXvCTmxxkjD7uJ3uZrtuFpsRgH/yg0zoI=
+			Tois8RIM8ldMzr6P872hX/qYJZwDE28BBgHZLyQooxM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1974,7 +1974,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0hyWMe+wKW7CfeZGsILjO813W6z0SSZ+nOojVclWpHM=
+			OlmXrIKS1rX+NFDGXTLYdeptI49Yi+oXaqmyHB8opnE=
 			</data>
 		</dict>
 		<key>nfc_idcard.json</key>
